@@ -1,3 +1,27 @@
 [build]
   publish = "web"
   functions = "functions"
+
+[functions]
+  # Make sure non-code assets are bundled with your functions
+  node_bundler = "esbuild"
+  included_files = [
+    "data-samples/**",
+    "models/**"
+  ]
+
+# Pretty URLs for your static pages
+[[redirects]]
+from = "/pocs/health"
+to = "/pocs/health.html"
+status = 200
+
+[[redirects]]
+from = "/pocs/risk"
+to = "/pocs/risk.html"
+status = 200
+
+[[redirects]]
+from = "/pocs/pulse"
+to = "/pocs/pulse.html"
+status = 200
