@@ -1,0 +1,90 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Org Pulse – Thick Sinking Hats</title>
+    <style>
+      body{font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;margin:24px;}
+      .row{display:flex;gap:16px;flex-wrap:wrap;}
+      .card{flex:1;min-width:260px;border:1px solid #ddd;border-radius:12px;padding:16px;box-shadow:0 2px 6px rgba(0,0,0,0.05);}
+      .muted{color:#666}
+      .topics span{display:inline-block;margin:4px;padding:4px 8px;border:1px solid #eee;border-radius:999px;}
+      input,select,button{font-size:14px;padding:8px;border-radius:8px;border:1px solid #ccc;}
+      button{cursor:pointer}
+      #trend{height:120px;width:100%;border:1px dashed #ddd;border-radius:8px;display:flex;align-items:flex-end;padding:8px;gap:2px;}
+      .bar{width:10px;background:#9aa7ff;}
+      .alert{background:#fff3cd;border:1px solid #ffeeba;padding:8px;border-radius:8px;margin-top:8px;}
+    </style>
+  </head>
+  <body>
+    <h2>Org Pulse</h2>
+    <div class="row">
+      <div class="card">
+        <label>Team&nbsp;
+          <select id="team">
+            <option>RISK-OPS</option>
+            <option>ENG-PLATFORM</option>
+            <option>FIN-OPS</option>
+            <option>CS-SUPPORT</option>
+          </select>
+        </label>
+        <label>Period&nbsp;
+          <select id="period">
+            <option value="last_60d">Last 60 days</option>
+            <option value="last_30d">Last 30 days</option>
+          </select>
+        </label>
+        <button onclick="loadData()">Refresh</button>
+        <p class="muted">Sample data; anonymous pulse only for demo.</p>
+      </div>
+      <div class="card">
+        <h3>Avg Pulse</h3>
+        <div id="avg" style="font-size:36px;">–</div>
+        <div id="neg" class="muted">Negative: –</div>
+      </div>
+      <div class="card">
+        <h3>Top Topics</h3>
+        <div class="topics" id="topics"></div>
+      </div>
+    </div>
+    <div class="card">
+      <h3>Trend (weekly avg)</h3>
+      <div id="trend"></div>
+      <div id="alerts"></div>
+    </div>
+
+    <script>
+      async function loadData(){
+        const t = document.getElementById('team').value;
+        const p = document.getElementById('period').value;
+        const res = await fetch(`/.netlify/functions/pulse_aggregate?team_id=${encodeURIComponent(t)}&period=${encodeURIComponent(p)}`);
+        const d = await res.json();
+        document.getElementById('avg').innerText = d.avg.toFixed(2);
+        document.getElementById('neg').innerText = `Negative: ${(d.neg_rate*100).toFixed(0)}%`;
+        // topics
+        const topics = document.getElementById('topics'); topics.innerHTML='';
+        d.topics.forEach(x => {
+          const el = document.createElement('span'); el.textContent = `${x.name} ${(x.share*100).toFixed(0)}%`;
+          topics.appendChild(el);
+        });
+        // trend bars
+        const trend = document.getElementById('trend'); trend.innerHTML='';
+        const max = Math.max(...d.trend_weekly, 5);
+        d.trend_weekly.forEach(v=>{
+          const bar = document.createElement('div');
+          bar.className='bar';
+          bar.style.height = `${(v/max)*100}%`;
+          trend.appendChild(bar);
+        });
+        // alerts
+        const alerts = document.getElementById('alerts'); alerts.innerHTML='';
+        d.alerts.forEach(a=>{
+          const el = document.createElement('div'); el.className='alert'; el.textContent = `${a.severity.toUpperCase()}: ${a.reason}`;
+          alerts.appendChild(el);
+        });
+      }
+      loadData();
+    </script>
+  </body>
+</html>

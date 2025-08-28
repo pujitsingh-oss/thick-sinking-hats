@@ -1,0 +1,61 @@
+{
+  "workload": [
+    "late",
+    "overtime",
+    "deadline",
+    "tickets",
+    "alerts",
+    "oncall",
+    "pages",
+    "backlog",
+    "queue"
+  ],
+  "manager": [
+    "feedback",
+    "review",
+    "support",
+    "micromanage",
+    "guidance",
+    "communication",
+    "1:1",
+    "one-on-one"
+  ],
+  "pay": [
+    "reimburse",
+    "bonus",
+    "variable",
+    "salary",
+    "tds",
+    "payroll",
+    "arrears",
+    "compensation",
+    "hike"
+  ],
+  "process": [
+    "policy",
+    "process",
+    "approval",
+    "SLA",
+    "turnaround",
+    "SOP",
+    "exception"
+  ],
+  "culture": [
+    "culture",
+    "belonging",
+    "team",
+    "respect",
+    "toxic",
+    "values",
+    "inclusion"
+  ],
+  "growth": [
+    "promotion",
+    "career",
+    "learning",
+    "training",
+    "course",
+    "ladder",
+    "level"
+  ]
+}

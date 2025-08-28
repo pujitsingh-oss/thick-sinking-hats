@@ -1,0 +1,59 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Manager Risk – Thick Sinking Hats</title>
+    <style>
+      body{font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;margin:24px;}
+      .card{border:1px solid #ddd;border-radius:12px;padding:16px;box-shadow:0 2px 6px rgba(0,0,0,0.05);margin-bottom:12px;}
+      table{border-collapse:collapse;width:100%;}
+      th,td{border-bottom:1px solid #eee;padding:8px;text-align:left;}
+      .chip{display:inline-block;padding:2px 8px;border-radius:999px;border:1px solid #eee;margin-right:6px;}
+      input,select,button{font-size:14px;padding:8px;border-radius:8px;border:1px solid #ccc;}
+      button{cursor:pointer}
+    </style>
+  </head>
+  <body>
+    <h2>Manager Risk (Demo)</h2>
+    <div class="card">
+      <label>Team&nbsp;
+        <select id="team">
+          <option>RISK-OPS</option>
+          <option>ENG-PLATFORM</option>
+          <option>FIN-OPS</option>
+          <option>CS-SUPPORT</option>
+        </select>
+      </label>
+      <button onclick="loadScores()">Refresh</button>
+      <p style="color:#666">Demo shows anonymized emp_hash only. In a real app, join with HRIS for names (restricted access).</p>
+    </div>
+    <div class="card">
+      <table id="tbl">
+        <thead><tr><th>emp_hash</th><th>risk</th><th>top reasons</th></tr></thead>
+        <tbody></tbody>
+      </table>
+    </div>
+    <script>
+      async function loadScores(){
+        const t = document.getElementById('team').value;
+        const res = await fetch(`/.netlify/functions/attrition_score?team_id=${encodeURIComponent(t)}&top_k=10`);
+        const d = await res.json();
+        const tbody = document.querySelector('#tbl tbody'); tbody.innerHTML='';
+        d.members.forEach(m=>{
+          const tr = document.createElement('tr');
+          const td1 = document.createElement('td'); td1.textContent = m.emp_hash;
+          const td2 = document.createElement('td'); td2.textContent = (m.risk*100).toFixed(0)+'%';
+          const td3 = document.createElement('td');
+          m.reasons.forEach(r=>{
+            const chip = document.createElement('span'); chip.className='chip'; chip.textContent = `${r.feature}:${r.impact>0?'+':''}${r.impact}`;
+            td3.appendChild(chip);
+          });
+          tr.appendChild(td1); tr.appendChild(td2); tr.appendChild(td3);
+          tbody.appendChild(tr);
+        });
+      }
+      loadScores();
+    </script>
+  </body>
+</html>

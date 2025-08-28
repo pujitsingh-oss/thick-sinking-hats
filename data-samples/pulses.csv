@@ -1,0 +1,2224 @@
+timestamp,team_id,emp_hash,rating_1to5,comment_text
+2025-06-19,ENG-PLATFORM,386ea9c1908c,5,Too many alerts this sprint
+2025-06-19,ENG-PLATFORM,cab95421fd1d,3,Waiting on reimbursement
+2025-06-19,ENG-PLATFORM,261065c7e8c2,2,Manager support is decent
+2025-06-19,ENG-PLATFORM,20eae3948e94,4,Workload spiking near deadlines
+2025-06-19,ENG-PLATFORM,386ea9c1908c,2,Good learning last week
+2025-06-19,ENG-PLATFORM,6f323a85838a,4,Workload spiking near deadlines
+2025-06-19,RISK-OPS,c9202ac25327,4,Need career path clarity
+2025-06-19,RISK-OPS,2b21ea99c2cb,3,Too many alerts this sprint
+2025-06-19,RISK-OPS,65eb7ae11d36,2,Waiting on reimbursement
+2025-06-19,RISK-OPS,796b367c6c03,3,Culture improving
+2025-06-19,RISK-OPS,5ae114878fe7,2,Good learning last week
+2025-06-19,RISK-OPS,c441c44213ed,3,Manager support is decent
+2025-06-19,RISK-OPS,594548490b12,3,Manager support is decent
+2025-06-19,RISK-OPS,1c771609495b,3,Too many alerts this sprint
+2025-06-19,FIN-OPS,35f8c8fe812a,4,Manager support is decent
+2025-06-19,FIN-OPS,f86dad4f99d0,4,Manager support is decent
+2025-06-19,FIN-OPS,dacbf99a38e0,3,Culture improving
+2025-06-19,FIN-OPS,2f0472885eaa,3,Manager support is decent
+2025-06-19,FIN-OPS,12c12b2693f2,5,Good learning last week
+2025-06-19,CS-SUPPORT,ebf98a19cb32,3,Manager support is decent
+2025-06-19,CS-SUPPORT,2f6e56a45050,3,Payroll cutoff confusion
+2025-06-19,CS-SUPPORT,3c072731233c,3,Waiting on reimbursement
+2025-06-19,CS-SUPPORT,df83c83b6759,3,Good learning last week
+2025-06-19,CS-SUPPORT,64223f098aad,3,Manager support is decent
+2025-06-19,CS-SUPPORT,b1fd761c9bfc,5,Waiting on reimbursement
+2025-06-19,CS-SUPPORT,f905c3dc0105,5,Good learning last week
+2025-06-19,CS-SUPPORT,51aee1c13e89,4,Need career path clarity
+2025-06-19,CS-SUPPORT,e505b4d1a379,5,Good learning last week
+2025-06-20,ENG-PLATFORM,730a5bbebc37,2,Good learning last week
+2025-06-20,ENG-PLATFORM,e71591f90e53,2,Culture improving
+2025-06-20,ENG-PLATFORM,7e3d8f1cdd95,3,Manager support is decent
+2025-06-20,ENG-PLATFORM,843425aeec78,4,Culture improving
+2025-06-20,ENG-PLATFORM,843425aeec78,5,Payroll cutoff confusion
+2025-06-20,ENG-PLATFORM,48e277f16eab,5,Payroll cutoff confusion
+2025-06-20,ENG-PLATFORM,b99e1c243540,3,Waiting on reimbursement
+2025-06-20,ENG-PLATFORM,cab95421fd1d,5,Too many alerts this sprint
+2025-06-20,ENG-PLATFORM,62c15799ac06,4,Need career path clarity
+2025-06-20,ENG-PLATFORM,8c2215ab08bf,4,Need career path clarity
+2025-06-20,RISK-OPS,2b21ea99c2cb,2,Payroll cutoff confusion
+2025-06-20,RISK-OPS,594548490b12,2,Manager support is decent
+2025-06-20,RISK-OPS,cd4dd1beb52b,2,Need career path clarity
+2025-06-20,RISK-OPS,0cd6d1f6eb44,2,Need career path clarity
+2025-06-20,RISK-OPS,2f6e56a45050,4,Payroll cutoff confusion
+2025-06-20,RISK-OPS,874fefaa4a1c,3,Workload spiking near deadlines
+2025-06-20,RISK-OPS,76e54f039797,2,Too many alerts this sprint
+2025-06-20,RISK-OPS,342f2d338a38,3,Manager support is decent
+2025-06-20,RISK-OPS,4a61d470416d,3,Waiting on reimbursement
+2025-06-20,RISK-OPS,1f903ca452ec,2,Too many alerts this sprint
+2025-06-20,FIN-OPS,118ef7411dbd,2,Too many alerts this sprint
+2025-06-20,FIN-OPS,730a5bbebc37,5,Good learning last week
+2025-06-20,FIN-OPS,cd4dd1beb52b,3,Waiting on reimbursement
+2025-06-20,FIN-OPS,da7d4bb97c8d,4,Workload spiking near deadlines
+2025-06-20,FIN-OPS,0cd6d1f6eb44,3,Payroll cutoff confusion
+2025-06-20,FIN-OPS,932f9ef8af99,2,Culture improving
+2025-06-20,FIN-OPS,9ce55b01d9e6,3,Good learning last week
+2025-06-20,CS-SUPPORT,431c4fe44efd,4,Manager support is decent
+2025-06-20,CS-SUPPORT,ebf98a19cb32,5,Payroll cutoff confusion
+2025-06-20,CS-SUPPORT,063b54898bc9,2,Waiting on reimbursement
+2025-06-20,CS-SUPPORT,c2b2121c35da,5,Payroll cutoff confusion
+2025-06-20,CS-SUPPORT,dacbf99a38e0,3,Too many alerts this sprint
+2025-06-21,ENG-PLATFORM,843425aeec78,4,Good learning last week
+2025-06-21,ENG-PLATFORM,c9202ac25327,3,Need career path clarity
+2025-06-21,ENG-PLATFORM,64223f098aad,5,Culture improving
+2025-06-21,ENG-PLATFORM,367e82d0c267,4,Payroll cutoff confusion
+2025-06-21,ENG-PLATFORM,3d95247f129e,3,Good learning last week
+2025-06-21,ENG-PLATFORM,74e050844ced,3,Workload spiking near deadlines
+2025-06-21,ENG-PLATFORM,20eae3948e94,4,Good learning last week
+2025-06-21,ENG-PLATFORM,20eae3948e94,3,Workload spiking near deadlines
+2025-06-21,ENG-PLATFORM,1acf7e8fda5e,5,Workload spiking near deadlines
+2025-06-21,ENG-PLATFORM,6f323a85838a,2,Workload spiking near deadlines
+2025-06-21,ENG-PLATFORM,9069c6c5c535,3,Manager support is decent
+2025-06-21,RISK-OPS,5ae114878fe7,3,Good learning last week
+2025-06-21,RISK-OPS,da7d4bb97c8d,2,Payroll cutoff confusion
+2025-06-21,RISK-OPS,cab95421fd1d,3,Need career path clarity
+2025-06-21,RISK-OPS,2086812e1e39,2,Manager support is decent
+2025-06-21,RISK-OPS,67edb7a8e8fe,3,Culture improving
+2025-06-21,RISK-OPS,9cfc4f786ecf,3,Payroll cutoff confusion
+2025-06-21,RISK-OPS,9069c6c5c535,2,Manager support is decent
+2025-06-21,RISK-OPS,43f3618fdbad,3,Culture improving
+2025-06-21,FIN-OPS,cab95421fd1d,3,Good learning last week
+2025-06-21,FIN-OPS,f905c3dc0105,4,Waiting on reimbursement
+2025-06-21,FIN-OPS,9cfc4f786ecf,3,Too many alerts this sprint
+2025-06-21,FIN-OPS,788047dafc58,3,Manager support is decent
+2025-06-21,FIN-OPS,367e82d0c267,4,Manager support is decent
+2025-06-21,FIN-OPS,fe2a70fdf392,5,Workload spiking near deadlines
+2025-06-21,CS-SUPPORT,f86dad4f99d0,3,Waiting on reimbursement
+2025-06-21,CS-SUPPORT,9f77826ebed3,4,Payroll cutoff confusion
+2025-06-21,CS-SUPPORT,843425aeec78,4,Workload spiking near deadlines
+2025-06-21,CS-SUPPORT,24bf71145948,4,Workload spiking near deadlines
+2025-06-21,CS-SUPPORT,50567a292335,3,Payroll cutoff confusion
+2025-06-21,CS-SUPPORT,d07953451aaf,4,Payroll cutoff confusion
+2025-06-22,ENG-PLATFORM,2086812e1e39,3,Good learning last week
+2025-06-22,ENG-PLATFORM,43f3618fdbad,4,Workload spiking near deadlines
+2025-06-22,ENG-PLATFORM,62c15799ac06,3,Workload spiking near deadlines
+2025-06-22,ENG-PLATFORM,fe2a70fdf392,4,Payroll cutoff confusion
+2025-06-22,ENG-PLATFORM,118ef7411dbd,4,Waiting on reimbursement
+2025-06-22,ENG-PLATFORM,43f3618fdbad,4,Manager support is decent
+2025-06-22,ENG-PLATFORM,1c3cb3049c90,3,Manager support is decent
+2025-06-22,RISK-OPS,41a64d7e9787,2,Need career path clarity
+2025-06-22,RISK-OPS,3d95247f129e,4,Good learning last week
+2025-06-22,RISK-OPS,5581e8598db1,4,Workload spiking near deadlines
+2025-06-22,RISK-OPS,c9213eae3dbc,2,Need career path clarity
+2025-06-22,RISK-OPS,67edb7a8e8fe,4,Culture improving
+2025-06-22,RISK-OPS,6b67e9d9008f,3,Good learning last week
+2025-06-22,FIN-OPS,431c4fe44efd,3,Need career path clarity
+2025-06-22,FIN-OPS,c2b2121c35da,5,Too many alerts this sprint
+2025-06-22,FIN-OPS,1f903ca452ec,3,Manager support is decent
+2025-06-22,FIN-OPS,a2bcde3c7acd,4,Manager support is decent
+2025-06-22,FIN-OPS,1acf7e8fda5e,4,Good learning last week
+2025-06-22,FIN-OPS,118ef7411dbd,3,Waiting on reimbursement
+2025-06-22,FIN-OPS,6b67e9d9008f,3,Manager support is decent
+2025-06-22,FIN-OPS,9ce55b01d9e6,3,Culture improving
+2025-06-22,FIN-OPS,d07953451aaf,3,Payroll cutoff confusion
+2025-06-22,FIN-OPS,ae3fc8dad4c6,4,Too many alerts this sprint
+2025-06-22,CS-SUPPORT,64223f098aad,4,Too many alerts this sprint
+2025-06-22,CS-SUPPORT,6b67e9d9008f,5,Manager support is decent
+2025-06-22,CS-SUPPORT,9ce55b01d9e6,3,Too many alerts this sprint
+2025-06-22,CS-SUPPORT,d048f004ae50,2,Waiting on reimbursement
+2025-06-22,CS-SUPPORT,e505b4d1a379,3,Good learning last week
+2025-06-23,ENG-PLATFORM,a6acc0407327,5,Too many alerts this sprint
+2025-06-23,ENG-PLATFORM,118ef7411dbd,4,Too many alerts this sprint
+2025-06-23,ENG-PLATFORM,26dcde7c76cd,2,Manager support is decent
+2025-06-23,ENG-PLATFORM,3c072731233c,4,Too many alerts this sprint
+2025-06-23,ENG-PLATFORM,12c12b2693f2,2,Culture improving
+2025-06-23,ENG-PLATFORM,342f2d338a38,3,Too many alerts this sprint
+2025-06-23,ENG-PLATFORM,51aee1c13e89,5,Payroll cutoff confusion
+2025-06-23,ENG-PLATFORM,dacbf99a38e0,5,Need career path clarity
+2025-06-23,ENG-PLATFORM,51a8a8a6b734,2,Manager support is decent
+2025-06-23,ENG-PLATFORM,1acf7e8fda5e,5,Waiting on reimbursement
+2025-06-23,RISK-OPS,ae3fc8dad4c6,3,Waiting on reimbursement
+2025-06-23,RISK-OPS,a8c6a5afb514,2,Workload spiking near deadlines
+2025-06-23,RISK-OPS,4697a4eb35b0,3,Workload spiking near deadlines
+2025-06-23,RISK-OPS,26dcde7c76cd,3,Good learning last week
+2025-06-23,RISK-OPS,76e54f039797,2,Manager support is decent
+2025-06-23,FIN-OPS,4e39552e8ba3,4,Need career path clarity
+2025-06-23,FIN-OPS,c9213eae3dbc,5,Waiting on reimbursement
+2025-06-23,FIN-OPS,f86dad4f99d0,3,Waiting on reimbursement
+2025-06-23,FIN-OPS,c5b54be832cb,3,Need career path clarity
+2025-06-23,FIN-OPS,386ea9c1908c,3,Culture improving
+2025-06-23,FIN-OPS,5b6b72764a79,4,Good learning last week
+2025-06-23,FIN-OPS,e505b4d1a379,3,Manager support is decent
+2025-06-23,FIN-OPS,2f6e56a45050,2,Payroll cutoff confusion
+2025-06-23,FIN-OPS,2b21ea99c2cb,3,Payroll cutoff confusion
+2025-06-23,FIN-OPS,0defd3f62cf1,3,Good learning last week
+2025-06-23,CS-SUPPORT,386ea9c1908c,5,Good learning last week
+2025-06-23,CS-SUPPORT,7e3d8f1cdd95,3,Too many alerts this sprint
+2025-06-23,CS-SUPPORT,9069c6c5c535,2,Too many alerts this sprint
+2025-06-23,CS-SUPPORT,0defd3f62cf1,5,Need career path clarity
+2025-06-23,CS-SUPPORT,41a64d7e9787,4,Culture improving
+2025-06-23,CS-SUPPORT,386ea9c1908c,2,Too many alerts this sprint
+2025-06-23,CS-SUPPORT,a69f8dbf16c0,4,Too many alerts this sprint
+2025-06-23,CS-SUPPORT,4d781f77977b,2,Need career path clarity
+2025-06-24,ENG-PLATFORM,35f8c8fe812a,3,Need career path clarity
+2025-06-24,ENG-PLATFORM,b1fd761c9bfc,4,Manager support is decent
+2025-06-24,ENG-PLATFORM,50567a292335,4,Good learning last week
+2025-06-24,ENG-PLATFORM,397ec0744e99,2,Need career path clarity
+2025-06-24,ENG-PLATFORM,254e5d281a69,4,Good learning last week
+2025-06-24,ENG-PLATFORM,63d4352f9a2b,4,Manager support is decent
+2025-06-24,ENG-PLATFORM,64223f098aad,3,Culture improving
+2025-06-24,ENG-PLATFORM,67edb7a8e8fe,2,Too many alerts this sprint
+2025-06-24,ENG-PLATFORM,118ef7411dbd,3,Need career path clarity
+2025-06-24,ENG-PLATFORM,3e500fa1f2aa,4,Too many alerts this sprint
+2025-06-24,RISK-OPS,2086812e1e39,3,Need career path clarity
+2025-06-24,RISK-OPS,41a64d7e9787,2,Too many alerts this sprint
+2025-06-24,RISK-OPS,7e3d8f1cdd95,4,Workload spiking near deadlines
+2025-06-24,RISK-OPS,29b97656e8ee,3,Good learning last week
+2025-06-24,RISK-OPS,a8c6a5afb514,4,Culture improving
+2025-06-24,RISK-OPS,788047dafc58,3,Payroll cutoff confusion
+2025-06-24,RISK-OPS,41a64d7e9787,2,Payroll cutoff confusion
+2025-06-24,FIN-OPS,67edb7a8e8fe,2,Too many alerts this sprint
+2025-06-24,FIN-OPS,0b75213cac95,5,Culture improving
+2025-06-24,FIN-OPS,594548490b12,3,Too many alerts this sprint
+2025-06-24,FIN-OPS,2b21ea99c2cb,3,Waiting on reimbursement
+2025-06-24,FIN-OPS,386ea9c1908c,2,Good learning last week
+2025-06-24,FIN-OPS,81b4eac32d7a,4,Manager support is decent
+2025-06-24,FIN-OPS,1f903ca452ec,4,Good learning last week
+2025-06-24,CS-SUPPORT,f65b751f5aea,4,Good learning last week
+2025-06-24,CS-SUPPORT,b99e1c243540,5,Workload spiking near deadlines
+2025-06-24,CS-SUPPORT,8c2215ab08bf,2,Need career path clarity
+2025-06-24,CS-SUPPORT,2b21ea99c2cb,3,Payroll cutoff confusion
+2025-06-24,CS-SUPPORT,fe2a70fdf392,4,Good learning last week
+2025-06-24,CS-SUPPORT,d5d2de92b85b,2,Payroll cutoff confusion
+2025-06-24,CS-SUPPORT,999a20965980,4,Culture improving
+2025-06-24,CS-SUPPORT,661e62e71408,4,Need career path clarity
+2025-06-24,CS-SUPPORT,ae3fc8dad4c6,4,Payroll cutoff confusion
+2025-06-24,CS-SUPPORT,8c2215ab08bf,3,Payroll cutoff confusion
+2025-06-24,CS-SUPPORT,b5b3cd7d192c,3,Good learning last week
+2025-06-25,ENG-PLATFORM,342f2d338a38,4,Payroll cutoff confusion
+2025-06-25,ENG-PLATFORM,19b347aa0cd3,3,Too many alerts this sprint
+2025-06-25,ENG-PLATFORM,367e82d0c267,2,Too many alerts this sprint
+2025-06-25,ENG-PLATFORM,431c4fe44efd,3,Culture improving
+2025-06-25,ENG-PLATFORM,2b07266ee11b,4,Manager support is decent
+2025-06-25,ENG-PLATFORM,999a20965980,3,Good learning last week
+2025-06-25,ENG-PLATFORM,50567a292335,5,Waiting on reimbursement
+2025-06-25,ENG-PLATFORM,50e3c551bb29,3,Manager support is decent
+2025-06-25,ENG-PLATFORM,e0b3852f9439,4,Culture improving
+2025-06-25,RISK-OPS,e0b3852f9439,2,Good learning last week
+2025-06-25,RISK-OPS,ae3fc8dad4c6,3,Need career path clarity
+2025-06-25,RISK-OPS,26dcde7c76cd,4,Workload spiking near deadlines
+2025-06-25,RISK-OPS,ba353c5af803,4,Need career path clarity
+2025-06-25,RISK-OPS,79af63685d2c,2,Culture improving
+2025-06-25,RISK-OPS,29b97656e8ee,3,Need career path clarity
+2025-06-25,RISK-OPS,f905c3dc0105,4,Good learning last week
+2025-06-25,RISK-OPS,c82684ec8b83,2,Too many alerts this sprint
+2025-06-25,RISK-OPS,a8c6a5afb514,3,Workload spiking near deadlines
+2025-06-25,RISK-OPS,50567a292335,3,Need career path clarity
+2025-06-25,RISK-OPS,f90b99b25650,2,Payroll cutoff confusion
+2025-06-25,RISK-OPS,d5d2de92b85b,2,Workload spiking near deadlines
+2025-06-25,FIN-OPS,20eae3948e94,4,Workload spiking near deadlines
+2025-06-25,FIN-OPS,ebf98a19cb32,5,Need career path clarity
+2025-06-25,FIN-OPS,999a20965980,4,Waiting on reimbursement
+2025-06-25,FIN-OPS,fe2a70fdf392,3,Need career path clarity
+2025-06-25,FIN-OPS,3e500fa1f2aa,3,Payroll cutoff confusion
+2025-06-25,FIN-OPS,3e500fa1f2aa,3,Need career path clarity
+2025-06-25,FIN-OPS,5ae114878fe7,4,Too many alerts this sprint
+2025-06-25,FIN-OPS,ae3fc8dad4c6,2,Payroll cutoff confusion
+2025-06-25,FIN-OPS,932f9ef8af99,5,Workload spiking near deadlines
+2025-06-25,FIN-OPS,0defd3f62cf1,3,Manager support is decent
+2025-06-25,FIN-OPS,4e39552e8ba3,5,Workload spiking near deadlines
+2025-06-25,CS-SUPPORT,cab95421fd1d,3,Workload spiking near deadlines
+2025-06-25,CS-SUPPORT,c9213eae3dbc,3,Good learning last week
+2025-06-25,CS-SUPPORT,c2b2121c35da,4,Manager support is decent
+2025-06-25,CS-SUPPORT,ba0d2fb77d37,3,Payroll cutoff confusion
+2025-06-25,CS-SUPPORT,796b367c6c03,3,Culture improving
+2025-06-26,ENG-PLATFORM,b1fd761c9bfc,4,Manager support is decent
+2025-06-26,ENG-PLATFORM,4e39552e8ba3,3,Too many alerts this sprint
+2025-06-26,ENG-PLATFORM,d4bddd8e65f9,4,Workload spiking near deadlines
+2025-06-26,ENG-PLATFORM,f86dad4f99d0,3,Need career path clarity
+2025-06-26,ENG-PLATFORM,48e277f16eab,5,Good learning last week
+2025-06-26,ENG-PLATFORM,1acf7e8fda5e,4,Good learning last week
+2025-06-26,ENG-PLATFORM,d4bddd8e65f9,5,Too many alerts this sprint
+2025-06-26,RISK-OPS,4e6710db3210,4,Workload spiking near deadlines
+2025-06-26,RISK-OPS,0defd3f62cf1,4,Need career path clarity
+2025-06-26,RISK-OPS,67edb7a8e8fe,3,Manager support is decent
+2025-06-26,RISK-OPS,118ef7411dbd,3,Workload spiking near deadlines
+2025-06-26,RISK-OPS,1c3cb3049c90,3,Payroll cutoff confusion
+2025-06-26,RISK-OPS,d4bddd8e65f9,3,Culture improving
+2025-06-26,FIN-OPS,50e3c551bb29,3,Need career path clarity
+2025-06-26,FIN-OPS,a69f8dbf16c0,5,Too many alerts this sprint
+2025-06-26,FIN-OPS,c9b13c274f47,4,Payroll cutoff confusion
+2025-06-26,FIN-OPS,788047dafc58,4,Too many alerts this sprint
+2025-06-26,FIN-OPS,3e500fa1f2aa,3,Manager support is decent
+2025-06-26,FIN-OPS,5ae114878fe7,4,Good learning last week
+2025-06-26,FIN-OPS,661e62e71408,4,Need career path clarity
+2025-06-26,FIN-OPS,397f3205e12f,2,Payroll cutoff confusion
+2025-06-26,FIN-OPS,1c3cb3049c90,3,Waiting on reimbursement
+2025-06-26,FIN-OPS,c82684ec8b83,3,Culture improving
+2025-06-26,FIN-OPS,c5b54be832cb,3,Culture improving
+2025-06-26,FIN-OPS,5ae114878fe7,4,Too many alerts this sprint
+2025-06-26,CS-SUPPORT,631819e57e4c,3,Manager support is decent
+2025-06-26,CS-SUPPORT,431c4fe44efd,5,Need career path clarity
+2025-06-26,CS-SUPPORT,c82684ec8b83,4,Good learning last week
+2025-06-26,CS-SUPPORT,fe3dcaec9a4a,4,Payroll cutoff confusion
+2025-06-26,CS-SUPPORT,b5b3cd7d192c,2,Manager support is decent
+2025-06-27,ENG-PLATFORM,2b21ea99c2cb,4,Good learning last week
+2025-06-27,ENG-PLATFORM,4697a4eb35b0,5,Culture improving
+2025-06-27,ENG-PLATFORM,81b4eac32d7a,4,Culture improving
+2025-06-27,ENG-PLATFORM,9cfc4f786ecf,5,Culture improving
+2025-06-27,ENG-PLATFORM,1c771609495b,5,Payroll cutoff confusion
+2025-06-27,ENG-PLATFORM,e505b4d1a379,3,Too many alerts this sprint
+2025-06-27,ENG-PLATFORM,6f323a85838a,2,Good learning last week
+2025-06-27,ENG-PLATFORM,2b07266ee11b,2,Waiting on reimbursement
+2025-06-27,ENG-PLATFORM,2086812e1e39,3,Payroll cutoff confusion
+2025-06-27,RISK-OPS,f90b99b25650,4,Too many alerts this sprint
+2025-06-27,RISK-OPS,748bdcbbdc1c,2,Too many alerts this sprint
+2025-06-27,RISK-OPS,6f323a85838a,3,Waiting on reimbursement
+2025-06-27,RISK-OPS,29b97656e8ee,2,Waiting on reimbursement
+2025-06-27,RISK-OPS,5ae114878fe7,2,Workload spiking near deadlines
+2025-06-27,RISK-OPS,dacbf99a38e0,3,Waiting on reimbursement
+2025-06-27,RISK-OPS,3c072731233c,3,Manager support is decent
+2025-06-27,RISK-OPS,a5412d220b3e,2,Too many alerts this sprint
+2025-06-27,RISK-OPS,81b4eac32d7a,3,Payroll cutoff confusion
+2025-06-27,FIN-OPS,1d8dcb5ae205,2,Too many alerts this sprint
+2025-06-27,FIN-OPS,9069c6c5c535,4,Manager support is decent
+2025-06-27,FIN-OPS,e71591f90e53,2,Need career path clarity
+2025-06-27,FIN-OPS,c82684ec8b83,2,Workload spiking near deadlines
+2025-06-27,FIN-OPS,cd4dd1beb52b,3,Too many alerts this sprint
+2025-06-27,FIN-OPS,ebf98a19cb32,3,Manager support is decent
+2025-06-27,FIN-OPS,51a8a8a6b734,4,Good learning last week
+2025-06-27,FIN-OPS,4e39552e8ba3,4,Need career path clarity
+2025-06-27,FIN-OPS,b5b3cd7d192c,4,Too many alerts this sprint
+2025-06-27,FIN-OPS,9069c6c5c535,4,Need career path clarity
+2025-06-27,CS-SUPPORT,ba0d2fb77d37,4,Workload spiking near deadlines
+2025-06-27,CS-SUPPORT,c9b13c274f47,5,Manager support is decent
+2025-06-27,CS-SUPPORT,c441c44213ed,3,Good learning last week
+2025-06-27,CS-SUPPORT,813efa59f985,5,Manager support is decent
+2025-06-27,CS-SUPPORT,51aee1c13e89,3,Waiting on reimbursement
+2025-06-27,CS-SUPPORT,dacbf99a38e0,2,Waiting on reimbursement
+2025-06-27,CS-SUPPORT,254e5d281a69,4,Payroll cutoff confusion
+2025-06-27,CS-SUPPORT,fe3dcaec9a4a,4,Payroll cutoff confusion
+2025-06-27,CS-SUPPORT,4a61d470416d,2,Good learning last week
+2025-06-28,ENG-PLATFORM,50e3c551bb29,3,Payroll cutoff confusion
+2025-06-28,ENG-PLATFORM,1acf7e8fda5e,5,Good learning last week
+2025-06-28,ENG-PLATFORM,f86dad4f99d0,3,Good learning last week
+2025-06-28,ENG-PLATFORM,9cfc4f786ecf,2,Good learning last week
+2025-06-28,ENG-PLATFORM,a170dfe93b1c,3,Too many alerts this sprint
+2025-06-28,ENG-PLATFORM,e71591f90e53,3,Manager support is decent
+2025-06-28,ENG-PLATFORM,43f3618fdbad,3,Too many alerts this sprint
+2025-06-28,ENG-PLATFORM,0cd6d1f6eb44,5,Too many alerts this sprint
+2025-06-28,ENG-PLATFORM,367e82d0c267,2,Payroll cutoff confusion
+2025-06-28,RISK-OPS,796b367c6c03,3,Too many alerts this sprint
+2025-06-28,RISK-OPS,118ef7411dbd,4,Payroll cutoff confusion
+2025-06-28,RISK-OPS,367e82d0c267,2,Workload spiking near deadlines
+2025-06-28,RISK-OPS,f1089229977a,3,Culture improving
+2025-06-28,RISK-OPS,b1fd761c9bfc,3,Workload spiking near deadlines
+2025-06-28,RISK-OPS,594548490b12,2,Workload spiking near deadlines
+2025-06-28,RISK-OPS,c441c44213ed,3,Workload spiking near deadlines
+2025-06-28,RISK-OPS,c441c44213ed,2,Payroll cutoff confusion
+2025-06-28,RISK-OPS,631819e57e4c,3,Too many alerts this sprint
+2025-06-28,FIN-OPS,5581e8598db1,4,Payroll cutoff confusion
+2025-06-28,FIN-OPS,594548490b12,4,Culture improving
+2025-06-28,FIN-OPS,9f77826ebed3,3,Culture improving
+2025-06-28,FIN-OPS,64223f098aad,2,Waiting on reimbursement
+2025-06-28,FIN-OPS,b6e5a7ed9cea,4,Payroll cutoff confusion
+2025-06-28,FIN-OPS,d07953451aaf,5,Need career path clarity
+2025-06-28,FIN-OPS,063b54898bc9,4,Workload spiking near deadlines
+2025-06-28,CS-SUPPORT,594548490b12,3,Too many alerts this sprint
+2025-06-28,CS-SUPPORT,3e500fa1f2aa,2,Need career path clarity
+2025-06-28,CS-SUPPORT,9069c6c5c535,4,Workload spiking near deadlines
+2025-06-28,CS-SUPPORT,67edb7a8e8fe,4,Payroll cutoff confusion
+2025-06-28,CS-SUPPORT,9f77826ebed3,2,Good learning last week
+2025-06-28,CS-SUPPORT,631819e57e4c,3,Payroll cutoff confusion
+2025-06-28,CS-SUPPORT,19b347aa0cd3,4,Workload spiking near deadlines
+2025-06-28,CS-SUPPORT,a6acc0407327,3,Waiting on reimbursement
+2025-06-28,CS-SUPPORT,f86dad4f99d0,3,Payroll cutoff confusion
+2025-06-28,CS-SUPPORT,9ce55b01d9e6,5,Payroll cutoff confusion
+2025-06-28,CS-SUPPORT,3d95247f129e,2,Good learning last week
+2025-06-28,CS-SUPPORT,50e3c551bb29,3,Too many alerts this sprint
+2025-06-29,ENG-PLATFORM,dacbf99a38e0,4,Manager support is decent
+2025-06-29,ENG-PLATFORM,2b21ea99c2cb,2,Payroll cutoff confusion
+2025-06-29,ENG-PLATFORM,3d95247f129e,5,Waiting on reimbursement
+2025-06-29,ENG-PLATFORM,f65b751f5aea,5,Too many alerts this sprint
+2025-06-29,ENG-PLATFORM,0b75213cac95,5,Too many alerts this sprint
+2025-06-29,RISK-OPS,ae3fc8dad4c6,3,Payroll cutoff confusion
+2025-06-29,RISK-OPS,cab95421fd1d,3,Waiting on reimbursement
+2025-06-29,RISK-OPS,50567a292335,2,Waiting on reimbursement
+2025-06-29,RISK-OPS,9069c6c5c535,2,Too many alerts this sprint
+2025-06-29,RISK-OPS,342f2d338a38,3,Culture improving
+2025-06-29,RISK-OPS,6b67e9d9008f,4,Too many alerts this sprint
+2025-06-29,RISK-OPS,e71591f90e53,2,Too many alerts this sprint
+2025-06-29,RISK-OPS,f90b99b25650,3,Payroll cutoff confusion
+2025-06-29,RISK-OPS,9069c6c5c535,2,Payroll cutoff confusion
+2025-06-29,RISK-OPS,f905c3dc0105,3,Culture improving
+2025-06-29,RISK-OPS,b6e5a7ed9cea,4,Need career path clarity
+2025-06-29,FIN-OPS,6b67e9d9008f,3,Good learning last week
+2025-06-29,FIN-OPS,796b367c6c03,3,Need career path clarity
+2025-06-29,FIN-OPS,6f323a85838a,4,Workload spiking near deadlines
+2025-06-29,FIN-OPS,2b07266ee11b,5,Payroll cutoff confusion
+2025-06-29,FIN-OPS,50e3c551bb29,4,Need career path clarity
+2025-06-29,FIN-OPS,67edb7a8e8fe,5,Waiting on reimbursement
+2025-06-29,FIN-OPS,f65b751f5aea,2,Waiting on reimbursement
+2025-06-29,FIN-OPS,118ef7411dbd,4,Culture improving
+2025-06-29,FIN-OPS,a5412d220b3e,2,Payroll cutoff confusion
+2025-06-29,FIN-OPS,748bdcbbdc1c,4,Payroll cutoff confusion
+2025-06-29,FIN-OPS,a2bcde3c7acd,5,Waiting on reimbursement
+2025-06-29,FIN-OPS,9f77826ebed3,5,Waiting on reimbursement
+2025-06-29,CS-SUPPORT,81b4eac32d7a,3,Culture improving
+2025-06-29,CS-SUPPORT,c9213eae3dbc,5,Need career path clarity
+2025-06-29,CS-SUPPORT,cb0c50916267,2,Culture improving
+2025-06-29,CS-SUPPORT,ba353c5af803,5,Need career path clarity
+2025-06-29,CS-SUPPORT,2b07266ee11b,5,Payroll cutoff confusion
+2025-06-29,CS-SUPPORT,a5412d220b3e,4,Workload spiking near deadlines
+2025-06-30,ENG-PLATFORM,431c4fe44efd,5,Too many alerts this sprint
+2025-06-30,ENG-PLATFORM,6f323a85838a,5,Manager support is decent
+2025-06-30,ENG-PLATFORM,a8c6a5afb514,2,Manager support is decent
+2025-06-30,ENG-PLATFORM,367e82d0c267,3,Too many alerts this sprint
+2025-06-30,ENG-PLATFORM,26dcde7c76cd,2,Workload spiking near deadlines
+2025-06-30,ENG-PLATFORM,3e500fa1f2aa,2,Too many alerts this sprint
+2025-06-30,RISK-OPS,df83c83b6759,3,Waiting on reimbursement
+2025-06-30,RISK-OPS,cab95421fd1d,4,Need career path clarity
+2025-06-30,RISK-OPS,ba0d2fb77d37,2,Waiting on reimbursement
+2025-06-30,RISK-OPS,a69f8dbf16c0,2,Need career path clarity
+2025-06-30,RISK-OPS,c9213eae3dbc,2,Payroll cutoff confusion
+2025-06-30,RISK-OPS,192db8c7278c,4,Waiting on reimbursement
+2025-06-30,RISK-OPS,6f323a85838a,3,Too many alerts this sprint
+2025-06-30,RISK-OPS,1f903ca452ec,3,Workload spiking near deadlines
+2025-06-30,RISK-OPS,26dcde7c76cd,3,Too many alerts this sprint
+2025-06-30,RISK-OPS,41a64d7e9787,4,Waiting on reimbursement
+2025-06-30,FIN-OPS,367e82d0c267,3,Too many alerts this sprint
+2025-06-30,FIN-OPS,3c072731233c,4,Too many alerts this sprint
+2025-06-30,FIN-OPS,1f903ca452ec,3,Good learning last week
+2025-06-30,FIN-OPS,50567a292335,4,Manager support is decent
+2025-06-30,FIN-OPS,431c4fe44efd,4,Culture improving
+2025-06-30,FIN-OPS,2f0472885eaa,3,Too many alerts this sprint
+2025-06-30,CS-SUPPORT,ae3fc8dad4c6,5,Need career path clarity
+2025-06-30,CS-SUPPORT,5ae114878fe7,2,Workload spiking near deadlines
+2025-06-30,CS-SUPPORT,192db8c7278c,4,Payroll cutoff confusion
+2025-06-30,CS-SUPPORT,ae3fc8dad4c6,3,Good learning last week
+2025-06-30,CS-SUPPORT,b1fd761c9bfc,3,Good learning last week
+2025-07-01,ENG-PLATFORM,c9213eae3dbc,3,Waiting on reimbursement
+2025-07-01,ENG-PLATFORM,19b347aa0cd3,2,Workload spiking near deadlines
+2025-07-01,ENG-PLATFORM,4697a4eb35b0,4,Workload spiking near deadlines
+2025-07-01,ENG-PLATFORM,5581e8598db1,3,Waiting on reimbursement
+2025-07-01,ENG-PLATFORM,594548490b12,3,Culture improving
+2025-07-01,ENG-PLATFORM,62c15799ac06,4,Waiting on reimbursement
+2025-07-01,ENG-PLATFORM,bbcdb08ce147,3,Culture improving
+2025-07-01,ENG-PLATFORM,874fefaa4a1c,4,Too many alerts this sprint
+2025-07-01,RISK-OPS,397ec0744e99,3,Too many alerts this sprint
+2025-07-01,RISK-OPS,62c15799ac06,3,Manager support is decent
+2025-07-01,RISK-OPS,788047dafc58,2,Waiting on reimbursement
+2025-07-01,RISK-OPS,661e62e71408,2,Need career path clarity
+2025-07-01,RISK-OPS,1c3cb3049c90,4,Culture improving
+2025-07-01,RISK-OPS,594548490b12,3,Workload spiking near deadlines
+2025-07-01,RISK-OPS,813efa59f985,4,Manager support is decent
+2025-07-01,FIN-OPS,df83c83b6759,5,Too many alerts this sprint
+2025-07-01,FIN-OPS,5581e8598db1,4,Culture improving
+2025-07-01,FIN-OPS,d4bddd8e65f9,5,Good learning last week
+2025-07-01,FIN-OPS,81b4eac32d7a,2,Culture improving
+2025-07-01,FIN-OPS,d5d2de92b85b,4,Good learning last week
+2025-07-01,FIN-OPS,a170dfe93b1c,2,Payroll cutoff confusion
+2025-07-01,FIN-OPS,192db8c7278c,5,Too many alerts this sprint
+2025-07-01,FIN-OPS,cb0c50916267,4,Manager support is decent
+2025-07-01,FIN-OPS,999a20965980,2,Workload spiking near deadlines
+2025-07-01,FIN-OPS,29b97656e8ee,4,Manager support is decent
+2025-07-01,FIN-OPS,748bdcbbdc1c,3,Waiting on reimbursement
+2025-07-01,FIN-OPS,50567a292335,4,Culture improving
+2025-07-01,CS-SUPPORT,20eae3948e94,5,Waiting on reimbursement
+2025-07-01,CS-SUPPORT,f1089229977a,4,Manager support is decent
+2025-07-01,CS-SUPPORT,ae3fc8dad4c6,4,Need career path clarity
+2025-07-01,CS-SUPPORT,5ae114878fe7,2,Culture improving
+2025-07-01,CS-SUPPORT,843425aeec78,4,Payroll cutoff confusion
+2025-07-01,CS-SUPPORT,431c4fe44efd,3,Manager support is decent
+2025-07-01,CS-SUPPORT,76e54f039797,3,Culture improving
+2025-07-01,CS-SUPPORT,43f3618fdbad,4,Too many alerts this sprint
+2025-07-01,CS-SUPPORT,2086812e1e39,2,Payroll cutoff confusion
+2025-07-01,CS-SUPPORT,594548490b12,5,Good learning last week
+2025-07-01,CS-SUPPORT,a170dfe93b1c,5,Workload spiking near deadlines
+2025-07-02,ENG-PLATFORM,5b6b72764a79,3,Good learning last week
+2025-07-02,ENG-PLATFORM,c2b2121c35da,4,Good learning last week
+2025-07-02,ENG-PLATFORM,74e050844ced,4,Good learning last week
+2025-07-02,ENG-PLATFORM,20eae3948e94,3,Good learning last week
+2025-07-02,ENG-PLATFORM,b6e5a7ed9cea,3,Workload spiking near deadlines
+2025-07-02,RISK-OPS,ba353c5af803,2,Waiting on reimbursement
+2025-07-02,RISK-OPS,da7d4bb97c8d,3,Waiting on reimbursement
+2025-07-02,RISK-OPS,d048f004ae50,2,Waiting on reimbursement
+2025-07-02,RISK-OPS,a2bcde3c7acd,3,Good learning last week
+2025-07-02,RISK-OPS,20eae3948e94,3,Workload spiking near deadlines
+2025-07-02,RISK-OPS,a69f8dbf16c0,3,Workload spiking near deadlines
+2025-07-02,RISK-OPS,c2b2121c35da,3,Manager support is decent
+2025-07-02,RISK-OPS,62c15799ac06,2,Payroll cutoff confusion
+2025-07-02,RISK-OPS,b5b3cd7d192c,3,Manager support is decent
+2025-07-02,FIN-OPS,118ef7411dbd,3,Workload spiking near deadlines
+2025-07-02,FIN-OPS,35f8c8fe812a,5,Too many alerts this sprint
+2025-07-02,FIN-OPS,1f903ca452ec,5,Workload spiking near deadlines
+2025-07-02,FIN-OPS,43f3618fdbad,4,Need career path clarity
+2025-07-02,FIN-OPS,9cfc4f786ecf,5,Manager support is decent
+2025-07-02,FIN-OPS,c82684ec8b83,5,Payroll cutoff confusion
+2025-07-02,FIN-OPS,1acf7e8fda5e,2,Culture improving
+2025-07-02,FIN-OPS,b1fd761c9bfc,3,Manager support is decent
+2025-07-02,FIN-OPS,c2b2121c35da,3,Culture improving
+2025-07-02,FIN-OPS,2f6e56a45050,4,Too many alerts this sprint
+2025-07-02,FIN-OPS,1f903ca452ec,4,Need career path clarity
+2025-07-02,FIN-OPS,748bdcbbdc1c,5,Manager support is decent
+2025-07-02,CS-SUPPORT,a8c6a5afb514,4,Good learning last week
+2025-07-02,CS-SUPPORT,9f77826ebed3,3,Payroll cutoff confusion
+2025-07-02,CS-SUPPORT,7e3d8f1cdd95,4,Manager support is decent
+2025-07-02,CS-SUPPORT,2b07266ee11b,4,Culture improving
+2025-07-02,CS-SUPPORT,64223f098aad,3,Culture improving
+2025-07-02,CS-SUPPORT,cd4dd1beb52b,5,Payroll cutoff confusion
+2025-07-02,CS-SUPPORT,74e050844ced,2,Manager support is decent
+2025-07-02,CS-SUPPORT,594548490b12,4,Manager support is decent
+2025-07-03,ENG-PLATFORM,65eb7ae11d36,3,Workload spiking near deadlines
+2025-07-03,ENG-PLATFORM,20eae3948e94,4,Culture improving
+2025-07-03,ENG-PLATFORM,64223f098aad,2,Need career path clarity
+2025-07-03,ENG-PLATFORM,1c771609495b,5,Need career path clarity
+2025-07-03,ENG-PLATFORM,a5412d220b3e,5,Workload spiking near deadlines
+2025-07-03,ENG-PLATFORM,d07953451aaf,4,Too many alerts this sprint
+2025-07-03,ENG-PLATFORM,1c771609495b,2,Good learning last week
+2025-07-03,ENG-PLATFORM,cd4dd1beb52b,5,Payroll cutoff confusion
+2025-07-03,ENG-PLATFORM,2b21ea99c2cb,2,Culture improving
+2025-07-03,ENG-PLATFORM,1c3cb3049c90,4,Culture improving
+2025-07-03,RISK-OPS,c441c44213ed,3,Good learning last week
+2025-07-03,RISK-OPS,65eb7ae11d36,3,Workload spiking near deadlines
+2025-07-03,RISK-OPS,b1fd761c9bfc,3,Workload spiking near deadlines
+2025-07-03,RISK-OPS,1d8dcb5ae205,3,Too many alerts this sprint
+2025-07-03,RISK-OPS,d5d2de92b85b,3,Culture improving
+2025-07-03,RISK-OPS,254e5d281a69,2,Waiting on reimbursement
+2025-07-03,FIN-OPS,74e050844ced,3,Workload spiking near deadlines
+2025-07-03,FIN-OPS,594548490b12,5,Good learning last week
+2025-07-03,FIN-OPS,2f6e56a45050,4,Payroll cutoff confusion
+2025-07-03,FIN-OPS,397f3205e12f,3,Culture improving
+2025-07-03,FIN-OPS,4697a4eb35b0,5,Culture improving
+2025-07-03,FIN-OPS,4e39552e8ba3,4,Manager support is decent
+2025-07-03,FIN-OPS,f1089229977a,2,Waiting on reimbursement
+2025-07-03,FIN-OPS,51aee1c13e89,4,Workload spiking near deadlines
+2025-07-03,FIN-OPS,41a64d7e9787,2,Too many alerts this sprint
+2025-07-03,FIN-OPS,367e82d0c267,5,Need career path clarity
+2025-07-03,FIN-OPS,c82684ec8b83,4,Payroll cutoff confusion
+2025-07-03,CS-SUPPORT,e505b4d1a379,3,Manager support is decent
+2025-07-03,CS-SUPPORT,0defd3f62cf1,4,Manager support is decent
+2025-07-03,CS-SUPPORT,d07953451aaf,5,Payroll cutoff confusion
+2025-07-03,CS-SUPPORT,874fefaa4a1c,5,Too many alerts this sprint
+2025-07-03,CS-SUPPORT,12c12b2693f2,3,Need career path clarity
+2025-07-03,CS-SUPPORT,0cd6d1f6eb44,2,Workload spiking near deadlines
+2025-07-03,CS-SUPPORT,a6acc0407327,3,Good learning last week
+2025-07-03,CS-SUPPORT,342f2d338a38,3,Too many alerts this sprint
+2025-07-03,CS-SUPPORT,4a61d470416d,3,Manager support is decent
+2025-07-03,CS-SUPPORT,254e5d281a69,4,Need career path clarity
+2025-07-03,CS-SUPPORT,a69f8dbf16c0,3,Need career path clarity
+2025-07-04,ENG-PLATFORM,118ef7411dbd,4,Culture improving
+2025-07-04,ENG-PLATFORM,1acf7e8fda5e,4,Workload spiking near deadlines
+2025-07-04,ENG-PLATFORM,a8c6a5afb514,2,Payroll cutoff confusion
+2025-07-04,ENG-PLATFORM,d5d2de92b85b,2,Culture improving
+2025-07-04,ENG-PLATFORM,2f0472885eaa,4,Need career path clarity
+2025-07-04,ENG-PLATFORM,50e3c551bb29,5,Need career path clarity
+2025-07-04,ENG-PLATFORM,4a61d470416d,2,Need career path clarity
+2025-07-04,ENG-PLATFORM,932f9ef8af99,3,Waiting on reimbursement
+2025-07-04,RISK-OPS,ae3fc8dad4c6,3,Manager support is decent
+2025-07-04,RISK-OPS,a8c6a5afb514,2,Good learning last week
+2025-07-04,RISK-OPS,a8c6a5afb514,4,Need career path clarity
+2025-07-04,RISK-OPS,874fefaa4a1c,2,Need career path clarity
+2025-07-04,RISK-OPS,a5412d220b3e,3,Culture improving
+2025-07-04,RISK-OPS,2b21ea99c2cb,3,Waiting on reimbursement
+2025-07-04,RISK-OPS,1acf7e8fda5e,4,Manager support is decent
+2025-07-04,RISK-OPS,874fefaa4a1c,4,Good learning last week
+2025-07-04,RISK-OPS,26dcde7c76cd,3,Culture improving
+2025-07-04,RISK-OPS,35f8c8fe812a,2,Good learning last week
+2025-07-04,RISK-OPS,d4bddd8e65f9,2,Too many alerts this sprint
+2025-07-04,RISK-OPS,bbcdb08ce147,2,Waiting on reimbursement
+2025-07-04,FIN-OPS,a69f8dbf16c0,5,Payroll cutoff confusion
+2025-07-04,FIN-OPS,788047dafc58,4,Payroll cutoff confusion
+2025-07-04,FIN-OPS,76e54f039797,4,Culture improving
+2025-07-04,FIN-OPS,9069c6c5c535,5,Culture improving
+2025-07-04,FIN-OPS,cd4dd1beb52b,4,Manager support is decent
+2025-07-04,FIN-OPS,81b4eac32d7a,4,Too many alerts this sprint
+2025-07-04,CS-SUPPORT,20eae3948e94,2,Culture improving
+2025-07-04,CS-SUPPORT,118ef7411dbd,2,Too many alerts this sprint
+2025-07-04,CS-SUPPORT,788047dafc58,4,Workload spiking near deadlines
+2025-07-04,CS-SUPPORT,43f3618fdbad,3,Too many alerts this sprint
+2025-07-04,CS-SUPPORT,1acf7e8fda5e,5,Manager support is decent
+2025-07-04,CS-SUPPORT,c9b13c274f47,4,Need career path clarity
+2025-07-04,CS-SUPPORT,788047dafc58,4,Workload spiking near deadlines
+2025-07-04,CS-SUPPORT,b5b3cd7d192c,4,Good learning last week
+2025-07-04,CS-SUPPORT,3e500fa1f2aa,4,Payroll cutoff confusion
+2025-07-05,ENG-PLATFORM,43f3618fdbad,4,Manager support is decent
+2025-07-05,ENG-PLATFORM,65eb7ae11d36,3,Manager support is decent
+2025-07-05,ENG-PLATFORM,118ef7411dbd,5,Waiting on reimbursement
+2025-07-05,ENG-PLATFORM,12c12b2693f2,3,Payroll cutoff confusion
+2025-07-05,ENG-PLATFORM,367e82d0c267,4,Waiting on reimbursement
+2025-07-05,ENG-PLATFORM,63d4352f9a2b,3,Too many alerts this sprint
+2025-07-05,ENG-PLATFORM,50567a292335,4,Culture improving
+2025-07-05,RISK-OPS,4e6710db3210,3,Manager support is decent
+2025-07-05,RISK-OPS,b6e5a7ed9cea,2,Need career path clarity
+2025-07-05,RISK-OPS,d07953451aaf,3,Waiting on reimbursement
+2025-07-05,RISK-OPS,b6e5a7ed9cea,2,Waiting on reimbursement
+2025-07-05,RISK-OPS,d5d2de92b85b,3,Too many alerts this sprint
+2025-07-05,FIN-OPS,c2b2121c35da,4,Manager support is decent
+2025-07-05,FIN-OPS,4697a4eb35b0,4,Need career path clarity
+2025-07-05,FIN-OPS,a170dfe93b1c,3,Waiting on reimbursement
+2025-07-05,FIN-OPS,64223f098aad,5,Manager support is decent
+2025-07-05,FIN-OPS,a170dfe93b1c,5,Need career path clarity
+2025-07-05,FIN-OPS,0b75213cac95,3,Workload spiking near deadlines
+2025-07-05,FIN-OPS,63d4352f9a2b,3,Waiting on reimbursement
+2025-07-05,FIN-OPS,843425aeec78,3,Payroll cutoff confusion
+2025-07-05,FIN-OPS,2086812e1e39,3,Waiting on reimbursement
+2025-07-05,FIN-OPS,cd4dd1beb52b,2,Too many alerts this sprint
+2025-07-05,FIN-OPS,1c3cb3049c90,2,Workload spiking near deadlines
+2025-07-05,CS-SUPPORT,9ce55b01d9e6,4,Waiting on reimbursement
+2025-07-05,CS-SUPPORT,0cd6d1f6eb44,4,Waiting on reimbursement
+2025-07-05,CS-SUPPORT,51aee1c13e89,3,Waiting on reimbursement
+2025-07-05,CS-SUPPORT,f90b99b25650,4,Workload spiking near deadlines
+2025-07-05,CS-SUPPORT,9f77826ebed3,3,Good learning last week
+2025-07-05,CS-SUPPORT,367e82d0c267,4,Too many alerts this sprint
+2025-07-05,CS-SUPPORT,661e62e71408,5,Payroll cutoff confusion
+2025-07-05,CS-SUPPORT,6f323a85838a,4,Good learning last week
+2025-07-05,CS-SUPPORT,4697a4eb35b0,4,Good learning last week
+2025-07-05,CS-SUPPORT,df83c83b6759,5,Payroll cutoff confusion
+2025-07-06,ENG-PLATFORM,342f2d338a38,3,Need career path clarity
+2025-07-06,ENG-PLATFORM,118ef7411dbd,4,Need career path clarity
+2025-07-06,ENG-PLATFORM,51aee1c13e89,3,Waiting on reimbursement
+2025-07-06,ENG-PLATFORM,a5412d220b3e,3,Workload spiking near deadlines
+2025-07-06,ENG-PLATFORM,a170dfe93b1c,4,Culture improving
+2025-07-06,ENG-PLATFORM,dacbf99a38e0,2,Manager support is decent
+2025-07-06,ENG-PLATFORM,d07953451aaf,2,Waiting on reimbursement
+2025-07-06,ENG-PLATFORM,e505b4d1a379,4,Waiting on reimbursement
+2025-07-06,ENG-PLATFORM,ae3fc8dad4c6,4,Manager support is decent
+2025-07-06,ENG-PLATFORM,192db8c7278c,3,Payroll cutoff confusion
+2025-07-06,ENG-PLATFORM,f1089229977a,3,Workload spiking near deadlines
+2025-07-06,ENG-PLATFORM,e0b3852f9439,2,Need career path clarity
+2025-07-06,RISK-OPS,431c4fe44efd,3,Manager support is decent
+2025-07-06,RISK-OPS,df83c83b6759,2,Workload spiking near deadlines
+2025-07-06,RISK-OPS,2b07266ee11b,2,Culture improving
+2025-07-06,RISK-OPS,4e6710db3210,2,Waiting on reimbursement
+2025-07-06,RISK-OPS,4d781f77977b,3,Payroll cutoff confusion
+2025-07-06,RISK-OPS,796b367c6c03,2,Payroll cutoff confusion
+2025-07-06,RISK-OPS,b5b3cd7d192c,4,Workload spiking near deadlines
+2025-07-06,RISK-OPS,26dcde7c76cd,2,Workload spiking near deadlines
+2025-07-06,RISK-OPS,397ec0744e99,2,Waiting on reimbursement
+2025-07-06,RISK-OPS,dacbf99a38e0,4,Need career path clarity
+2025-07-06,FIN-OPS,4e39552e8ba3,3,Good learning last week
+2025-07-06,FIN-OPS,29b97656e8ee,2,Workload spiking near deadlines
+2025-07-06,FIN-OPS,431c4fe44efd,4,Payroll cutoff confusion
+2025-07-06,FIN-OPS,74e050844ced,2,Payroll cutoff confusion
+2025-07-06,FIN-OPS,0cd6d1f6eb44,4,Workload spiking near deadlines
+2025-07-06,FIN-OPS,19b347aa0cd3,4,Good learning last week
+2025-07-06,CS-SUPPORT,4a61d470416d,4,Workload spiking near deadlines
+2025-07-06,CS-SUPPORT,c9b13c274f47,3,Good learning last week
+2025-07-06,CS-SUPPORT,2f0472885eaa,4,Waiting on reimbursement
+2025-07-06,CS-SUPPORT,64223f098aad,5,Manager support is decent
+2025-07-06,CS-SUPPORT,874fefaa4a1c,3,Manager support is decent
+2025-07-06,CS-SUPPORT,874fefaa4a1c,4,Workload spiking near deadlines
+2025-07-06,CS-SUPPORT,50567a292335,4,Workload spiking near deadlines
+2025-07-07,ENG-PLATFORM,df83c83b6759,3,Workload spiking near deadlines
+2025-07-07,ENG-PLATFORM,1c771609495b,2,Culture improving
+2025-07-07,ENG-PLATFORM,431c4fe44efd,5,Manager support is decent
+2025-07-07,ENG-PLATFORM,342f2d338a38,4,Culture improving
+2025-07-07,ENG-PLATFORM,999a20965980,2,Culture improving
+2025-07-07,ENG-PLATFORM,da7d4bb97c8d,3,Waiting on reimbursement
+2025-07-07,ENG-PLATFORM,ae3fc8dad4c6,5,Payroll cutoff confusion
+2025-07-07,ENG-PLATFORM,796b367c6c03,4,Waiting on reimbursement
+2025-07-07,ENG-PLATFORM,65eb7ae11d36,3,Manager support is decent
+2025-07-07,ENG-PLATFORM,c9202ac25327,4,Workload spiking near deadlines
+2025-07-07,ENG-PLATFORM,4a61d470416d,3,Workload spiking near deadlines
+2025-07-07,RISK-OPS,f1089229977a,2,Culture improving
+2025-07-07,RISK-OPS,6b67e9d9008f,3,Need career path clarity
+2025-07-07,RISK-OPS,063b54898bc9,4,Payroll cutoff confusion
+2025-07-07,RISK-OPS,397ec0744e99,2,Good learning last week
+2025-07-07,RISK-OPS,d07953451aaf,3,Workload spiking near deadlines
+2025-07-07,RISK-OPS,9069c6c5c535,3,Too many alerts this sprint
+2025-07-07,RISK-OPS,3d95247f129e,3,Need career path clarity
+2025-07-07,RISK-OPS,f1089229977a,3,Payroll cutoff confusion
+2025-07-07,FIN-OPS,397f3205e12f,3,Payroll cutoff confusion
+2025-07-07,FIN-OPS,fe3dcaec9a4a,4,Culture improving
+2025-07-07,FIN-OPS,f86dad4f99d0,4,Too many alerts this sprint
+2025-07-07,FIN-OPS,c5b54be832cb,2,Need career path clarity
+2025-07-07,FIN-OPS,ebf98a19cb32,4,Waiting on reimbursement
+2025-07-07,FIN-OPS,da7d4bb97c8d,3,Culture improving
+2025-07-07,FIN-OPS,d4bddd8e65f9,2,Culture improving
+2025-07-07,FIN-OPS,67edb7a8e8fe,3,Too many alerts this sprint
+2025-07-07,FIN-OPS,b5b3cd7d192c,4,Need career path clarity
+2025-07-07,FIN-OPS,24bf71145948,5,Payroll cutoff confusion
+2025-07-07,FIN-OPS,0defd3f62cf1,4,Workload spiking near deadlines
+2025-07-07,CS-SUPPORT,c9b13c274f47,4,Too many alerts this sprint
+2025-07-07,CS-SUPPORT,3c072731233c,2,Manager support is decent
+2025-07-07,CS-SUPPORT,64223f098aad,5,Need career path clarity
+2025-07-07,CS-SUPPORT,63d4352f9a2b,4,Waiting on reimbursement
+2025-07-07,CS-SUPPORT,386ea9c1908c,3,Payroll cutoff confusion
+2025-07-07,CS-SUPPORT,4d781f77977b,3,Manager support is decent
+2025-07-07,CS-SUPPORT,431c4fe44efd,5,Culture improving
+2025-07-07,CS-SUPPORT,63d4352f9a2b,4,Workload spiking near deadlines
+2025-07-07,CS-SUPPORT,b1fd761c9bfc,3,Payroll cutoff confusion
+2025-07-07,CS-SUPPORT,df83c83b6759,3,Payroll cutoff confusion
+2025-07-08,ENG-PLATFORM,2f0472885eaa,3,Culture improving
+2025-07-08,ENG-PLATFORM,48e277f16eab,3,Too many alerts this sprint
+2025-07-08,ENG-PLATFORM,cab95421fd1d,2,Workload spiking near deadlines
+2025-07-08,ENG-PLATFORM,261065c7e8c2,3,Payroll cutoff confusion
+2025-07-08,ENG-PLATFORM,631819e57e4c,4,Manager support is decent
+2025-07-08,ENG-PLATFORM,813efa59f985,3,Payroll cutoff confusion
+2025-07-08,RISK-OPS,c9b13c274f47,3,Payroll cutoff confusion
+2025-07-08,RISK-OPS,bbcdb08ce147,2,Waiting on reimbursement
+2025-07-08,RISK-OPS,ba353c5af803,2,Payroll cutoff confusion
+2025-07-08,RISK-OPS,a69f8dbf16c0,3,Manager support is decent
+2025-07-08,RISK-OPS,65eb7ae11d36,3,Culture improving
+2025-07-08,RISK-OPS,50e3c551bb29,2,Too many alerts this sprint
+2025-07-08,RISK-OPS,8c2215ab08bf,3,Waiting on reimbursement
+2025-07-08,RISK-OPS,c9202ac25327,2,Culture improving
+2025-07-08,FIN-OPS,3d95247f129e,3,Waiting on reimbursement
+2025-07-08,FIN-OPS,431c4fe44efd,4,Workload spiking near deadlines
+2025-07-08,FIN-OPS,63d4352f9a2b,4,Culture improving
+2025-07-08,FIN-OPS,788047dafc58,4,Waiting on reimbursement
+2025-07-08,FIN-OPS,c9b13c274f47,2,Manager support is decent
+2025-07-08,FIN-OPS,4697a4eb35b0,4,Payroll cutoff confusion
+2025-07-08,FIN-OPS,874fefaa4a1c,4,Need career path clarity
+2025-07-08,FIN-OPS,e71591f90e53,4,Manager support is decent
+2025-07-08,CS-SUPPORT,2b07266ee11b,5,Manager support is decent
+2025-07-08,CS-SUPPORT,b5b3cd7d192c,4,Culture improving
+2025-07-08,CS-SUPPORT,c2b2121c35da,4,Waiting on reimbursement
+2025-07-08,CS-SUPPORT,342f2d338a38,3,Need career path clarity
+2025-07-08,CS-SUPPORT,118ef7411dbd,2,Manager support is decent
+2025-07-08,CS-SUPPORT,631819e57e4c,3,Too many alerts this sprint
+2025-07-08,CS-SUPPORT,24bf71145948,3,Culture improving
+2025-07-09,ENG-PLATFORM,0defd3f62cf1,4,Too many alerts this sprint
+2025-07-09,ENG-PLATFORM,1c3cb3049c90,2,Too many alerts this sprint
+2025-07-09,ENG-PLATFORM,bbcdb08ce147,5,Too many alerts this sprint
+2025-07-09,ENG-PLATFORM,c2b2121c35da,5,Too many alerts this sprint
+2025-07-09,ENG-PLATFORM,c9b13c274f47,4,Manager support is decent
+2025-07-09,ENG-PLATFORM,118ef7411dbd,5,Waiting on reimbursement
+2025-07-09,ENG-PLATFORM,20eae3948e94,4,Waiting on reimbursement
+2025-07-09,ENG-PLATFORM,24bf71145948,5,Culture improving
+2025-07-09,RISK-OPS,e71591f90e53,2,Manager support is decent
+2025-07-09,RISK-OPS,12c12b2693f2,4,Too many alerts this sprint
+2025-07-09,RISK-OPS,cb0c50916267,2,Need career path clarity
+2025-07-09,RISK-OPS,c9213eae3dbc,2,Payroll cutoff confusion
+2025-07-09,RISK-OPS,f1089229977a,4,Too many alerts this sprint
+2025-07-09,FIN-OPS,79af63685d2c,3,Need career path clarity
+2025-07-09,FIN-OPS,29b97656e8ee,4,Manager support is decent
+2025-07-09,FIN-OPS,fe3dcaec9a4a,2,Waiting on reimbursement
+2025-07-09,FIN-OPS,367e82d0c267,4,Payroll cutoff confusion
+2025-07-09,FIN-OPS,788047dafc58,3,Culture improving
+2025-07-09,FIN-OPS,b1fd761c9bfc,3,Culture improving
+2025-07-09,FIN-OPS,9069c6c5c535,5,Culture improving
+2025-07-09,FIN-OPS,35f8c8fe812a,3,Need career path clarity
+2025-07-09,FIN-OPS,c2b2121c35da,3,Manager support is decent
+2025-07-09,CS-SUPPORT,431c4fe44efd,4,Manager support is decent
+2025-07-09,CS-SUPPORT,e505b4d1a379,4,Good learning last week
+2025-07-09,CS-SUPPORT,b99e1c243540,2,Workload spiking near deadlines
+2025-07-09,CS-SUPPORT,4a61d470416d,4,Need career path clarity
+2025-07-09,CS-SUPPORT,cab95421fd1d,3,Culture improving
+2025-07-09,CS-SUPPORT,6b67e9d9008f,4,Culture improving
+2025-07-09,CS-SUPPORT,2086812e1e39,3,Payroll cutoff confusion
+2025-07-09,CS-SUPPORT,0b75213cac95,4,Payroll cutoff confusion
+2025-07-09,CS-SUPPORT,9ce55b01d9e6,3,Payroll cutoff confusion
+2025-07-09,CS-SUPPORT,932f9ef8af99,2,Need career path clarity
+2025-07-10,ENG-PLATFORM,431c4fe44efd,3,Culture improving
+2025-07-10,ENG-PLATFORM,fe2a70fdf392,2,Too many alerts this sprint
+2025-07-10,ENG-PLATFORM,f65b751f5aea,4,Payroll cutoff confusion
+2025-07-10,ENG-PLATFORM,d07953451aaf,4,Workload spiking near deadlines
+2025-07-10,ENG-PLATFORM,1c3cb3049c90,2,Need career path clarity
+2025-07-10,ENG-PLATFORM,999a20965980,3,Culture improving
+2025-07-10,ENG-PLATFORM,c441c44213ed,4,Culture improving
+2025-07-10,ENG-PLATFORM,12c12b2693f2,4,Workload spiking near deadlines
+2025-07-10,ENG-PLATFORM,ba0d2fb77d37,4,Good learning last week
+2025-07-10,ENG-PLATFORM,63d4352f9a2b,4,Too many alerts this sprint
+2025-07-10,ENG-PLATFORM,1acf7e8fda5e,4,Payroll cutoff confusion
+2025-07-10,ENG-PLATFORM,c441c44213ed,4,Too many alerts this sprint
+2025-07-10,RISK-OPS,c2b2121c35da,2,Need career path clarity
+2025-07-10,RISK-OPS,df83c83b6759,3,Culture improving
+2025-07-10,RISK-OPS,661e62e71408,2,Good learning last week
+2025-07-10,RISK-OPS,b1fd761c9bfc,4,Need career path clarity
+2025-07-10,RISK-OPS,118ef7411dbd,2,Workload spiking near deadlines
+2025-07-10,RISK-OPS,4d781f77977b,2,Culture improving
+2025-07-10,FIN-OPS,631819e57e4c,4,Waiting on reimbursement
+2025-07-10,FIN-OPS,b1fd761c9bfc,4,Waiting on reimbursement
+2025-07-10,FIN-OPS,3e500fa1f2aa,4,Culture improving
+2025-07-10,FIN-OPS,51aee1c13e89,4,Too many alerts this sprint
+2025-07-10,FIN-OPS,20eae3948e94,3,Payroll cutoff confusion
+2025-07-10,FIN-OPS,50e3c551bb29,4,Too many alerts this sprint
+2025-07-10,FIN-OPS,81b4eac32d7a,2,Culture improving
+2025-07-10,FIN-OPS,b6e5a7ed9cea,5,Manager support is decent
+2025-07-10,FIN-OPS,e0b3852f9439,4,Too many alerts this sprint
+2025-07-10,FIN-OPS,4e6710db3210,5,Workload spiking near deadlines
+2025-07-10,FIN-OPS,0cd6d1f6eb44,4,Too many alerts this sprint
+2025-07-10,FIN-OPS,cb0c50916267,4,Good learning last week
+2025-07-10,CS-SUPPORT,5581e8598db1,4,Waiting on reimbursement
+2025-07-10,CS-SUPPORT,874fefaa4a1c,5,Need career path clarity
+2025-07-10,CS-SUPPORT,b99e1c243540,5,Good learning last week
+2025-07-10,CS-SUPPORT,4d781f77977b,4,Manager support is decent
+2025-07-10,CS-SUPPORT,2086812e1e39,2,Payroll cutoff confusion
+2025-07-11,ENG-PLATFORM,e0b3852f9439,3,Need career path clarity
+2025-07-11,ENG-PLATFORM,fe3dcaec9a4a,3,Need career path clarity
+2025-07-11,ENG-PLATFORM,118ef7411dbd,4,Payroll cutoff confusion
+2025-07-11,ENG-PLATFORM,a5412d220b3e,5,Workload spiking near deadlines
+2025-07-11,ENG-PLATFORM,50e3c551bb29,3,Good learning last week
+2025-07-11,ENG-PLATFORM,51a8a8a6b734,3,Payroll cutoff confusion
+2025-07-11,ENG-PLATFORM,874fefaa4a1c,4,Culture improving
+2025-07-11,ENG-PLATFORM,a69f8dbf16c0,4,Culture improving
+2025-07-11,ENG-PLATFORM,da7d4bb97c8d,3,Too many alerts this sprint
+2025-07-11,ENG-PLATFORM,c9b13c274f47,4,Good learning last week
+2025-07-11,RISK-OPS,5ae114878fe7,4,Too many alerts this sprint
+2025-07-11,RISK-OPS,2b21ea99c2cb,3,Too many alerts this sprint
+2025-07-11,RISK-OPS,50e3c551bb29,2,Payroll cutoff confusion
+2025-07-11,RISK-OPS,2b07266ee11b,3,Culture improving
+2025-07-11,RISK-OPS,51a8a8a6b734,3,Too many alerts this sprint
+2025-07-11,RISK-OPS,3d95247f129e,4,Need career path clarity
+2025-07-11,RISK-OPS,8c2215ab08bf,3,Culture improving
+2025-07-11,RISK-OPS,342f2d338a38,2,Too many alerts this sprint
+2025-07-11,FIN-OPS,d07953451aaf,5,Manager support is decent
+2025-07-11,FIN-OPS,0defd3f62cf1,4,Too many alerts this sprint
+2025-07-11,FIN-OPS,62c15799ac06,4,Good learning last week
+2025-07-11,FIN-OPS,bbcdb08ce147,4,Too many alerts this sprint
+2025-07-11,FIN-OPS,6b67e9d9008f,4,Too many alerts this sprint
+2025-07-11,CS-SUPPORT,d4bddd8e65f9,4,Good learning last week
+2025-07-11,CS-SUPPORT,cab95421fd1d,2,Good learning last week
+2025-07-11,CS-SUPPORT,3c072731233c,3,Workload spiking near deadlines
+2025-07-11,CS-SUPPORT,748bdcbbdc1c,4,Culture improving
+2025-07-11,CS-SUPPORT,c9202ac25327,4,Manager support is decent
+2025-07-11,CS-SUPPORT,76e54f039797,3,Workload spiking near deadlines
+2025-07-11,CS-SUPPORT,dacbf99a38e0,3,Need career path clarity
+2025-07-12,ENG-PLATFORM,79af63685d2c,5,Good learning last week
+2025-07-12,ENG-PLATFORM,661e62e71408,3,Culture improving
+2025-07-12,ENG-PLATFORM,d07953451aaf,5,Workload spiking near deadlines
+2025-07-12,ENG-PLATFORM,192db8c7278c,2,Good learning last week
+2025-07-12,ENG-PLATFORM,f905c3dc0105,5,Workload spiking near deadlines
+2025-07-12,ENG-PLATFORM,192db8c7278c,3,Need career path clarity
+2025-07-12,ENG-PLATFORM,9ce55b01d9e6,3,Workload spiking near deadlines
+2025-07-12,ENG-PLATFORM,730a5bbebc37,4,Payroll cutoff confusion
+2025-07-12,ENG-PLATFORM,1d8dcb5ae205,5,Too many alerts this sprint
+2025-07-12,ENG-PLATFORM,9ce55b01d9e6,2,Workload spiking near deadlines
+2025-07-12,ENG-PLATFORM,29b97656e8ee,4,Manager support is decent
+2025-07-12,ENG-PLATFORM,f86dad4f99d0,3,Too many alerts this sprint
+2025-07-12,RISK-OPS,a170dfe93b1c,4,Payroll cutoff confusion
+2025-07-12,RISK-OPS,f1089229977a,2,Payroll cutoff confusion
+2025-07-12,RISK-OPS,e505b4d1a379,2,Manager support is decent
+2025-07-12,RISK-OPS,b6e5a7ed9cea,2,Payroll cutoff confusion
+2025-07-12,RISK-OPS,a170dfe93b1c,3,Waiting on reimbursement
+2025-07-12,RISK-OPS,a2bcde3c7acd,3,Too many alerts this sprint
+2025-07-12,RISK-OPS,ba0d2fb77d37,2,Waiting on reimbursement
+2025-07-12,RISK-OPS,c9b13c274f47,3,Need career path clarity
+2025-07-12,RISK-OPS,0b75213cac95,3,Manager support is decent
+2025-07-12,RISK-OPS,7e3d8f1cdd95,2,Waiting on reimbursement
+2025-07-12,RISK-OPS,999a20965980,3,Culture improving
+2025-07-12,RISK-OPS,6b67e9d9008f,2,Workload spiking near deadlines
+2025-07-12,FIN-OPS,50567a292335,3,Payroll cutoff confusion
+2025-07-12,FIN-OPS,661e62e71408,3,Culture improving
+2025-07-12,FIN-OPS,29b97656e8ee,4,Workload spiking near deadlines
+2025-07-12,FIN-OPS,813efa59f985,5,Culture improving
+2025-07-12,FIN-OPS,fe3dcaec9a4a,3,Workload spiking near deadlines
+2025-07-12,FIN-OPS,64223f098aad,2,Payroll cutoff confusion
+2025-07-12,FIN-OPS,4697a4eb35b0,3,Need career path clarity
+2025-07-12,FIN-OPS,76e54f039797,4,Too many alerts this sprint
+2025-07-12,FIN-OPS,fe3dcaec9a4a,2,Too many alerts this sprint
+2025-07-12,CS-SUPPORT,c9b13c274f47,3,Good learning last week
+2025-07-12,CS-SUPPORT,999a20965980,4,Waiting on reimbursement
+2025-07-12,CS-SUPPORT,1f903ca452ec,5,Culture improving
+2025-07-12,CS-SUPPORT,e0b3852f9439,5,Payroll cutoff confusion
+2025-07-12,CS-SUPPORT,661e62e71408,4,Good learning last week
+2025-07-12,CS-SUPPORT,c441c44213ed,3,Manager support is decent
+2025-07-12,CS-SUPPORT,874fefaa4a1c,4,Culture improving
+2025-07-12,CS-SUPPORT,1acf7e8fda5e,4,Manager support is decent
+2025-07-12,CS-SUPPORT,43f3618fdbad,4,Good learning last week
+2025-07-12,CS-SUPPORT,2f0472885eaa,4,Waiting on reimbursement
+2025-07-13,ENG-PLATFORM,3e500fa1f2aa,4,Payroll cutoff confusion
+2025-07-13,ENG-PLATFORM,d048f004ae50,5,Good learning last week
+2025-07-13,ENG-PLATFORM,c9202ac25327,4,Payroll cutoff confusion
+2025-07-13,ENG-PLATFORM,594548490b12,4,Payroll cutoff confusion
+2025-07-13,ENG-PLATFORM,65eb7ae11d36,2,Payroll cutoff confusion
+2025-07-13,ENG-PLATFORM,c2b2121c35da,4,Need career path clarity
+2025-07-13,ENG-PLATFORM,1f903ca452ec,4,Workload spiking near deadlines
+2025-07-13,RISK-OPS,41a64d7e9787,3,Workload spiking near deadlines
+2025-07-13,RISK-OPS,48e277f16eab,3,Workload spiking near deadlines
+2025-07-13,RISK-OPS,62c15799ac06,2,Manager support is decent
+2025-07-13,RISK-OPS,12c12b2693f2,3,Culture improving
+2025-07-13,RISK-OPS,796b367c6c03,2,Workload spiking near deadlines
+2025-07-13,RISK-OPS,6b67e9d9008f,2,Payroll cutoff confusion
+2025-07-13,RISK-OPS,4d781f77977b,3,Need career path clarity
+2025-07-13,RISK-OPS,1d8dcb5ae205,2,Need career path clarity
+2025-07-13,RISK-OPS,df83c83b6759,3,Payroll cutoff confusion
+2025-07-13,RISK-OPS,a5412d220b3e,3,Need career path clarity
+2025-07-13,RISK-OPS,ebf98a19cb32,4,Waiting on reimbursement
+2025-07-13,RISK-OPS,cb0c50916267,3,Manager support is decent
+2025-07-13,FIN-OPS,f905c3dc0105,4,Waiting on reimbursement
+2025-07-13,FIN-OPS,35f8c8fe812a,3,Workload spiking near deadlines
+2025-07-13,FIN-OPS,661e62e71408,2,Too many alerts this sprint
+2025-07-13,FIN-OPS,788047dafc58,5,Need career path clarity
+2025-07-13,FIN-OPS,f905c3dc0105,4,Good learning last week
+2025-07-13,FIN-OPS,cab95421fd1d,4,Culture improving
+2025-07-13,FIN-OPS,cd4dd1beb52b,3,Good learning last week
+2025-07-13,CS-SUPPORT,4d781f77977b,5,Need career path clarity
+2025-07-13,CS-SUPPORT,c9b13c274f47,2,Good learning last week
+2025-07-13,CS-SUPPORT,a6acc0407327,2,Manager support is decent
+2025-07-13,CS-SUPPORT,0cd6d1f6eb44,2,Payroll cutoff confusion
+2025-07-13,CS-SUPPORT,0cd6d1f6eb44,5,Workload spiking near deadlines
+2025-07-13,CS-SUPPORT,cab95421fd1d,5,Workload spiking near deadlines
+2025-07-14,ENG-PLATFORM,367e82d0c267,3,Good learning last week
+2025-07-14,ENG-PLATFORM,661e62e71408,2,Waiting on reimbursement
+2025-07-14,ENG-PLATFORM,118ef7411dbd,3,Good learning last week
+2025-07-14,ENG-PLATFORM,063b54898bc9,5,Culture improving
+2025-07-14,ENG-PLATFORM,2f0472885eaa,4,Culture improving
+2025-07-14,ENG-PLATFORM,431c4fe44efd,3,Waiting on reimbursement
+2025-07-14,ENG-PLATFORM,67edb7a8e8fe,4,Good learning last week
+2025-07-14,ENG-PLATFORM,9f77826ebed3,3,Too many alerts this sprint
+2025-07-14,ENG-PLATFORM,43f3618fdbad,4,Waiting on reimbursement
+2025-07-14,ENG-PLATFORM,19b347aa0cd3,5,Need career path clarity
+2025-07-14,ENG-PLATFORM,51a8a8a6b734,4,Workload spiking near deadlines
+2025-07-14,RISK-OPS,a170dfe93b1c,3,Culture improving
+2025-07-14,RISK-OPS,796b367c6c03,3,Need career path clarity
+2025-07-14,RISK-OPS,cd4dd1beb52b,3,Need career path clarity
+2025-07-14,RISK-OPS,1d8dcb5ae205,4,Payroll cutoff confusion
+2025-07-14,RISK-OPS,431c4fe44efd,2,Too many alerts this sprint
+2025-07-14,RISK-OPS,ba353c5af803,2,Payroll cutoff confusion
+2025-07-14,RISK-OPS,d5d2de92b85b,2,Need career path clarity
+2025-07-14,RISK-OPS,e0b3852f9439,4,Waiting on reimbursement
+2025-07-14,RISK-OPS,50567a292335,2,Too many alerts this sprint
+2025-07-14,RISK-OPS,a6acc0407327,3,Manager support is decent
+2025-07-14,FIN-OPS,1c3cb3049c90,3,Manager support is decent
+2025-07-14,FIN-OPS,f905c3dc0105,5,Good learning last week
+2025-07-14,FIN-OPS,fe2a70fdf392,3,Need career path clarity
+2025-07-14,FIN-OPS,41a64d7e9787,4,Workload spiking near deadlines
+2025-07-14,FIN-OPS,a5412d220b3e,2,Good learning last week
+2025-07-14,FIN-OPS,c5b54be832cb,4,Good learning last week
+2025-07-14,FIN-OPS,79af63685d2c,3,Culture improving
+2025-07-14,FIN-OPS,29b97656e8ee,2,Good learning last week
+2025-07-14,FIN-OPS,6b67e9d9008f,3,Manager support is decent
+2025-07-14,FIN-OPS,62c15799ac06,4,Good learning last week
+2025-07-14,FIN-OPS,796b367c6c03,4,Good learning last week
+2025-07-14,FIN-OPS,48e277f16eab,3,Culture improving
+2025-07-14,CS-SUPPORT,2f6e56a45050,4,Culture improving
+2025-07-14,CS-SUPPORT,4697a4eb35b0,3,Culture improving
+2025-07-14,CS-SUPPORT,0b75213cac95,4,Payroll cutoff confusion
+2025-07-14,CS-SUPPORT,748bdcbbdc1c,5,Payroll cutoff confusion
+2025-07-14,CS-SUPPORT,c441c44213ed,3,Good learning last week
+2025-07-14,CS-SUPPORT,df83c83b6759,3,Need career path clarity
+2025-07-14,CS-SUPPORT,12c12b2693f2,4,Good learning last week
+2025-07-14,CS-SUPPORT,261065c7e8c2,3,Workload spiking near deadlines
+2025-07-14,CS-SUPPORT,813efa59f985,4,Need career path clarity
+2025-07-15,ENG-PLATFORM,cd4dd1beb52b,3,Culture improving
+2025-07-15,ENG-PLATFORM,6f323a85838a,4,Good learning last week
+2025-07-15,ENG-PLATFORM,f65b751f5aea,4,Culture improving
+2025-07-15,ENG-PLATFORM,397ec0744e99,4,Payroll cutoff confusion
+2025-07-15,ENG-PLATFORM,1f903ca452ec,3,Culture improving
+2025-07-15,ENG-PLATFORM,24bf71145948,3,Payroll cutoff confusion
+2025-07-15,ENG-PLATFORM,1d8dcb5ae205,4,Workload spiking near deadlines
+2025-07-15,ENG-PLATFORM,874fefaa4a1c,2,Manager support is decent
+2025-07-15,ENG-PLATFORM,063b54898bc9,5,Workload spiking near deadlines
+2025-07-15,RISK-OPS,9f77826ebed3,2,Good learning last week
+2025-07-15,RISK-OPS,74e050844ced,2,Workload spiking near deadlines
+2025-07-15,RISK-OPS,843425aeec78,4,Payroll cutoff confusion
+2025-07-15,RISK-OPS,df83c83b6759,2,Payroll cutoff confusion
+2025-07-15,RISK-OPS,67edb7a8e8fe,3,Workload spiking near deadlines
+2025-07-15,FIN-OPS,f905c3dc0105,4,Need career path clarity
+2025-07-15,FIN-OPS,a2bcde3c7acd,2,Too many alerts this sprint
+2025-07-15,FIN-OPS,f905c3dc0105,3,Workload spiking near deadlines
+2025-07-15,FIN-OPS,118ef7411dbd,5,Need career path clarity
+2025-07-15,FIN-OPS,65eb7ae11d36,3,Manager support is decent
+2025-07-15,CS-SUPPORT,874fefaa4a1c,3,Good learning last week
+2025-07-15,CS-SUPPORT,2086812e1e39,4,Too many alerts this sprint
+2025-07-15,CS-SUPPORT,063b54898bc9,3,Too many alerts this sprint
+2025-07-15,CS-SUPPORT,4e6710db3210,4,Manager support is decent
+2025-07-15,CS-SUPPORT,df83c83b6759,4,Payroll cutoff confusion
+2025-07-15,CS-SUPPORT,ba0d2fb77d37,3,Good learning last week
+2025-07-16,ENG-PLATFORM,76e54f039797,2,Workload spiking near deadlines
+2025-07-16,ENG-PLATFORM,594548490b12,4,Need career path clarity
+2025-07-16,ENG-PLATFORM,2f6e56a45050,4,Payroll cutoff confusion
+2025-07-16,ENG-PLATFORM,43f3618fdbad,5,Workload spiking near deadlines
+2025-07-16,ENG-PLATFORM,796b367c6c03,3,Manager support is decent
+2025-07-16,ENG-PLATFORM,f65b751f5aea,4,Culture improving
+2025-07-16,ENG-PLATFORM,ba0d2fb77d37,2,Workload spiking near deadlines
+2025-07-16,ENG-PLATFORM,6f323a85838a,3,Payroll cutoff confusion
+2025-07-16,ENG-PLATFORM,e505b4d1a379,2,Manager support is decent
+2025-07-16,RISK-OPS,26dcde7c76cd,4,Workload spiking near deadlines
+2025-07-16,RISK-OPS,a69f8dbf16c0,3,Workload spiking near deadlines
+2025-07-16,RISK-OPS,a6acc0407327,4,Waiting on reimbursement
+2025-07-16,RISK-OPS,661e62e71408,3,Manager support is decent
+2025-07-16,RISK-OPS,29b97656e8ee,2,Good learning last week
+2025-07-16,RISK-OPS,ba0d2fb77d37,3,Culture improving
+2025-07-16,RISK-OPS,50567a292335,2,Manager support is decent
+2025-07-16,RISK-OPS,118ef7411dbd,3,Workload spiking near deadlines
+2025-07-16,RISK-OPS,748bdcbbdc1c,3,Good learning last week
+2025-07-16,FIN-OPS,397f3205e12f,4,Need career path clarity
+2025-07-16,FIN-OPS,4e39552e8ba3,3,Workload spiking near deadlines
+2025-07-16,FIN-OPS,3c072731233c,3,Payroll cutoff confusion
+2025-07-16,FIN-OPS,c82684ec8b83,3,Culture improving
+2025-07-16,FIN-OPS,dacbf99a38e0,4,Need career path clarity
+2025-07-16,FIN-OPS,1d8dcb5ae205,5,Need career path clarity
+2025-07-16,CS-SUPPORT,342f2d338a38,4,Too many alerts this sprint
+2025-07-16,CS-SUPPORT,c5b54be832cb,3,Manager support is decent
+2025-07-16,CS-SUPPORT,ebf98a19cb32,3,Waiting on reimbursement
+2025-07-16,CS-SUPPORT,2f6e56a45050,5,Waiting on reimbursement
+2025-07-16,CS-SUPPORT,261065c7e8c2,4,Culture improving
+2025-07-16,CS-SUPPORT,63d4352f9a2b,2,Manager support is decent
+2025-07-17,ENG-PLATFORM,4697a4eb35b0,4,Culture improving
+2025-07-17,ENG-PLATFORM,c441c44213ed,3,Manager support is decent
+2025-07-17,ENG-PLATFORM,c2b2121c35da,2,Waiting on reimbursement
+2025-07-17,ENG-PLATFORM,a8c6a5afb514,4,Need career path clarity
+2025-07-17,ENG-PLATFORM,d4bddd8e65f9,2,Manager support is decent
+2025-07-17,RISK-OPS,dacbf99a38e0,2,Culture improving
+2025-07-17,RISK-OPS,9069c6c5c535,3,Workload spiking near deadlines
+2025-07-17,RISK-OPS,4a61d470416d,3,Need career path clarity
+2025-07-17,RISK-OPS,4e39552e8ba3,2,Good learning last week
+2025-07-17,RISK-OPS,2f0472885eaa,4,Waiting on reimbursement
+2025-07-17,RISK-OPS,76e54f039797,3,Waiting on reimbursement
+2025-07-17,RISK-OPS,999a20965980,3,Too many alerts this sprint
+2025-07-17,RISK-OPS,e505b4d1a379,3,Waiting on reimbursement
+2025-07-17,RISK-OPS,74e050844ced,2,Need career path clarity
+2025-07-17,RISK-OPS,5ae114878fe7,3,Too many alerts this sprint
+2025-07-17,FIN-OPS,5b6b72764a79,2,Culture improving
+2025-07-17,FIN-OPS,397ec0744e99,3,Payroll cutoff confusion
+2025-07-17,FIN-OPS,0cd6d1f6eb44,4,Good learning last week
+2025-07-17,FIN-OPS,1f903ca452ec,2,Waiting on reimbursement
+2025-07-17,FIN-OPS,29b97656e8ee,2,Need career path clarity
+2025-07-17,FIN-OPS,b6e5a7ed9cea,4,Need career path clarity
+2025-07-17,FIN-OPS,c5b54be832cb,3,Payroll cutoff confusion
+2025-07-17,FIN-OPS,b6e5a7ed9cea,4,Waiting on reimbursement
+2025-07-17,FIN-OPS,29b97656e8ee,3,Good learning last week
+2025-07-17,FIN-OPS,79af63685d2c,3,Waiting on reimbursement
+2025-07-17,FIN-OPS,48e277f16eab,3,Too many alerts this sprint
+2025-07-17,FIN-OPS,261065c7e8c2,5,Payroll cutoff confusion
+2025-07-17,CS-SUPPORT,3e500fa1f2aa,4,Too many alerts this sprint
+2025-07-17,CS-SUPPORT,063b54898bc9,4,Culture improving
+2025-07-17,CS-SUPPORT,d048f004ae50,4,Good learning last week
+2025-07-17,CS-SUPPORT,20eae3948e94,4,Waiting on reimbursement
+2025-07-17,CS-SUPPORT,76e54f039797,4,Workload spiking near deadlines
+2025-07-17,CS-SUPPORT,35f8c8fe812a,4,Good learning last week
+2025-07-17,CS-SUPPORT,367e82d0c267,3,Manager support is decent
+2025-07-17,CS-SUPPORT,063b54898bc9,4,Payroll cutoff confusion
+2025-07-18,ENG-PLATFORM,3c072731233c,3,Good learning last week
+2025-07-18,ENG-PLATFORM,397ec0744e99,5,Waiting on reimbursement
+2025-07-18,ENG-PLATFORM,c9202ac25327,4,Need career path clarity
+2025-07-18,ENG-PLATFORM,1acf7e8fda5e,4,Payroll cutoff confusion
+2025-07-18,ENG-PLATFORM,5581e8598db1,4,Need career path clarity
+2025-07-18,ENG-PLATFORM,da7d4bb97c8d,2,Culture improving
+2025-07-18,ENG-PLATFORM,796b367c6c03,4,Manager support is decent
+2025-07-18,RISK-OPS,342f2d338a38,2,Culture improving
+2025-07-18,RISK-OPS,24bf71145948,4,Workload spiking near deadlines
+2025-07-18,RISK-OPS,ba0d2fb77d37,3,Culture improving
+2025-07-18,RISK-OPS,4e6710db3210,3,Manager support is decent
+2025-07-18,RISK-OPS,a2bcde3c7acd,2,Too many alerts this sprint
+2025-07-18,RISK-OPS,2b21ea99c2cb,4,Good learning last week
+2025-07-18,FIN-OPS,df83c83b6759,4,Payroll cutoff confusion
+2025-07-18,FIN-OPS,342f2d338a38,5,Waiting on reimbursement
+2025-07-18,FIN-OPS,0defd3f62cf1,2,Payroll cutoff confusion
+2025-07-18,FIN-OPS,d4bddd8e65f9,3,Need career path clarity
+2025-07-18,FIN-OPS,d5d2de92b85b,2,Manager support is decent
+2025-07-18,FIN-OPS,ae3fc8dad4c6,5,Waiting on reimbursement
+2025-07-18,FIN-OPS,0defd3f62cf1,3,Culture improving
+2025-07-18,FIN-OPS,1f903ca452ec,3,Payroll cutoff confusion
+2025-07-18,FIN-OPS,0defd3f62cf1,4,Manager support is decent
+2025-07-18,FIN-OPS,367e82d0c267,5,Payroll cutoff confusion
+2025-07-18,FIN-OPS,2b07266ee11b,2,Too many alerts this sprint
+2025-07-18,FIN-OPS,12c12b2693f2,5,Manager support is decent
+2025-07-18,CS-SUPPORT,1c3cb3049c90,3,Manager support is decent
+2025-07-18,CS-SUPPORT,41a64d7e9787,3,Good learning last week
+2025-07-18,CS-SUPPORT,631819e57e4c,3,Waiting on reimbursement
+2025-07-18,CS-SUPPORT,b6e5a7ed9cea,4,Need career path clarity
+2025-07-18,CS-SUPPORT,788047dafc58,3,Need career path clarity
+2025-07-19,ENG-PLATFORM,1d8dcb5ae205,5,Need career path clarity
+2025-07-19,ENG-PLATFORM,48e277f16eab,2,Good learning last week
+2025-07-19,ENG-PLATFORM,b5b3cd7d192c,4,Need career path clarity
+2025-07-19,ENG-PLATFORM,50567a292335,2,Good learning last week
+2025-07-19,ENG-PLATFORM,a6acc0407327,3,Manager support is decent
+2025-07-19,ENG-PLATFORM,2f0472885eaa,2,Waiting on reimbursement
+2025-07-19,ENG-PLATFORM,63d4352f9a2b,3,Good learning last week
+2025-07-19,RISK-OPS,d048f004ae50,3,Payroll cutoff confusion
+2025-07-19,RISK-OPS,874fefaa4a1c,3,Need career path clarity
+2025-07-19,RISK-OPS,c9b13c274f47,3,Manager support is decent
+2025-07-19,RISK-OPS,0defd3f62cf1,3,Payroll cutoff confusion
+2025-07-19,RISK-OPS,c9213eae3dbc,2,Too many alerts this sprint
+2025-07-19,RISK-OPS,d5d2de92b85b,4,Manager support is decent
+2025-07-19,RISK-OPS,41a64d7e9787,2,Culture improving
+2025-07-19,RISK-OPS,3d95247f129e,2,Too many alerts this sprint
+2025-07-19,RISK-OPS,d048f004ae50,2,Culture improving
+2025-07-19,RISK-OPS,fe3dcaec9a4a,2,Need career path clarity
+2025-07-19,RISK-OPS,e0b3852f9439,4,Waiting on reimbursement
+2025-07-19,RISK-OPS,2f0472885eaa,3,Need career path clarity
+2025-07-19,FIN-OPS,c82684ec8b83,5,Waiting on reimbursement
+2025-07-19,FIN-OPS,51a8a8a6b734,3,Payroll cutoff confusion
+2025-07-19,FIN-OPS,d07953451aaf,3,Waiting on reimbursement
+2025-07-19,FIN-OPS,2b07266ee11b,4,Workload spiking near deadlines
+2025-07-19,FIN-OPS,9069c6c5c535,3,Workload spiking near deadlines
+2025-07-19,FIN-OPS,c82684ec8b83,3,Good learning last week
+2025-07-19,FIN-OPS,063b54898bc9,4,Payroll cutoff confusion
+2025-07-19,CS-SUPPORT,76e54f039797,4,Need career path clarity
+2025-07-19,CS-SUPPORT,50e3c551bb29,4,Payroll cutoff confusion
+2025-07-19,CS-SUPPORT,24bf71145948,2,Workload spiking near deadlines
+2025-07-19,CS-SUPPORT,4e6710db3210,3,Too many alerts this sprint
+2025-07-19,CS-SUPPORT,4d781f77977b,3,Good learning last week
+2025-07-19,CS-SUPPORT,f905c3dc0105,3,Waiting on reimbursement
+2025-07-19,CS-SUPPORT,4e39552e8ba3,4,Payroll cutoff confusion
+2025-07-19,CS-SUPPORT,dacbf99a38e0,4,Manager support is decent
+2025-07-19,CS-SUPPORT,2f0472885eaa,2,Too many alerts this sprint
+2025-07-19,CS-SUPPORT,4e39552e8ba3,4,Culture improving
+2025-07-19,CS-SUPPORT,da7d4bb97c8d,2,Payroll cutoff confusion
+2025-07-20,ENG-PLATFORM,9cfc4f786ecf,2,Good learning last week
+2025-07-20,ENG-PLATFORM,29b97656e8ee,2,Payroll cutoff confusion
+2025-07-20,ENG-PLATFORM,813efa59f985,3,Manager support is decent
+2025-07-20,ENG-PLATFORM,367e82d0c267,2,Good learning last week
+2025-07-20,ENG-PLATFORM,a6acc0407327,5,Culture improving
+2025-07-20,ENG-PLATFORM,9069c6c5c535,5,Need career path clarity
+2025-07-20,ENG-PLATFORM,24bf71145948,4,Waiting on reimbursement
+2025-07-20,ENG-PLATFORM,5b6b72764a79,3,Good learning last week
+2025-07-20,RISK-OPS,ba0d2fb77d37,3,Too many alerts this sprint
+2025-07-20,RISK-OPS,0cd6d1f6eb44,4,Waiting on reimbursement
+2025-07-20,RISK-OPS,3e500fa1f2aa,3,Too many alerts this sprint
+2025-07-20,RISK-OPS,2f0472885eaa,3,Manager support is decent
+2025-07-20,RISK-OPS,999a20965980,3,Workload spiking near deadlines
+2025-07-20,FIN-OPS,9069c6c5c535,5,Waiting on reimbursement
+2025-07-20,FIN-OPS,796b367c6c03,3,Good learning last week
+2025-07-20,FIN-OPS,b99e1c243540,5,Culture improving
+2025-07-20,FIN-OPS,ae3fc8dad4c6,3,Need career path clarity
+2025-07-20,FIN-OPS,c82684ec8b83,3,Too many alerts this sprint
+2025-07-20,FIN-OPS,19b347aa0cd3,4,Need career path clarity
+2025-07-20,FIN-OPS,b5b3cd7d192c,2,Manager support is decent
+2025-07-20,FIN-OPS,7e3d8f1cdd95,4,Too many alerts this sprint
+2025-07-20,FIN-OPS,fe3dcaec9a4a,3,Payroll cutoff confusion
+2025-07-20,CS-SUPPORT,3e500fa1f2aa,4,Workload spiking near deadlines
+2025-07-20,CS-SUPPORT,a5412d220b3e,5,Manager support is decent
+2025-07-20,CS-SUPPORT,35f8c8fe812a,4,Culture improving
+2025-07-20,CS-SUPPORT,1c3cb3049c90,2,Need career path clarity
+2025-07-20,CS-SUPPORT,843425aeec78,4,Good learning last week
+2025-07-20,CS-SUPPORT,f65b751f5aea,3,Culture improving
+2025-07-20,CS-SUPPORT,ae3fc8dad4c6,3,Culture improving
+2025-07-20,CS-SUPPORT,dacbf99a38e0,4,Waiting on reimbursement
+2025-07-20,CS-SUPPORT,ba0d2fb77d37,4,Culture improving
+2025-07-20,CS-SUPPORT,8c2215ab08bf,5,Workload spiking near deadlines
+2025-07-20,CS-SUPPORT,12c12b2693f2,2,Payroll cutoff confusion
+2025-07-20,CS-SUPPORT,932f9ef8af99,2,Waiting on reimbursement
+2025-07-21,ENG-PLATFORM,1f903ca452ec,2,Need career path clarity
+2025-07-21,ENG-PLATFORM,bbcdb08ce147,5,Waiting on reimbursement
+2025-07-21,ENG-PLATFORM,9ce55b01d9e6,5,Too many alerts this sprint
+2025-07-21,ENG-PLATFORM,51aee1c13e89,3,Manager support is decent
+2025-07-21,ENG-PLATFORM,cb0c50916267,3,Too many alerts this sprint
+2025-07-21,ENG-PLATFORM,ebf98a19cb32,3,Waiting on reimbursement
+2025-07-21,ENG-PLATFORM,fe2a70fdf392,4,Too many alerts this sprint
+2025-07-21,ENG-PLATFORM,f90b99b25650,5,Good learning last week
+2025-07-21,ENG-PLATFORM,9cfc4f786ecf,5,Manager support is decent
+2025-07-21,ENG-PLATFORM,50e3c551bb29,2,Workload spiking near deadlines
+2025-07-21,ENG-PLATFORM,843425aeec78,4,Manager support is decent
+2025-07-21,ENG-PLATFORM,c2b2121c35da,4,Good learning last week
+2025-07-21,RISK-OPS,a2bcde3c7acd,2,Culture improving
+2025-07-21,RISK-OPS,063b54898bc9,2,Need career path clarity
+2025-07-21,RISK-OPS,fe3dcaec9a4a,2,Payroll cutoff confusion
+2025-07-21,RISK-OPS,1acf7e8fda5e,2,Need career path clarity
+2025-07-21,RISK-OPS,594548490b12,2,Manager support is decent
+2025-07-21,RISK-OPS,2b07266ee11b,3,Too many alerts this sprint
+2025-07-21,RISK-OPS,999a20965980,3,Waiting on reimbursement
+2025-07-21,RISK-OPS,a170dfe93b1c,2,Manager support is decent
+2025-07-21,RISK-OPS,874fefaa4a1c,4,Workload spiking near deadlines
+2025-07-21,RISK-OPS,c9b13c274f47,2,Payroll cutoff confusion
+2025-07-21,RISK-OPS,0defd3f62cf1,2,Waiting on reimbursement
+2025-07-21,RISK-OPS,d5d2de92b85b,3,Payroll cutoff confusion
+2025-07-21,FIN-OPS,594548490b12,2,Waiting on reimbursement
+2025-07-21,FIN-OPS,661e62e71408,2,Need career path clarity
+2025-07-21,FIN-OPS,0defd3f62cf1,4,Culture improving
+2025-07-21,FIN-OPS,4e6710db3210,3,Good learning last week
+2025-07-21,FIN-OPS,5ae114878fe7,5,Manager support is decent
+2025-07-21,FIN-OPS,cab95421fd1d,4,Too many alerts this sprint
+2025-07-21,FIN-OPS,4e39552e8ba3,5,Workload spiking near deadlines
+2025-07-21,FIN-OPS,1c3cb3049c90,5,Too many alerts this sprint
+2025-07-21,CS-SUPPORT,631819e57e4c,4,Good learning last week
+2025-07-21,CS-SUPPORT,62c15799ac06,4,Too many alerts this sprint
+2025-07-21,CS-SUPPORT,a170dfe93b1c,2,Good learning last week
+2025-07-21,CS-SUPPORT,f65b751f5aea,4,Manager support is decent
+2025-07-21,CS-SUPPORT,431c4fe44efd,4,Manager support is decent
+2025-07-21,CS-SUPPORT,874fefaa4a1c,2,Culture improving
+2025-07-21,CS-SUPPORT,6b67e9d9008f,3,Waiting on reimbursement
+2025-07-21,CS-SUPPORT,50567a292335,4,Need career path clarity
+2025-07-22,ENG-PLATFORM,da7d4bb97c8d,5,Waiting on reimbursement
+2025-07-22,ENG-PLATFORM,c441c44213ed,4,Manager support is decent
+2025-07-22,ENG-PLATFORM,932f9ef8af99,4,Manager support is decent
+2025-07-22,ENG-PLATFORM,a2bcde3c7acd,3,Good learning last week
+2025-07-22,ENG-PLATFORM,12c12b2693f2,2,Need career path clarity
+2025-07-22,ENG-PLATFORM,118ef7411dbd,3,Need career path clarity
+2025-07-22,ENG-PLATFORM,9cfc4f786ecf,5,Need career path clarity
+2025-07-22,ENG-PLATFORM,ebf98a19cb32,5,Waiting on reimbursement
+2025-07-22,ENG-PLATFORM,5ae114878fe7,2,Too many alerts this sprint
+2025-07-22,ENG-PLATFORM,ebf98a19cb32,4,Good learning last week
+2025-07-22,RISK-OPS,f905c3dc0105,3,Need career path clarity
+2025-07-22,RISK-OPS,20eae3948e94,2,Too many alerts this sprint
+2025-07-22,RISK-OPS,796b367c6c03,3,Good learning last week
+2025-07-22,RISK-OPS,43f3618fdbad,2,Manager support is decent
+2025-07-22,RISK-OPS,f86dad4f99d0,3,Manager support is decent
+2025-07-22,RISK-OPS,1f903ca452ec,4,Workload spiking near deadlines
+2025-07-22,RISK-OPS,4697a4eb35b0,2,Manager support is decent
+2025-07-22,FIN-OPS,50e3c551bb29,3,Workload spiking near deadlines
+2025-07-22,FIN-OPS,51aee1c13e89,4,Culture improving
+2025-07-22,FIN-OPS,631819e57e4c,4,Too many alerts this sprint
+2025-07-22,FIN-OPS,24bf71145948,3,Waiting on reimbursement
+2025-07-22,FIN-OPS,62c15799ac06,3,Manager support is decent
+2025-07-22,CS-SUPPORT,b6e5a7ed9cea,4,Too many alerts this sprint
+2025-07-22,CS-SUPPORT,874fefaa4a1c,2,Too many alerts this sprint
+2025-07-22,CS-SUPPORT,c9202ac25327,4,Manager support is decent
+2025-07-22,CS-SUPPORT,f65b751f5aea,4,Culture improving
+2025-07-22,CS-SUPPORT,43f3618fdbad,4,Waiting on reimbursement
+2025-07-23,ENG-PLATFORM,51aee1c13e89,3,Manager support is decent
+2025-07-23,ENG-PLATFORM,8c2215ab08bf,4,Manager support is decent
+2025-07-23,ENG-PLATFORM,6f323a85838a,5,Workload spiking near deadlines
+2025-07-23,ENG-PLATFORM,12c12b2693f2,2,Good learning last week
+2025-07-23,ENG-PLATFORM,12c12b2693f2,4,Culture improving
+2025-07-23,ENG-PLATFORM,50567a292335,3,Waiting on reimbursement
+2025-07-23,ENG-PLATFORM,6b67e9d9008f,2,Need career path clarity
+2025-07-23,ENG-PLATFORM,2b21ea99c2cb,3,Good learning last week
+2025-07-23,ENG-PLATFORM,e0b3852f9439,5,Culture improving
+2025-07-23,ENG-PLATFORM,e505b4d1a379,2,Culture improving
+2025-07-23,RISK-OPS,118ef7411dbd,2,Waiting on reimbursement
+2025-07-23,RISK-OPS,2b21ea99c2cb,4,Workload spiking near deadlines
+2025-07-23,RISK-OPS,7e3d8f1cdd95,2,Payroll cutoff confusion
+2025-07-23,RISK-OPS,9069c6c5c535,3,Too many alerts this sprint
+2025-07-23,RISK-OPS,3e500fa1f2aa,2,Payroll cutoff confusion
+2025-07-23,RISK-OPS,a2bcde3c7acd,3,Good learning last week
+2025-07-23,FIN-OPS,ba0d2fb77d37,3,Good learning last week
+2025-07-23,FIN-OPS,788047dafc58,3,Payroll cutoff confusion
+2025-07-23,FIN-OPS,342f2d338a38,3,Good learning last week
+2025-07-23,FIN-OPS,cd4dd1beb52b,2,Need career path clarity
+2025-07-23,FIN-OPS,386ea9c1908c,3,Culture improving
+2025-07-23,FIN-OPS,3c072731233c,5,Workload spiking near deadlines
+2025-07-23,FIN-OPS,b6e5a7ed9cea,2,Need career path clarity
+2025-07-23,FIN-OPS,1c3cb3049c90,5,Too many alerts this sprint
+2025-07-23,FIN-OPS,d4bddd8e65f9,3,Good learning last week
+2025-07-23,CS-SUPPORT,c82684ec8b83,2,Waiting on reimbursement
+2025-07-23,CS-SUPPORT,c9202ac25327,3,Manager support is decent
+2025-07-23,CS-SUPPORT,12c12b2693f2,3,Need career path clarity
+2025-07-23,CS-SUPPORT,796b367c6c03,3,Payroll cutoff confusion
+2025-07-23,CS-SUPPORT,62c15799ac06,2,Manager support is decent
+2025-07-23,CS-SUPPORT,118ef7411dbd,3,Need career path clarity
+2025-07-23,CS-SUPPORT,1acf7e8fda5e,4,Workload spiking near deadlines
+2025-07-23,CS-SUPPORT,a8c6a5afb514,5,Waiting on reimbursement
+2025-07-23,CS-SUPPORT,431c4fe44efd,3,Too many alerts this sprint
+2025-07-23,CS-SUPPORT,1c3cb3049c90,3,Need career path clarity
+2025-07-23,CS-SUPPORT,796b367c6c03,5,Culture improving
+2025-07-24,ENG-PLATFORM,b5b3cd7d192c,3,Good learning last week
+2025-07-24,ENG-PLATFORM,1acf7e8fda5e,3,Waiting on reimbursement
+2025-07-24,ENG-PLATFORM,4e39552e8ba3,4,Manager support is decent
+2025-07-24,ENG-PLATFORM,cd4dd1beb52b,2,Waiting on reimbursement
+2025-07-24,ENG-PLATFORM,b5b3cd7d192c,4,Culture improving
+2025-07-24,ENG-PLATFORM,9f77826ebed3,2,Culture improving
+2025-07-24,ENG-PLATFORM,342f2d338a38,3,Payroll cutoff confusion
+2025-07-24,ENG-PLATFORM,4697a4eb35b0,4,Too many alerts this sprint
+2025-07-24,ENG-PLATFORM,ba353c5af803,2,Manager support is decent
+2025-07-24,ENG-PLATFORM,51aee1c13e89,5,Too many alerts this sprint
+2025-07-24,RISK-OPS,843425aeec78,3,Waiting on reimbursement
+2025-07-24,RISK-OPS,594548490b12,2,Culture improving
+2025-07-24,RISK-OPS,48e277f16eab,4,Workload spiking near deadlines
+2025-07-24,RISK-OPS,41a64d7e9787,3,Too many alerts this sprint
+2025-07-24,RISK-OPS,063b54898bc9,2,Workload spiking near deadlines
+2025-07-24,FIN-OPS,ba353c5af803,4,Good learning last week
+2025-07-24,FIN-OPS,748bdcbbdc1c,4,Manager support is decent
+2025-07-24,FIN-OPS,c5b54be832cb,3,Manager support is decent
+2025-07-24,FIN-OPS,a2bcde3c7acd,2,Good learning last week
+2025-07-24,FIN-OPS,c2b2121c35da,3,Need career path clarity
+2025-07-24,FIN-OPS,df83c83b6759,5,Manager support is decent
+2025-07-24,FIN-OPS,5581e8598db1,4,Too many alerts this sprint
+2025-07-24,FIN-OPS,d5d2de92b85b,2,Workload spiking near deadlines
+2025-07-24,FIN-OPS,74e050844ced,3,Payroll cutoff confusion
+2025-07-24,FIN-OPS,65eb7ae11d36,3,Manager support is decent
+2025-07-24,FIN-OPS,26dcde7c76cd,3,Manager support is decent
+2025-07-24,CS-SUPPORT,788047dafc58,2,Waiting on reimbursement
+2025-07-24,CS-SUPPORT,f86dad4f99d0,4,Need career path clarity
+2025-07-24,CS-SUPPORT,e71591f90e53,5,Need career path clarity
+2025-07-24,CS-SUPPORT,f65b751f5aea,2,Need career path clarity
+2025-07-24,CS-SUPPORT,76e54f039797,4,Waiting on reimbursement
+2025-07-25,ENG-PLATFORM,843425aeec78,3,Too many alerts this sprint
+2025-07-25,ENG-PLATFORM,5ae114878fe7,4,Waiting on reimbursement
+2025-07-25,ENG-PLATFORM,4d781f77977b,4,Good learning last week
+2025-07-25,ENG-PLATFORM,a170dfe93b1c,3,Payroll cutoff confusion
+2025-07-25,ENG-PLATFORM,9f77826ebed3,4,Payroll cutoff confusion
+2025-07-25,ENG-PLATFORM,43f3618fdbad,2,Too many alerts this sprint
+2025-07-25,ENG-PLATFORM,50567a292335,3,Need career path clarity
+2025-07-25,ENG-PLATFORM,bbcdb08ce147,5,Good learning last week
+2025-07-25,ENG-PLATFORM,19b347aa0cd3,4,Workload spiking near deadlines
+2025-07-25,ENG-PLATFORM,2f6e56a45050,5,Culture improving
+2025-07-25,RISK-OPS,da7d4bb97c8d,3,Culture improving
+2025-07-25,RISK-OPS,192db8c7278c,4,Culture improving
+2025-07-25,RISK-OPS,50567a292335,3,Waiting on reimbursement
+2025-07-25,RISK-OPS,386ea9c1908c,3,Good learning last week
+2025-07-25,RISK-OPS,386ea9c1908c,3,Workload spiking near deadlines
+2025-07-25,RISK-OPS,65eb7ae11d36,3,Culture improving
+2025-07-25,RISK-OPS,342f2d338a38,4,Good learning last week
+2025-07-25,RISK-OPS,51aee1c13e89,2,Good learning last week
+2025-07-25,RISK-OPS,67edb7a8e8fe,2,Too many alerts this sprint
+2025-07-25,RISK-OPS,f905c3dc0105,2,Good learning last week
+2025-07-25,RISK-OPS,2f0472885eaa,3,Culture improving
+2025-07-25,RISK-OPS,6b67e9d9008f,2,Waiting on reimbursement
+2025-07-25,FIN-OPS,20eae3948e94,3,Culture improving
+2025-07-25,FIN-OPS,192db8c7278c,4,Workload spiking near deadlines
+2025-07-25,FIN-OPS,50e3c551bb29,5,Culture improving
+2025-07-25,FIN-OPS,ba0d2fb77d37,4,Waiting on reimbursement
+2025-07-25,FIN-OPS,ba0d2fb77d37,3,Payroll cutoff confusion
+2025-07-25,FIN-OPS,da7d4bb97c8d,3,Waiting on reimbursement
+2025-07-25,FIN-OPS,c82684ec8b83,2,Manager support is decent
+2025-07-25,FIN-OPS,43f3618fdbad,3,Good learning last week
+2025-07-25,CS-SUPPORT,874fefaa4a1c,4,Workload spiking near deadlines
+2025-07-25,CS-SUPPORT,b6e5a7ed9cea,4,Good learning last week
+2025-07-25,CS-SUPPORT,65eb7ae11d36,3,Culture improving
+2025-07-25,CS-SUPPORT,c9202ac25327,3,Culture improving
+2025-07-25,CS-SUPPORT,43f3618fdbad,2,Waiting on reimbursement
+2025-07-26,ENG-PLATFORM,4e39552e8ba3,2,Culture improving
+2025-07-26,ENG-PLATFORM,1acf7e8fda5e,3,Need career path clarity
+2025-07-26,ENG-PLATFORM,20eae3948e94,2,Culture improving
+2025-07-26,ENG-PLATFORM,29b97656e8ee,3,Waiting on reimbursement
+2025-07-26,ENG-PLATFORM,51aee1c13e89,5,Need career path clarity
+2025-07-26,ENG-PLATFORM,4e6710db3210,5,Payroll cutoff confusion
+2025-07-26,ENG-PLATFORM,cb0c50916267,3,Waiting on reimbursement
+2025-07-26,RISK-OPS,2b21ea99c2cb,4,Waiting on reimbursement
+2025-07-26,RISK-OPS,2f6e56a45050,3,Too many alerts this sprint
+2025-07-26,RISK-OPS,c2b2121c35da,2,Workload spiking near deadlines
+2025-07-26,RISK-OPS,796b367c6c03,4,Need career path clarity
+2025-07-26,RISK-OPS,1c3cb3049c90,4,Workload spiking near deadlines
+2025-07-26,RISK-OPS,1d8dcb5ae205,4,Culture improving
+2025-07-26,RISK-OPS,d5d2de92b85b,4,Good learning last week
+2025-07-26,RISK-OPS,3c072731233c,4,Manager support is decent
+2025-07-26,RISK-OPS,6b67e9d9008f,3,Waiting on reimbursement
+2025-07-26,RISK-OPS,b6e5a7ed9cea,2,Good learning last week
+2025-07-26,FIN-OPS,2b07266ee11b,3,Manager support is decent
+2025-07-26,FIN-OPS,e71591f90e53,5,Culture improving
+2025-07-26,FIN-OPS,b5b3cd7d192c,2,Too many alerts this sprint
+2025-07-26,FIN-OPS,a6acc0407327,3,Manager support is decent
+2025-07-26,FIN-OPS,0defd3f62cf1,3,Manager support is decent
+2025-07-26,FIN-OPS,f90b99b25650,2,Workload spiking near deadlines
+2025-07-26,FIN-OPS,50567a292335,4,Need career path clarity
+2025-07-26,FIN-OPS,24bf71145948,4,Payroll cutoff confusion
+2025-07-26,FIN-OPS,9ce55b01d9e6,4,Culture improving
+2025-07-26,FIN-OPS,da7d4bb97c8d,4,Manager support is decent
+2025-07-26,CS-SUPPORT,5b6b72764a79,4,Good learning last week
+2025-07-26,CS-SUPPORT,51aee1c13e89,4,Manager support is decent
+2025-07-26,CS-SUPPORT,c5b54be832cb,2,Too many alerts this sprint
+2025-07-26,CS-SUPPORT,932f9ef8af99,3,Too many alerts this sprint
+2025-07-26,CS-SUPPORT,d4bddd8e65f9,2,Culture improving
+2025-07-26,CS-SUPPORT,24bf71145948,4,Waiting on reimbursement
+2025-07-26,CS-SUPPORT,35f8c8fe812a,2,Manager support is decent
+2025-07-26,CS-SUPPORT,397f3205e12f,4,Payroll cutoff confusion
+2025-07-26,CS-SUPPORT,50e3c551bb29,2,Need career path clarity
+2025-07-26,CS-SUPPORT,cb0c50916267,3,Need career path clarity
+2025-07-26,CS-SUPPORT,51aee1c13e89,2,Manager support is decent
+2025-07-26,CS-SUPPORT,b6e5a7ed9cea,3,Good learning last week
+2025-07-27,ENG-PLATFORM,796b367c6c03,4,Too many alerts this sprint
+2025-07-27,ENG-PLATFORM,67edb7a8e8fe,3,Too many alerts this sprint
+2025-07-27,ENG-PLATFORM,431c4fe44efd,2,Workload spiking near deadlines
+2025-07-27,ENG-PLATFORM,48e277f16eab,4,Payroll cutoff confusion
+2025-07-27,ENG-PLATFORM,cd4dd1beb52b,2,Culture improving
+2025-07-27,ENG-PLATFORM,254e5d281a69,4,Manager support is decent
+2025-07-27,ENG-PLATFORM,4a61d470416d,5,Payroll cutoff confusion
+2025-07-27,ENG-PLATFORM,bbcdb08ce147,2,Workload spiking near deadlines
+2025-07-27,ENG-PLATFORM,a6acc0407327,3,Too many alerts this sprint
+2025-07-27,ENG-PLATFORM,ebf98a19cb32,4,Manager support is decent
+2025-07-27,ENG-PLATFORM,4697a4eb35b0,4,Payroll cutoff confusion
+2025-07-27,RISK-OPS,8c2215ab08bf,3,Manager support is decent
+2025-07-27,RISK-OPS,a170dfe93b1c,4,Need career path clarity
+2025-07-27,RISK-OPS,1d8dcb5ae205,3,Need career path clarity
+2025-07-27,RISK-OPS,df83c83b6759,2,Payroll cutoff confusion
+2025-07-27,RISK-OPS,12c12b2693f2,3,Payroll cutoff confusion
+2025-07-27,RISK-OPS,788047dafc58,3,Good learning last week
+2025-07-27,RISK-OPS,730a5bbebc37,3,Workload spiking near deadlines
+2025-07-27,RISK-OPS,cd4dd1beb52b,2,Manager support is decent
+2025-07-27,RISK-OPS,64223f098aad,3,Need career path clarity
+2025-07-27,RISK-OPS,661e62e71408,4,Good learning last week
+2025-07-27,RISK-OPS,dacbf99a38e0,2,Need career path clarity
+2025-07-27,RISK-OPS,063b54898bc9,4,Need career path clarity
+2025-07-27,FIN-OPS,2f0472885eaa,3,Payroll cutoff confusion
+2025-07-27,FIN-OPS,29b97656e8ee,2,Need career path clarity
+2025-07-27,FIN-OPS,26dcde7c76cd,5,Workload spiking near deadlines
+2025-07-27,FIN-OPS,118ef7411dbd,4,Waiting on reimbursement
+2025-07-27,FIN-OPS,3d95247f129e,4,Waiting on reimbursement
+2025-07-27,FIN-OPS,24bf71145948,3,Good learning last week
+2025-07-27,FIN-OPS,c2b2121c35da,2,Need career path clarity
+2025-07-27,FIN-OPS,ebf98a19cb32,5,Need career path clarity
+2025-07-27,FIN-OPS,bbcdb08ce147,5,Waiting on reimbursement
+2025-07-27,FIN-OPS,ae3fc8dad4c6,4,Too many alerts this sprint
+2025-07-27,FIN-OPS,2b07266ee11b,5,Manager support is decent
+2025-07-27,FIN-OPS,594548490b12,4,Need career path clarity
+2025-07-27,CS-SUPPORT,ba353c5af803,3,Payroll cutoff confusion
+2025-07-27,CS-SUPPORT,d5d2de92b85b,2,Need career path clarity
+2025-07-27,CS-SUPPORT,d048f004ae50,4,Waiting on reimbursement
+2025-07-27,CS-SUPPORT,b99e1c243540,4,Manager support is decent
+2025-07-27,CS-SUPPORT,f86dad4f99d0,2,Manager support is decent
+2025-07-27,CS-SUPPORT,5b6b72764a79,3,Culture improving
+2025-07-27,CS-SUPPORT,9ce55b01d9e6,4,Too many alerts this sprint
+2025-07-27,CS-SUPPORT,50567a292335,5,Payroll cutoff confusion
+2025-07-27,CS-SUPPORT,2f0472885eaa,4,Payroll cutoff confusion
+2025-07-27,CS-SUPPORT,4d781f77977b,3,Too many alerts this sprint
+2025-07-28,ENG-PLATFORM,b99e1c243540,4,Need career path clarity
+2025-07-28,ENG-PLATFORM,4d781f77977b,4,Culture improving
+2025-07-28,ENG-PLATFORM,fe3dcaec9a4a,3,Workload spiking near deadlines
+2025-07-28,ENG-PLATFORM,62c15799ac06,4,Too many alerts this sprint
+2025-07-28,ENG-PLATFORM,8c2215ab08bf,3,Workload spiking near deadlines
+2025-07-28,ENG-PLATFORM,397f3205e12f,3,Too many alerts this sprint
+2025-07-28,ENG-PLATFORM,5ae114878fe7,4,Manager support is decent
+2025-07-28,ENG-PLATFORM,a5412d220b3e,3,Waiting on reimbursement
+2025-07-28,ENG-PLATFORM,29b97656e8ee,5,Payroll cutoff confusion
+2025-07-28,ENG-PLATFORM,4e39552e8ba3,3,Too many alerts this sprint
+2025-07-28,ENG-PLATFORM,35f8c8fe812a,4,Manager support is decent
+2025-07-28,RISK-OPS,367e82d0c267,2,Need career path clarity
+2025-07-28,RISK-OPS,261065c7e8c2,3,Culture improving
+2025-07-28,RISK-OPS,e71591f90e53,2,Waiting on reimbursement
+2025-07-28,RISK-OPS,74e050844ced,3,Need career path clarity
+2025-07-28,RISK-OPS,999a20965980,4,Workload spiking near deadlines
+2025-07-28,RISK-OPS,a69f8dbf16c0,2,Good learning last week
+2025-07-28,RISK-OPS,730a5bbebc37,2,Good learning last week
+2025-07-28,RISK-OPS,4d781f77977b,3,Workload spiking near deadlines
+2025-07-28,FIN-OPS,50e3c551bb29,3,Too many alerts this sprint
+2025-07-28,FIN-OPS,df83c83b6759,4,Need career path clarity
+2025-07-28,FIN-OPS,3c072731233c,2,Workload spiking near deadlines
+2025-07-28,FIN-OPS,431c4fe44efd,3,Payroll cutoff confusion
+2025-07-28,FIN-OPS,0cd6d1f6eb44,4,Waiting on reimbursement
+2025-07-28,FIN-OPS,a5412d220b3e,4,Culture improving
+2025-07-28,FIN-OPS,0defd3f62cf1,3,Too many alerts this sprint
+2025-07-28,FIN-OPS,62c15799ac06,5,Manager support is decent
+2025-07-28,FIN-OPS,d07953451aaf,2,Need career path clarity
+2025-07-28,FIN-OPS,fe2a70fdf392,3,Good learning last week
+2025-07-28,CS-SUPPORT,a170dfe93b1c,3,Good learning last week
+2025-07-28,CS-SUPPORT,e505b4d1a379,5,Need career path clarity
+2025-07-28,CS-SUPPORT,0b75213cac95,2,Workload spiking near deadlines
+2025-07-28,CS-SUPPORT,81b4eac32d7a,3,Waiting on reimbursement
+2025-07-28,CS-SUPPORT,0cd6d1f6eb44,2,Good learning last week
+2025-07-28,CS-SUPPORT,397ec0744e99,4,Too many alerts this sprint
+2025-07-28,CS-SUPPORT,c9202ac25327,5,Too many alerts this sprint
+2025-07-28,CS-SUPPORT,9cfc4f786ecf,4,Culture improving
+2025-07-29,ENG-PLATFORM,397ec0744e99,3,Payroll cutoff confusion
+2025-07-29,ENG-PLATFORM,29b97656e8ee,5,Need career path clarity
+2025-07-29,ENG-PLATFORM,5581e8598db1,2,Workload spiking near deadlines
+2025-07-29,ENG-PLATFORM,0b75213cac95,5,Culture improving
+2025-07-29,ENG-PLATFORM,51a8a8a6b734,5,Too many alerts this sprint
+2025-07-29,ENG-PLATFORM,29b97656e8ee,5,Manager support is decent
+2025-07-29,ENG-PLATFORM,79af63685d2c,2,Culture improving
+2025-07-29,ENG-PLATFORM,5ae114878fe7,5,Culture improving
+2025-07-29,ENG-PLATFORM,9069c6c5c535,3,Too many alerts this sprint
+2025-07-29,ENG-PLATFORM,cb0c50916267,5,Too many alerts this sprint
+2025-07-29,ENG-PLATFORM,2086812e1e39,3,Good learning last week
+2025-07-29,ENG-PLATFORM,26dcde7c76cd,2,Need career path clarity
+2025-07-29,RISK-OPS,76e54f039797,2,Workload spiking near deadlines
+2025-07-29,RISK-OPS,cb0c50916267,3,Too many alerts this sprint
+2025-07-29,RISK-OPS,813efa59f985,3,Need career path clarity
+2025-07-29,RISK-OPS,50567a292335,2,Good learning last week
+2025-07-29,RISK-OPS,397f3205e12f,2,Payroll cutoff confusion
+2025-07-29,RISK-OPS,192db8c7278c,3,Too many alerts this sprint
+2025-07-29,RISK-OPS,1c3cb3049c90,2,Waiting on reimbursement
+2025-07-29,RISK-OPS,4a61d470416d,2,Payroll cutoff confusion
+2025-07-29,RISK-OPS,c2b2121c35da,3,Waiting on reimbursement
+2025-07-29,RISK-OPS,76e54f039797,3,Manager support is decent
+2025-07-29,FIN-OPS,1c771609495b,3,Too many alerts this sprint
+2025-07-29,FIN-OPS,e0b3852f9439,3,Culture improving
+2025-07-29,FIN-OPS,813efa59f985,4,Too many alerts this sprint
+2025-07-29,FIN-OPS,788047dafc58,2,Payroll cutoff confusion
+2025-07-29,FIN-OPS,fe2a70fdf392,5,Manager support is decent
+2025-07-29,FIN-OPS,81b4eac32d7a,3,Manager support is decent
+2025-07-29,FIN-OPS,a5412d220b3e,5,Need career path clarity
+2025-07-29,FIN-OPS,874fefaa4a1c,3,Need career path clarity
+2025-07-29,CS-SUPPORT,a5412d220b3e,3,Waiting on reimbursement
+2025-07-29,CS-SUPPORT,bbcdb08ce147,3,Need career path clarity
+2025-07-29,CS-SUPPORT,ba0d2fb77d37,4,Waiting on reimbursement
+2025-07-29,CS-SUPPORT,2b07266ee11b,5,Waiting on reimbursement
+2025-07-29,CS-SUPPORT,4e39552e8ba3,2,Payroll cutoff confusion
+2025-07-30,ENG-PLATFORM,19b347aa0cd3,3,Culture improving
+2025-07-30,ENG-PLATFORM,3c072731233c,2,Workload spiking near deadlines
+2025-07-30,ENG-PLATFORM,b5b3cd7d192c,3,Good learning last week
+2025-07-30,ENG-PLATFORM,c441c44213ed,3,Waiting on reimbursement
+2025-07-30,ENG-PLATFORM,c82684ec8b83,2,Waiting on reimbursement
+2025-07-30,ENG-PLATFORM,c9b13c274f47,4,Need career path clarity
+2025-07-30,ENG-PLATFORM,7e3d8f1cdd95,4,Payroll cutoff confusion
+2025-07-30,ENG-PLATFORM,50567a292335,2,Workload spiking near deadlines
+2025-07-30,ENG-PLATFORM,f905c3dc0105,3,Culture improving
+2025-07-30,ENG-PLATFORM,a2bcde3c7acd,3,Good learning last week
+2025-07-30,RISK-OPS,41a64d7e9787,2,Good learning last week
+2025-07-30,RISK-OPS,2b21ea99c2cb,3,Too many alerts this sprint
+2025-07-30,RISK-OPS,c2b2121c35da,2,Need career path clarity
+2025-07-30,RISK-OPS,118ef7411dbd,4,Too many alerts this sprint
+2025-07-30,RISK-OPS,24bf71145948,2,Workload spiking near deadlines
+2025-07-30,FIN-OPS,4a61d470416d,4,Culture improving
+2025-07-30,FIN-OPS,a8c6a5afb514,5,Waiting on reimbursement
+2025-07-30,FIN-OPS,397f3205e12f,4,Culture improving
+2025-07-30,FIN-OPS,661e62e71408,3,Waiting on reimbursement
+2025-07-30,FIN-OPS,192db8c7278c,4,Workload spiking near deadlines
+2025-07-30,FIN-OPS,6f323a85838a,3,Waiting on reimbursement
+2025-07-30,FIN-OPS,843425aeec78,5,Workload spiking near deadlines
+2025-07-30,FIN-OPS,20eae3948e94,4,Waiting on reimbursement
+2025-07-30,FIN-OPS,3d95247f129e,3,Workload spiking near deadlines
+2025-07-30,CS-SUPPORT,9ce55b01d9e6,5,Too many alerts this sprint
+2025-07-30,CS-SUPPORT,342f2d338a38,4,Workload spiking near deadlines
+2025-07-30,CS-SUPPORT,0cd6d1f6eb44,2,Manager support is decent
+2025-07-30,CS-SUPPORT,cb0c50916267,2,Workload spiking near deadlines
+2025-07-30,CS-SUPPORT,fe3dcaec9a4a,2,Need career path clarity
+2025-07-30,CS-SUPPORT,367e82d0c267,4,Manager support is decent
+2025-07-30,CS-SUPPORT,dacbf99a38e0,3,Payroll cutoff confusion
+2025-07-30,CS-SUPPORT,796b367c6c03,3,Good learning last week
+2025-07-30,CS-SUPPORT,fe3dcaec9a4a,5,Workload spiking near deadlines
+2025-07-30,CS-SUPPORT,29b97656e8ee,4,Manager support is decent
+2025-07-30,CS-SUPPORT,67edb7a8e8fe,4,Too many alerts this sprint
+2025-07-31,ENG-PLATFORM,e0b3852f9439,2,Manager support is decent
+2025-07-31,ENG-PLATFORM,d07953451aaf,2,Manager support is decent
+2025-07-31,ENG-PLATFORM,f65b751f5aea,3,Good learning last week
+2025-07-31,ENG-PLATFORM,4e39552e8ba3,3,Good learning last week
+2025-07-31,ENG-PLATFORM,1c771609495b,5,Need career path clarity
+2025-07-31,ENG-PLATFORM,4a61d470416d,3,Workload spiking near deadlines
+2025-07-31,ENG-PLATFORM,dacbf99a38e0,4,Good learning last week
+2025-07-31,RISK-OPS,b6e5a7ed9cea,2,Workload spiking near deadlines
+2025-07-31,RISK-OPS,a2bcde3c7acd,2,Manager support is decent
+2025-07-31,RISK-OPS,ae3fc8dad4c6,4,Payroll cutoff confusion
+2025-07-31,RISK-OPS,cd4dd1beb52b,2,Manager support is decent
+2025-07-31,RISK-OPS,f90b99b25650,2,Too many alerts this sprint
+2025-07-31,RISK-OPS,a170dfe93b1c,2,Payroll cutoff confusion
+2025-07-31,RISK-OPS,4a61d470416d,3,Payroll cutoff confusion
+2025-07-31,RISK-OPS,fe2a70fdf392,2,Waiting on reimbursement
+2025-07-31,RISK-OPS,a5412d220b3e,2,Too many alerts this sprint
+2025-07-31,RISK-OPS,63d4352f9a2b,3,Need career path clarity
+2025-07-31,RISK-OPS,261065c7e8c2,2,Manager support is decent
+2025-07-31,RISK-OPS,1c3cb3049c90,2,Workload spiking near deadlines
+2025-07-31,FIN-OPS,67edb7a8e8fe,5,Waiting on reimbursement
+2025-07-31,FIN-OPS,b6e5a7ed9cea,3,Payroll cutoff confusion
+2025-07-31,FIN-OPS,c9213eae3dbc,3,Manager support is decent
+2025-07-31,FIN-OPS,df83c83b6759,3,Waiting on reimbursement
+2025-07-31,FIN-OPS,d048f004ae50,4,Need career path clarity
+2025-07-31,FIN-OPS,1f903ca452ec,3,Need career path clarity
+2025-07-31,FIN-OPS,fe3dcaec9a4a,4,Need career path clarity
+2025-07-31,CS-SUPPORT,d048f004ae50,3,Workload spiking near deadlines
+2025-07-31,CS-SUPPORT,1c3cb3049c90,3,Manager support is decent
+2025-07-31,CS-SUPPORT,e0b3852f9439,4,Payroll cutoff confusion
+2025-07-31,CS-SUPPORT,c5b54be832cb,4,Payroll cutoff confusion
+2025-07-31,CS-SUPPORT,1d8dcb5ae205,4,Need career path clarity
+2025-07-31,CS-SUPPORT,4e39552e8ba3,3,Workload spiking near deadlines
+2025-07-31,CS-SUPPORT,9069c6c5c535,5,Waiting on reimbursement
+2025-08-01,ENG-PLATFORM,d5d2de92b85b,4,Manager support is decent
+2025-08-01,ENG-PLATFORM,f1089229977a,4,Payroll cutoff confusion
+2025-08-01,ENG-PLATFORM,12c12b2693f2,2,Too many alerts this sprint
+2025-08-01,ENG-PLATFORM,cb0c50916267,3,Workload spiking near deadlines
+2025-08-01,ENG-PLATFORM,50e3c551bb29,5,Good learning last week
+2025-08-01,ENG-PLATFORM,64223f098aad,3,Manager support is decent
+2025-08-01,ENG-PLATFORM,a8c6a5afb514,5,Good learning last week
+2025-08-01,ENG-PLATFORM,79af63685d2c,3,Need career path clarity
+2025-08-01,ENG-PLATFORM,cd4dd1beb52b,4,Workload spiking near deadlines
+2025-08-01,ENG-PLATFORM,a2bcde3c7acd,5,Waiting on reimbursement
+2025-08-01,ENG-PLATFORM,118ef7411dbd,4,Payroll cutoff confusion
+2025-08-01,ENG-PLATFORM,a5412d220b3e,3,Manager support is decent
+2025-08-01,RISK-OPS,3e500fa1f2aa,2,Culture improving
+2025-08-01,RISK-OPS,5ae114878fe7,2,Good learning last week
+2025-08-01,RISK-OPS,dacbf99a38e0,3,Need career path clarity
+2025-08-01,RISK-OPS,063b54898bc9,2,Manager support is decent
+2025-08-01,RISK-OPS,1f903ca452ec,3,Payroll cutoff confusion
+2025-08-01,RISK-OPS,594548490b12,3,Payroll cutoff confusion
+2025-08-01,RISK-OPS,2b07266ee11b,2,Payroll cutoff confusion
+2025-08-01,RISK-OPS,62c15799ac06,2,Manager support is decent
+2025-08-01,RISK-OPS,7e3d8f1cdd95,3,Workload spiking near deadlines
+2025-08-01,RISK-OPS,51a8a8a6b734,4,Workload spiking near deadlines
+2025-08-01,RISK-OPS,e71591f90e53,2,Too many alerts this sprint
+2025-08-01,RISK-OPS,f1089229977a,4,Good learning last week
+2025-08-01,FIN-OPS,397f3205e12f,3,Workload spiking near deadlines
+2025-08-01,FIN-OPS,063b54898bc9,3,Payroll cutoff confusion
+2025-08-01,FIN-OPS,b6e5a7ed9cea,4,Payroll cutoff confusion
+2025-08-01,FIN-OPS,c9202ac25327,5,Culture improving
+2025-08-01,FIN-OPS,c9202ac25327,4,Manager support is decent
+2025-08-01,FIN-OPS,748bdcbbdc1c,5,Good learning last week
+2025-08-01,FIN-OPS,254e5d281a69,3,Culture improving
+2025-08-01,FIN-OPS,ae3fc8dad4c6,5,Too many alerts this sprint
+2025-08-01,FIN-OPS,dacbf99a38e0,4,Culture improving
+2025-08-01,FIN-OPS,796b367c6c03,2,Workload spiking near deadlines
+2025-08-01,FIN-OPS,8c2215ab08bf,3,Payroll cutoff confusion
+2025-08-01,FIN-OPS,999a20965980,5,Need career path clarity
+2025-08-01,CS-SUPPORT,397ec0744e99,4,Good learning last week
+2025-08-01,CS-SUPPORT,2086812e1e39,2,Need career path clarity
+2025-08-01,CS-SUPPORT,843425aeec78,4,Good learning last week
+2025-08-01,CS-SUPPORT,c9202ac25327,3,Manager support is decent
+2025-08-01,CS-SUPPORT,661e62e71408,4,Workload spiking near deadlines
+2025-08-01,CS-SUPPORT,f86dad4f99d0,5,Manager support is decent
+2025-08-02,ENG-PLATFORM,1f903ca452ec,5,Waiting on reimbursement
+2025-08-02,ENG-PLATFORM,f65b751f5aea,2,Workload spiking near deadlines
+2025-08-02,ENG-PLATFORM,dacbf99a38e0,4,Payroll cutoff confusion
+2025-08-02,ENG-PLATFORM,f86dad4f99d0,4,Waiting on reimbursement
+2025-08-02,ENG-PLATFORM,fe3dcaec9a4a,4,Waiting on reimbursement
+2025-08-02,ENG-PLATFORM,35f8c8fe812a,3,Manager support is decent
+2025-08-02,ENG-PLATFORM,50567a292335,5,Culture improving
+2025-08-02,ENG-PLATFORM,118ef7411dbd,4,Need career path clarity
+2025-08-02,ENG-PLATFORM,b1fd761c9bfc,5,Good learning last week
+2025-08-02,ENG-PLATFORM,5ae114878fe7,4,Culture improving
+2025-08-02,ENG-PLATFORM,4a61d470416d,4,Waiting on reimbursement
+2025-08-02,ENG-PLATFORM,999a20965980,4,Too many alerts this sprint
+2025-08-02,RISK-OPS,c9202ac25327,4,Good learning last week
+2025-08-02,RISK-OPS,bbcdb08ce147,2,Too many alerts this sprint
+2025-08-02,RISK-OPS,76e54f039797,3,Waiting on reimbursement
+2025-08-02,RISK-OPS,50e3c551bb29,2,Culture improving
+2025-08-02,RISK-OPS,50e3c551bb29,2,Culture improving
+2025-08-02,RISK-OPS,51a8a8a6b734,3,Need career path clarity
+2025-08-02,RISK-OPS,41a64d7e9787,4,Too many alerts this sprint
+2025-08-02,RISK-OPS,9ce55b01d9e6,3,Workload spiking near deadlines
+2025-08-02,RISK-OPS,631819e57e4c,2,Workload spiking near deadlines
+2025-08-02,RISK-OPS,2f6e56a45050,2,Workload spiking near deadlines
+2025-08-02,FIN-OPS,bbcdb08ce147,3,Waiting on reimbursement
+2025-08-02,FIN-OPS,d07953451aaf,5,Too many alerts this sprint
+2025-08-02,FIN-OPS,b99e1c243540,2,Too many alerts this sprint
+2025-08-02,FIN-OPS,a6acc0407327,4,Workload spiking near deadlines
+2025-08-02,FIN-OPS,1c771609495b,4,Manager support is decent
+2025-08-02,CS-SUPPORT,62c15799ac06,5,Need career path clarity
+2025-08-02,CS-SUPPORT,431c4fe44efd,4,Too many alerts this sprint
+2025-08-02,CS-SUPPORT,fe3dcaec9a4a,5,Workload spiking near deadlines
+2025-08-02,CS-SUPPORT,f86dad4f99d0,4,Need career path clarity
+2025-08-02,CS-SUPPORT,e0b3852f9439,5,Culture improving
+2025-08-02,CS-SUPPORT,dacbf99a38e0,2,Workload spiking near deadlines
+2025-08-02,CS-SUPPORT,62c15799ac06,3,Good learning last week
+2025-08-02,CS-SUPPORT,c9213eae3dbc,4,Good learning last week
+2025-08-03,ENG-PLATFORM,661e62e71408,4,Good learning last week
+2025-08-03,ENG-PLATFORM,4e39552e8ba3,5,Good learning last week
+2025-08-03,ENG-PLATFORM,4a61d470416d,4,Waiting on reimbursement
+2025-08-03,ENG-PLATFORM,76e54f039797,2,Waiting on reimbursement
+2025-08-03,ENG-PLATFORM,a69f8dbf16c0,5,Manager support is decent
+2025-08-03,ENG-PLATFORM,2f6e56a45050,2,Need career path clarity
+2025-08-03,ENG-PLATFORM,5ae114878fe7,4,Too many alerts this sprint
+2025-08-03,ENG-PLATFORM,c2b2121c35da,3,Too many alerts this sprint
+2025-08-03,ENG-PLATFORM,254e5d281a69,3,Payroll cutoff confusion
+2025-08-03,ENG-PLATFORM,50e3c551bb29,3,Workload spiking near deadlines
+2025-08-03,RISK-OPS,f86dad4f99d0,3,Workload spiking near deadlines
+2025-08-03,RISK-OPS,4e39552e8ba3,4,Too many alerts this sprint
+2025-08-03,RISK-OPS,c82684ec8b83,4,Culture improving
+2025-08-03,RISK-OPS,1acf7e8fda5e,3,Good learning last week
+2025-08-03,RISK-OPS,1d8dcb5ae205,4,Manager support is decent
+2025-08-03,RISK-OPS,5b6b72764a79,4,Waiting on reimbursement
+2025-08-03,RISK-OPS,e0b3852f9439,4,Need career path clarity
+2025-08-03,FIN-OPS,0defd3f62cf1,3,Good learning last week
+2025-08-03,FIN-OPS,67edb7a8e8fe,3,Culture improving
+2025-08-03,FIN-OPS,63d4352f9a2b,3,Good learning last week
+2025-08-03,FIN-OPS,661e62e71408,4,Payroll cutoff confusion
+2025-08-03,FIN-OPS,51a8a8a6b734,5,Workload spiking near deadlines
+2025-08-03,FIN-OPS,d048f004ae50,5,Culture improving
+2025-08-03,CS-SUPPORT,431c4fe44efd,5,Good learning last week
+2025-08-03,CS-SUPPORT,12c12b2693f2,5,Culture improving
+2025-08-03,CS-SUPPORT,2f6e56a45050,2,Need career path clarity
+2025-08-03,CS-SUPPORT,397ec0744e99,4,Too many alerts this sprint
+2025-08-03,CS-SUPPORT,386ea9c1908c,4,Culture improving
+2025-08-03,CS-SUPPORT,0b75213cac95,4,Payroll cutoff confusion
+2025-08-03,CS-SUPPORT,c82684ec8b83,2,Too many alerts this sprint
+2025-08-03,CS-SUPPORT,8c2215ab08bf,5,Good learning last week
+2025-08-03,CS-SUPPORT,3e500fa1f2aa,4,Manager support is decent
+2025-08-03,CS-SUPPORT,748bdcbbdc1c,3,Workload spiking near deadlines
+2025-08-03,CS-SUPPORT,19b347aa0cd3,2,Good learning last week
+2025-08-03,CS-SUPPORT,64223f098aad,5,Good learning last week
+2025-08-04,ENG-PLATFORM,ae3fc8dad4c6,2,Good learning last week
+2025-08-04,ENG-PLATFORM,f905c3dc0105,5,Need career path clarity
+2025-08-04,ENG-PLATFORM,a170dfe93b1c,2,Waiting on reimbursement
+2025-08-04,ENG-PLATFORM,386ea9c1908c,4,Culture improving
+2025-08-04,ENG-PLATFORM,4d781f77977b,2,Manager support is decent
+2025-08-04,ENG-PLATFORM,fe2a70fdf392,3,Too many alerts this sprint
+2025-08-04,ENG-PLATFORM,51a8a8a6b734,2,Good learning last week
+2025-08-04,ENG-PLATFORM,192db8c7278c,3,Need career path clarity
+2025-08-04,ENG-PLATFORM,50567a292335,4,Need career path clarity
+2025-08-04,ENG-PLATFORM,a8c6a5afb514,3,Workload spiking near deadlines
+2025-08-04,ENG-PLATFORM,50567a292335,5,Manager support is decent
+2025-08-04,RISK-OPS,a170dfe93b1c,4,Manager support is decent
+2025-08-04,RISK-OPS,661e62e71408,4,Workload spiking near deadlines
+2025-08-04,RISK-OPS,796b367c6c03,2,Culture improving
+2025-08-04,RISK-OPS,f86dad4f99d0,4,Manager support is decent
+2025-08-04,RISK-OPS,4a61d470416d,3,Manager support is decent
+2025-08-04,FIN-OPS,c441c44213ed,4,Need career path clarity
+2025-08-04,FIN-OPS,48e277f16eab,5,Workload spiking near deadlines
+2025-08-04,FIN-OPS,81b4eac32d7a,3,Good learning last week
+2025-08-04,FIN-OPS,999a20965980,5,Need career path clarity
+2025-08-04,FIN-OPS,4e6710db3210,4,Too many alerts this sprint
+2025-08-04,FIN-OPS,3c072731233c,3,Too many alerts this sprint
+2025-08-04,FIN-OPS,41a64d7e9787,5,Culture improving
+2025-08-04,FIN-OPS,a2bcde3c7acd,4,Waiting on reimbursement
+2025-08-04,FIN-OPS,3d95247f129e,2,Workload spiking near deadlines
+2025-08-04,CS-SUPPORT,f905c3dc0105,4,Manager support is decent
+2025-08-04,CS-SUPPORT,4697a4eb35b0,3,Culture improving
+2025-08-04,CS-SUPPORT,843425aeec78,4,Waiting on reimbursement
+2025-08-04,CS-SUPPORT,51aee1c13e89,3,Good learning last week
+2025-08-04,CS-SUPPORT,c9b13c274f47,3,Good learning last week
+2025-08-04,CS-SUPPORT,d048f004ae50,3,Workload spiking near deadlines
+2025-08-04,CS-SUPPORT,1c3cb3049c90,4,Payroll cutoff confusion
+2025-08-04,CS-SUPPORT,a170dfe93b1c,4,Manager support is decent
+2025-08-04,CS-SUPPORT,4a61d470416d,5,Manager support is decent
+2025-08-04,CS-SUPPORT,397ec0744e99,2,Good learning last week
+2025-08-04,CS-SUPPORT,f90b99b25650,4,Payroll cutoff confusion
+2025-08-05,ENG-PLATFORM,1c771609495b,3,Good learning last week
+2025-08-05,ENG-PLATFORM,748bdcbbdc1c,3,Manager support is decent
+2025-08-05,ENG-PLATFORM,26dcde7c76cd,3,Culture improving
+2025-08-05,ENG-PLATFORM,c82684ec8b83,4,Culture improving
+2025-08-05,ENG-PLATFORM,c9b13c274f47,5,Too many alerts this sprint
+2025-08-05,ENG-PLATFORM,fe3dcaec9a4a,4,Waiting on reimbursement
+2025-08-05,ENG-PLATFORM,ba0d2fb77d37,4,Culture improving
+2025-08-05,ENG-PLATFORM,65eb7ae11d36,3,Need career path clarity
+2025-08-05,ENG-PLATFORM,24bf71145948,2,Culture improving
+2025-08-05,ENG-PLATFORM,cab95421fd1d,3,Need career path clarity
+2025-08-05,RISK-OPS,730a5bbebc37,3,Waiting on reimbursement
+2025-08-05,RISK-OPS,41a64d7e9787,3,Payroll cutoff confusion
+2025-08-05,RISK-OPS,788047dafc58,3,Culture improving
+2025-08-05,RISK-OPS,4e39552e8ba3,3,Payroll cutoff confusion
+2025-08-05,RISK-OPS,dacbf99a38e0,2,Waiting on reimbursement
+2025-08-05,RISK-OPS,a170dfe93b1c,4,Manager support is decent
+2025-08-05,RISK-OPS,730a5bbebc37,3,Waiting on reimbursement
+2025-08-05,RISK-OPS,8c2215ab08bf,4,Good learning last week
+2025-08-05,RISK-OPS,813efa59f985,2,Manager support is decent
+2025-08-05,FIN-OPS,1c3cb3049c90,4,Workload spiking near deadlines
+2025-08-05,FIN-OPS,063b54898bc9,4,Need career path clarity
+2025-08-05,FIN-OPS,342f2d338a38,4,Good learning last week
+2025-08-05,FIN-OPS,192db8c7278c,2,Too many alerts this sprint
+2025-08-05,FIN-OPS,da7d4bb97c8d,4,Payroll cutoff confusion
+2025-08-05,CS-SUPPORT,63d4352f9a2b,4,Good learning last week
+2025-08-05,CS-SUPPORT,8c2215ab08bf,4,Too many alerts this sprint
+2025-08-05,CS-SUPPORT,999a20965980,4,Manager support is decent
+2025-08-05,CS-SUPPORT,48e277f16eab,3,Workload spiking near deadlines
+2025-08-05,CS-SUPPORT,67edb7a8e8fe,3,Waiting on reimbursement
+2025-08-05,CS-SUPPORT,661e62e71408,4,Waiting on reimbursement
+2025-08-05,CS-SUPPORT,b5b3cd7d192c,3,Waiting on reimbursement
+2025-08-06,ENG-PLATFORM,261065c7e8c2,5,Payroll cutoff confusion
+2025-08-06,ENG-PLATFORM,1c771609495b,2,Good learning last week
+2025-08-06,ENG-PLATFORM,c441c44213ed,4,Good learning last week
+2025-08-06,ENG-PLATFORM,74e050844ced,3,Culture improving
+2025-08-06,ENG-PLATFORM,6f323a85838a,2,Good learning last week
+2025-08-06,ENG-PLATFORM,631819e57e4c,3,Need career path clarity
+2025-08-06,ENG-PLATFORM,81b4eac32d7a,4,Workload spiking near deadlines
+2025-08-06,RISK-OPS,cb0c50916267,3,Manager support is decent
+2025-08-06,RISK-OPS,50e3c551bb29,4,Too many alerts this sprint
+2025-08-06,RISK-OPS,ae3fc8dad4c6,3,Waiting on reimbursement
+2025-08-06,RISK-OPS,2f6e56a45050,3,Culture improving
+2025-08-06,RISK-OPS,20eae3948e94,2,Too many alerts this sprint
+2025-08-06,FIN-OPS,192db8c7278c,3,Need career path clarity
+2025-08-06,FIN-OPS,1c771609495b,3,Payroll cutoff confusion
+2025-08-06,FIN-OPS,4e6710db3210,4,Workload spiking near deadlines
+2025-08-06,FIN-OPS,118ef7411dbd,3,Payroll cutoff confusion
+2025-08-06,FIN-OPS,24bf71145948,3,Manager support is decent
+2025-08-06,FIN-OPS,0b75213cac95,5,Too many alerts this sprint
+2025-08-06,FIN-OPS,843425aeec78,3,Waiting on reimbursement
+2025-08-06,FIN-OPS,51aee1c13e89,3,Manager support is decent
+2025-08-06,FIN-OPS,67edb7a8e8fe,3,Need career path clarity
+2025-08-06,FIN-OPS,65eb7ae11d36,3,Manager support is decent
+2025-08-06,FIN-OPS,79af63685d2c,5,Payroll cutoff confusion
+2025-08-06,CS-SUPPORT,a6acc0407327,4,Waiting on reimbursement
+2025-08-06,CS-SUPPORT,a170dfe93b1c,4,Workload spiking near deadlines
+2025-08-06,CS-SUPPORT,cab95421fd1d,2,Waiting on reimbursement
+2025-08-06,CS-SUPPORT,2f0472885eaa,4,Waiting on reimbursement
+2025-08-06,CS-SUPPORT,999a20965980,5,Workload spiking near deadlines
+2025-08-06,CS-SUPPORT,8c2215ab08bf,4,Waiting on reimbursement
+2025-08-06,CS-SUPPORT,43f3618fdbad,3,Too many alerts this sprint
+2025-08-06,CS-SUPPORT,f86dad4f99d0,3,Need career path clarity
+2025-08-06,CS-SUPPORT,0cd6d1f6eb44,4,Workload spiking near deadlines
+2025-08-06,CS-SUPPORT,9ce55b01d9e6,5,Too many alerts this sprint
+2025-08-06,CS-SUPPORT,ebf98a19cb32,3,Payroll cutoff confusion
+2025-08-06,CS-SUPPORT,b1fd761c9bfc,4,Payroll cutoff confusion
+2025-08-07,ENG-PLATFORM,2b21ea99c2cb,4,Waiting on reimbursement
+2025-08-07,ENG-PLATFORM,4e6710db3210,4,Waiting on reimbursement
+2025-08-07,ENG-PLATFORM,c9213eae3dbc,5,Too many alerts this sprint
+2025-08-07,ENG-PLATFORM,24bf71145948,5,Culture improving
+2025-08-07,ENG-PLATFORM,f86dad4f99d0,4,Manager support is decent
+2025-08-07,ENG-PLATFORM,6f323a85838a,4,Need career path clarity
+2025-08-07,ENG-PLATFORM,c2b2121c35da,2,Workload spiking near deadlines
+2025-08-07,RISK-OPS,631819e57e4c,4,Need career path clarity
+2025-08-07,RISK-OPS,e71591f90e53,2,Manager support is decent
+2025-08-07,RISK-OPS,a69f8dbf16c0,3,Workload spiking near deadlines
+2025-08-07,RISK-OPS,9ce55b01d9e6,4,Manager support is decent
+2025-08-07,RISK-OPS,594548490b12,3,Waiting on reimbursement
+2025-08-07,RISK-OPS,26dcde7c76cd,4,Workload spiking near deadlines
+2025-08-07,RISK-OPS,8c2215ab08bf,3,Need career path clarity
+2025-08-07,RISK-OPS,df83c83b6759,2,Need career path clarity
+2025-08-07,FIN-OPS,c5b54be832cb,4,Need career path clarity
+2025-08-07,FIN-OPS,0defd3f62cf1,4,Manager support is decent
+2025-08-07,FIN-OPS,9cfc4f786ecf,3,Too many alerts this sprint
+2025-08-07,FIN-OPS,79af63685d2c,3,Manager support is decent
+2025-08-07,FIN-OPS,d07953451aaf,4,Need career path clarity
+2025-08-07,FIN-OPS,397ec0744e99,3,Workload spiking near deadlines
+2025-08-07,FIN-OPS,50e3c551bb29,5,Workload spiking near deadlines
+2025-08-07,FIN-OPS,2f0472885eaa,4,Manager support is decent
+2025-08-07,CS-SUPPORT,2f6e56a45050,5,Good learning last week
+2025-08-07,CS-SUPPORT,fe3dcaec9a4a,3,Need career path clarity
+2025-08-07,CS-SUPPORT,63d4352f9a2b,2,Waiting on reimbursement
+2025-08-07,CS-SUPPORT,9cfc4f786ecf,5,Too many alerts this sprint
+2025-08-07,CS-SUPPORT,813efa59f985,4,Need career path clarity
+2025-08-08,ENG-PLATFORM,c9b13c274f47,3,Need career path clarity
+2025-08-08,ENG-PLATFORM,661e62e71408,3,Need career path clarity
+2025-08-08,ENG-PLATFORM,dacbf99a38e0,4,Payroll cutoff confusion
+2025-08-08,ENG-PLATFORM,a69f8dbf16c0,3,Payroll cutoff confusion
+2025-08-08,ENG-PLATFORM,397ec0744e99,3,Culture improving
+2025-08-08,ENG-PLATFORM,4e39552e8ba3,5,Need career path clarity
+2025-08-08,ENG-PLATFORM,261065c7e8c2,3,Manager support is decent
+2025-08-08,ENG-PLATFORM,62c15799ac06,3,Payroll cutoff confusion
+2025-08-08,ENG-PLATFORM,5b6b72764a79,5,Waiting on reimbursement
+2025-08-08,ENG-PLATFORM,748bdcbbdc1c,3,Need career path clarity
+2025-08-08,RISK-OPS,c5b54be832cb,4,Workload spiking near deadlines
+2025-08-08,RISK-OPS,51aee1c13e89,3,Workload spiking near deadlines
+2025-08-08,RISK-OPS,c5b54be832cb,2,Waiting on reimbursement
+2025-08-08,RISK-OPS,81b4eac32d7a,4,Need career path clarity
+2025-08-08,RISK-OPS,594548490b12,2,Too many alerts this sprint
+2025-08-08,RISK-OPS,2b21ea99c2cb,3,Manager support is decent
+2025-08-08,RISK-OPS,b1fd761c9bfc,2,Need career path clarity
+2025-08-08,RISK-OPS,6b67e9d9008f,3,Too many alerts this sprint
+2025-08-08,RISK-OPS,c9202ac25327,4,Workload spiking near deadlines
+2025-08-08,RISK-OPS,4e39552e8ba3,2,Payroll cutoff confusion
+2025-08-08,FIN-OPS,a2bcde3c7acd,3,Too many alerts this sprint
+2025-08-08,FIN-OPS,2086812e1e39,2,Good learning last week
+2025-08-08,FIN-OPS,c9b13c274f47,3,Workload spiking near deadlines
+2025-08-08,FIN-OPS,63d4352f9a2b,3,Workload spiking near deadlines
+2025-08-08,FIN-OPS,51aee1c13e89,2,Too many alerts this sprint
+2025-08-08,FIN-OPS,4e39552e8ba3,4,Culture improving
+2025-08-08,FIN-OPS,64223f098aad,4,Need career path clarity
+2025-08-08,FIN-OPS,20eae3948e94,3,Workload spiking near deadlines
+2025-08-08,FIN-OPS,261065c7e8c2,5,Manager support is decent
+2025-08-08,FIN-OPS,d5d2de92b85b,2,Too many alerts this sprint
+2025-08-08,FIN-OPS,f90b99b25650,4,Culture improving
+2025-08-08,FIN-OPS,0defd3f62cf1,3,Good learning last week
+2025-08-08,CS-SUPPORT,1f903ca452ec,4,Workload spiking near deadlines
+2025-08-08,CS-SUPPORT,813efa59f985,3,Need career path clarity
+2025-08-08,CS-SUPPORT,118ef7411dbd,2,Manager support is decent
+2025-08-08,CS-SUPPORT,118ef7411dbd,3,Culture improving
+2025-08-08,CS-SUPPORT,d048f004ae50,4,Too many alerts this sprint
+2025-08-08,CS-SUPPORT,9ce55b01d9e6,4,Too many alerts this sprint
+2025-08-08,CS-SUPPORT,fe3dcaec9a4a,4,Need career path clarity
+2025-08-08,CS-SUPPORT,ba0d2fb77d37,4,Good learning last week
+2025-08-09,ENG-PLATFORM,4e39552e8ba3,4,Payroll cutoff confusion
+2025-08-09,ENG-PLATFORM,8c2215ab08bf,4,Workload spiking near deadlines
+2025-08-09,ENG-PLATFORM,79af63685d2c,2,Too many alerts this sprint
+2025-08-09,ENG-PLATFORM,74e050844ced,4,Good learning last week
+2025-08-09,ENG-PLATFORM,41a64d7e9787,5,Good learning last week
+2025-08-09,ENG-PLATFORM,c5b54be832cb,3,Need career path clarity
+2025-08-09,ENG-PLATFORM,1c771609495b,4,Workload spiking near deadlines
+2025-08-09,ENG-PLATFORM,796b367c6c03,3,Good learning last week
+2025-08-09,ENG-PLATFORM,d07953451aaf,2,Need career path clarity
+2025-08-09,ENG-PLATFORM,41a64d7e9787,5,Culture improving
+2025-08-09,RISK-OPS,dacbf99a38e0,2,Payroll cutoff confusion
+2025-08-09,RISK-OPS,2b07266ee11b,3,Good learning last week
+2025-08-09,RISK-OPS,8c2215ab08bf,4,Too many alerts this sprint
+2025-08-09,RISK-OPS,1d8dcb5ae205,2,Payroll cutoff confusion
+2025-08-09,RISK-OPS,261065c7e8c2,2,Good learning last week
+2025-08-09,RISK-OPS,261065c7e8c2,2,Too many alerts this sprint
+2025-08-09,FIN-OPS,6f323a85838a,3,Good learning last week
+2025-08-09,FIN-OPS,730a5bbebc37,4,Culture improving
+2025-08-09,FIN-OPS,cd4dd1beb52b,2,Manager support is decent
+2025-08-09,FIN-OPS,d5d2de92b85b,2,Payroll cutoff confusion
+2025-08-09,FIN-OPS,c9b13c274f47,2,Workload spiking near deadlines
+2025-08-09,FIN-OPS,1c3cb3049c90,4,Culture improving
+2025-08-09,FIN-OPS,c9213eae3dbc,3,Payroll cutoff confusion
+2025-08-09,FIN-OPS,8c2215ab08bf,4,Too many alerts this sprint
+2025-08-09,CS-SUPPORT,1d8dcb5ae205,4,Too many alerts this sprint
+2025-08-09,CS-SUPPORT,48e277f16eab,3,Waiting on reimbursement
+2025-08-09,CS-SUPPORT,fe2a70fdf392,4,Need career path clarity
+2025-08-09,CS-SUPPORT,79af63685d2c,4,Workload spiking near deadlines
+2025-08-09,CS-SUPPORT,118ef7411dbd,3,Need career path clarity
+2025-08-09,CS-SUPPORT,9069c6c5c535,5,Waiting on reimbursement
+2025-08-09,CS-SUPPORT,1f903ca452ec,2,Payroll cutoff confusion
+2025-08-09,CS-SUPPORT,2b07266ee11b,5,Workload spiking near deadlines
+2025-08-09,CS-SUPPORT,a2bcde3c7acd,5,Good learning last week
+2025-08-09,CS-SUPPORT,2f6e56a45050,4,Manager support is decent
+2025-08-09,CS-SUPPORT,3e500fa1f2aa,3,Too many alerts this sprint
+2025-08-09,CS-SUPPORT,1d8dcb5ae205,4,Too many alerts this sprint
+2025-08-10,ENG-PLATFORM,e505b4d1a379,4,Culture improving
+2025-08-10,ENG-PLATFORM,63d4352f9a2b,3,Payroll cutoff confusion
+2025-08-10,ENG-PLATFORM,9cfc4f786ecf,3,Need career path clarity
+2025-08-10,ENG-PLATFORM,796b367c6c03,3,Culture improving
+2025-08-10,ENG-PLATFORM,ba353c5af803,4,Too many alerts this sprint
+2025-08-10,ENG-PLATFORM,b5b3cd7d192c,3,Waiting on reimbursement
+2025-08-10,ENG-PLATFORM,2f0472885eaa,5,Good learning last week
+2025-08-10,ENG-PLATFORM,063b54898bc9,2,Too many alerts this sprint
+2025-08-10,RISK-OPS,51a8a8a6b734,3,Need career path clarity
+2025-08-10,RISK-OPS,bbcdb08ce147,2,Waiting on reimbursement
+2025-08-10,RISK-OPS,81b4eac32d7a,2,Waiting on reimbursement
+2025-08-10,RISK-OPS,e0b3852f9439,3,Waiting on reimbursement
+2025-08-10,RISK-OPS,8c2215ab08bf,4,Culture improving
+2025-08-10,RISK-OPS,5b6b72764a79,3,Too many alerts this sprint
+2025-08-10,RISK-OPS,397ec0744e99,4,Workload spiking near deadlines
+2025-08-10,RISK-OPS,48e277f16eab,2,Waiting on reimbursement
+2025-08-10,FIN-OPS,843425aeec78,3,Payroll cutoff confusion
+2025-08-10,FIN-OPS,730a5bbebc37,5,Manager support is decent
+2025-08-10,FIN-OPS,b5b3cd7d192c,5,Culture improving
+2025-08-10,FIN-OPS,813efa59f985,3,Culture improving
+2025-08-10,FIN-OPS,51a8a8a6b734,4,Too many alerts this sprint
+2025-08-10,CS-SUPPORT,932f9ef8af99,4,Manager support is decent
+2025-08-10,CS-SUPPORT,0defd3f62cf1,5,Good learning last week
+2025-08-10,CS-SUPPORT,2f0472885eaa,4,Waiting on reimbursement
+2025-08-10,CS-SUPPORT,4e39552e8ba3,3,Culture improving
+2025-08-10,CS-SUPPORT,3e500fa1f2aa,5,Payroll cutoff confusion
+2025-08-10,CS-SUPPORT,4e39552e8ba3,5,Payroll cutoff confusion
+2025-08-10,CS-SUPPORT,f1089229977a,2,Need career path clarity
+2025-08-10,CS-SUPPORT,c9b13c274f47,3,Payroll cutoff confusion
+2025-08-10,CS-SUPPORT,19b347aa0cd3,3,Waiting on reimbursement
+2025-08-10,CS-SUPPORT,3c072731233c,3,Need career path clarity
+2025-08-11,ENG-PLATFORM,1c3cb3049c90,2,Manager support is decent
+2025-08-11,ENG-PLATFORM,51aee1c13e89,3,Good learning last week
+2025-08-11,ENG-PLATFORM,2b07266ee11b,3,Too many alerts this sprint
+2025-08-11,ENG-PLATFORM,50e3c551bb29,3,Need career path clarity
+2025-08-11,ENG-PLATFORM,e505b4d1a379,4,Culture improving
+2025-08-11,ENG-PLATFORM,62c15799ac06,4,Payroll cutoff confusion
+2025-08-11,ENG-PLATFORM,9f77826ebed3,3,Waiting on reimbursement
+2025-08-11,ENG-PLATFORM,ba353c5af803,2,Waiting on reimbursement
+2025-08-11,ENG-PLATFORM,35f8c8fe812a,3,Too many alerts this sprint
+2025-08-11,ENG-PLATFORM,62c15799ac06,5,Manager support is decent
+2025-08-11,ENG-PLATFORM,a6acc0407327,3,Need career path clarity
+2025-08-11,RISK-OPS,748bdcbbdc1c,2,Payroll cutoff confusion
+2025-08-11,RISK-OPS,dacbf99a38e0,2,Workload spiking near deadlines
+2025-08-11,RISK-OPS,342f2d338a38,3,Manager support is decent
+2025-08-11,RISK-OPS,d4bddd8e65f9,3,Waiting on reimbursement
+2025-08-11,RISK-OPS,ebf98a19cb32,3,Too many alerts this sprint
+2025-08-11,RISK-OPS,6f323a85838a,2,Too many alerts this sprint
+2025-08-11,FIN-OPS,19b347aa0cd3,3,Waiting on reimbursement
+2025-08-11,FIN-OPS,874fefaa4a1c,3,Workload spiking near deadlines
+2025-08-11,FIN-OPS,4d781f77977b,5,Culture improving
+2025-08-11,FIN-OPS,9069c6c5c535,3,Payroll cutoff confusion
+2025-08-11,FIN-OPS,788047dafc58,4,Too many alerts this sprint
+2025-08-11,FIN-OPS,dacbf99a38e0,4,Waiting on reimbursement
+2025-08-11,FIN-OPS,796b367c6c03,4,Waiting on reimbursement
+2025-08-11,FIN-OPS,20eae3948e94,4,Payroll cutoff confusion
+2025-08-11,FIN-OPS,19b347aa0cd3,5,Need career path clarity
+2025-08-11,FIN-OPS,874fefaa4a1c,5,Too many alerts this sprint
+2025-08-11,FIN-OPS,192db8c7278c,3,Payroll cutoff confusion
+2025-08-11,FIN-OPS,da7d4bb97c8d,3,Manager support is decent
+2025-08-11,CS-SUPPORT,4697a4eb35b0,3,Need career path clarity
+2025-08-11,CS-SUPPORT,813efa59f985,3,Too many alerts this sprint
+2025-08-11,CS-SUPPORT,a2bcde3c7acd,2,Waiting on reimbursement
+2025-08-11,CS-SUPPORT,0defd3f62cf1,3,Payroll cutoff confusion
+2025-08-11,CS-SUPPORT,f905c3dc0105,2,Payroll cutoff confusion
+2025-08-11,CS-SUPPORT,661e62e71408,4,Too many alerts this sprint
+2025-08-11,CS-SUPPORT,a2bcde3c7acd,4,Too many alerts this sprint
+2025-08-11,CS-SUPPORT,0cd6d1f6eb44,3,Workload spiking near deadlines
+2025-08-11,CS-SUPPORT,dacbf99a38e0,3,Good learning last week
+2025-08-11,CS-SUPPORT,9f77826ebed3,4,Need career path clarity
+2025-08-11,CS-SUPPORT,48e277f16eab,3,Waiting on reimbursement
+2025-08-11,CS-SUPPORT,c9202ac25327,5,Need career path clarity
+2025-08-12,ENG-PLATFORM,2b21ea99c2cb,3,Manager support is decent
+2025-08-12,ENG-PLATFORM,9cfc4f786ecf,5,Good learning last week
+2025-08-12,ENG-PLATFORM,631819e57e4c,4,Too many alerts this sprint
+2025-08-12,ENG-PLATFORM,d07953451aaf,5,Too many alerts this sprint
+2025-08-12,ENG-PLATFORM,9f77826ebed3,3,Manager support is decent
+2025-08-12,ENG-PLATFORM,1d8dcb5ae205,3,Too many alerts this sprint
+2025-08-12,ENG-PLATFORM,d048f004ae50,5,Payroll cutoff confusion
+2025-08-12,ENG-PLATFORM,c9213eae3dbc,4,Too many alerts this sprint
+2025-08-12,ENG-PLATFORM,796b367c6c03,4,Payroll cutoff confusion
+2025-08-12,ENG-PLATFORM,2086812e1e39,3,Workload spiking near deadlines
+2025-08-12,ENG-PLATFORM,cd4dd1beb52b,2,Workload spiking near deadlines
+2025-08-12,RISK-OPS,d4bddd8e65f9,3,Too many alerts this sprint
+2025-08-12,RISK-OPS,c2b2121c35da,3,Workload spiking near deadlines
+2025-08-12,RISK-OPS,6f323a85838a,2,Waiting on reimbursement
+2025-08-12,RISK-OPS,a2bcde3c7acd,3,Good learning last week
+2025-08-12,RISK-OPS,397f3205e12f,3,Too many alerts this sprint
+2025-08-12,RISK-OPS,5b6b72764a79,3,Culture improving
+2025-08-12,RISK-OPS,788047dafc58,2,Culture improving
+2025-08-12,FIN-OPS,730a5bbebc37,3,Workload spiking near deadlines
+2025-08-12,FIN-OPS,e505b4d1a379,4,Manager support is decent
+2025-08-12,FIN-OPS,da7d4bb97c8d,4,Waiting on reimbursement
+2025-08-12,FIN-OPS,2086812e1e39,3,Need career path clarity
+2025-08-12,FIN-OPS,ae3fc8dad4c6,2,Manager support is decent
+2025-08-12,FIN-OPS,342f2d338a38,5,Good learning last week
+2025-08-12,CS-SUPPORT,342f2d338a38,4,Good learning last week
+2025-08-12,CS-SUPPORT,261065c7e8c2,2,Good learning last week
+2025-08-12,CS-SUPPORT,1f903ca452ec,5,Manager support is decent
+2025-08-12,CS-SUPPORT,631819e57e4c,5,Good learning last week
+2025-08-12,CS-SUPPORT,81b4eac32d7a,4,Too many alerts this sprint
+2025-08-12,CS-SUPPORT,6b67e9d9008f,3,Waiting on reimbursement
+2025-08-12,CS-SUPPORT,19b347aa0cd3,5,Workload spiking near deadlines
+2025-08-12,CS-SUPPORT,62c15799ac06,4,Manager support is decent
+2025-08-12,CS-SUPPORT,397ec0744e99,4,Too many alerts this sprint
+2025-08-12,CS-SUPPORT,bbcdb08ce147,3,Workload spiking near deadlines
+2025-08-12,CS-SUPPORT,9069c6c5c535,5,Good learning last week
+2025-08-13,ENG-PLATFORM,431c4fe44efd,5,Need career path clarity
+2025-08-13,ENG-PLATFORM,3e500fa1f2aa,2,Waiting on reimbursement
+2025-08-13,ENG-PLATFORM,4e6710db3210,3,Manager support is decent
+2025-08-13,ENG-PLATFORM,48e277f16eab,3,Workload spiking near deadlines
+2025-08-13,ENG-PLATFORM,12c12b2693f2,4,Payroll cutoff confusion
+2025-08-13,ENG-PLATFORM,fe3dcaec9a4a,4,Waiting on reimbursement
+2025-08-13,RISK-OPS,342f2d338a38,2,Good learning last week
+2025-08-13,RISK-OPS,51aee1c13e89,3,Manager support is decent
+2025-08-13,RISK-OPS,76e54f039797,4,Culture improving
+2025-08-13,RISK-OPS,6b67e9d9008f,2,Workload spiking near deadlines
+2025-08-13,RISK-OPS,1c771609495b,2,Manager support is decent
+2025-08-13,RISK-OPS,c2b2121c35da,3,Good learning last week
+2025-08-13,RISK-OPS,2b07266ee11b,4,Culture improving
+2025-08-13,RISK-OPS,65eb7ae11d36,3,Good learning last week
+2025-08-13,RISK-OPS,932f9ef8af99,3,Culture improving
+2025-08-13,RISK-OPS,f90b99b25650,2,Too many alerts this sprint
+2025-08-13,FIN-OPS,c82684ec8b83,5,Payroll cutoff confusion
+2025-08-13,FIN-OPS,51a8a8a6b734,3,Payroll cutoff confusion
+2025-08-13,FIN-OPS,2086812e1e39,4,Waiting on reimbursement
+2025-08-13,FIN-OPS,da7d4bb97c8d,3,Culture improving
+2025-08-13,FIN-OPS,35f8c8fe812a,4,Too many alerts this sprint
+2025-08-13,CS-SUPPORT,74e050844ced,4,Waiting on reimbursement
+2025-08-13,CS-SUPPORT,b5b3cd7d192c,3,Too many alerts this sprint
+2025-08-13,CS-SUPPORT,da7d4bb97c8d,3,Payroll cutoff confusion
+2025-08-13,CS-SUPPORT,254e5d281a69,5,Need career path clarity
+2025-08-13,CS-SUPPORT,35f8c8fe812a,3,Workload spiking near deadlines
+2025-08-13,CS-SUPPORT,c9213eae3dbc,3,Good learning last week
+2025-08-13,CS-SUPPORT,3e500fa1f2aa,5,Manager support is decent
+2025-08-14,ENG-PLATFORM,2086812e1e39,4,Payroll cutoff confusion
+2025-08-14,ENG-PLATFORM,342f2d338a38,4,Waiting on reimbursement
+2025-08-14,ENG-PLATFORM,c9b13c274f47,3,Culture improving
+2025-08-14,ENG-PLATFORM,9f77826ebed3,5,Culture improving
+2025-08-14,ENG-PLATFORM,d048f004ae50,2,Manager support is decent
+2025-08-14,ENG-PLATFORM,12c12b2693f2,3,Waiting on reimbursement
+2025-08-14,ENG-PLATFORM,a5412d220b3e,2,Good learning last week
+2025-08-14,ENG-PLATFORM,d4bddd8e65f9,4,Good learning last week
+2025-08-14,ENG-PLATFORM,748bdcbbdc1c,2,Need career path clarity
+2025-08-14,ENG-PLATFORM,67edb7a8e8fe,4,Too many alerts this sprint
+2025-08-14,ENG-PLATFORM,fe2a70fdf392,3,Good learning last week
+2025-08-14,RISK-OPS,a2bcde3c7acd,2,Payroll cutoff confusion
+2025-08-14,RISK-OPS,f86dad4f99d0,2,Payroll cutoff confusion
+2025-08-14,RISK-OPS,c5b54be832cb,2,Culture improving
+2025-08-14,RISK-OPS,51a8a8a6b734,3,Culture improving
+2025-08-14,RISK-OPS,4e6710db3210,2,Too many alerts this sprint
+2025-08-14,RISK-OPS,874fefaa4a1c,2,Manager support is decent
+2025-08-14,FIN-OPS,1acf7e8fda5e,3,Manager support is decent
+2025-08-14,FIN-OPS,748bdcbbdc1c,5,Good learning last week
+2025-08-14,FIN-OPS,f905c3dc0105,4,Good learning last week
+2025-08-14,FIN-OPS,2086812e1e39,4,Good learning last week
+2025-08-14,FIN-OPS,ba0d2fb77d37,5,Waiting on reimbursement
+2025-08-14,FIN-OPS,51a8a8a6b734,5,Need career path clarity
+2025-08-14,FIN-OPS,62c15799ac06,2,Culture improving
+2025-08-14,FIN-OPS,41a64d7e9787,4,Need career path clarity
+2025-08-14,FIN-OPS,f1089229977a,2,Waiting on reimbursement
+2025-08-14,CS-SUPPORT,dacbf99a38e0,4,Culture improving
+2025-08-14,CS-SUPPORT,67edb7a8e8fe,3,Payroll cutoff confusion
+2025-08-14,CS-SUPPORT,6b67e9d9008f,3,Culture improving
+2025-08-14,CS-SUPPORT,dacbf99a38e0,3,Culture improving
+2025-08-14,CS-SUPPORT,9f77826ebed3,5,Need career path clarity
+2025-08-14,CS-SUPPORT,e71591f90e53,5,Culture improving
+2025-08-14,CS-SUPPORT,b1fd761c9bfc,3,Good learning last week
+2025-08-15,ENG-PLATFORM,342f2d338a38,4,Too many alerts this sprint
+2025-08-15,ENG-PLATFORM,63d4352f9a2b,4,Payroll cutoff confusion
+2025-08-15,ENG-PLATFORM,48e277f16eab,2,Workload spiking near deadlines
+2025-08-15,ENG-PLATFORM,d07953451aaf,4,Workload spiking near deadlines
+2025-08-15,ENG-PLATFORM,631819e57e4c,3,Too many alerts this sprint
+2025-08-15,ENG-PLATFORM,254e5d281a69,3,Good learning last week
+2025-08-15,ENG-PLATFORM,843425aeec78,3,Workload spiking near deadlines
+2025-08-15,ENG-PLATFORM,342f2d338a38,5,Too many alerts this sprint
+2025-08-15,ENG-PLATFORM,d5d2de92b85b,4,Waiting on reimbursement
+2025-08-15,ENG-PLATFORM,748bdcbbdc1c,2,Payroll cutoff confusion
+2025-08-15,ENG-PLATFORM,1c771609495b,3,Waiting on reimbursement
+2025-08-15,RISK-OPS,63d4352f9a2b,4,Good learning last week
+2025-08-15,RISK-OPS,6f323a85838a,3,Too many alerts this sprint
+2025-08-15,RISK-OPS,594548490b12,4,Need career path clarity
+2025-08-15,RISK-OPS,ba0d2fb77d37,2,Manager support is decent
+2025-08-15,RISK-OPS,f90b99b25650,3,Payroll cutoff confusion
+2025-08-15,RISK-OPS,a69f8dbf16c0,3,Manager support is decent
+2025-08-15,RISK-OPS,0cd6d1f6eb44,3,Workload spiking near deadlines
+2025-08-15,RISK-OPS,35f8c8fe812a,4,Need career path clarity
+2025-08-15,RISK-OPS,ebf98a19cb32,2,Culture improving
+2025-08-15,FIN-OPS,9ce55b01d9e6,4,Need career path clarity
+2025-08-15,FIN-OPS,6b67e9d9008f,2,Good learning last week
+2025-08-15,FIN-OPS,62c15799ac06,5,Workload spiking near deadlines
+2025-08-15,FIN-OPS,3c072731233c,5,Need career path clarity
+2025-08-15,FIN-OPS,fe2a70fdf392,3,Workload spiking near deadlines
+2025-08-15,FIN-OPS,2b07266ee11b,4,Waiting on reimbursement
+2025-08-15,FIN-OPS,3e500fa1f2aa,4,Good learning last week
+2025-08-15,FIN-OPS,cd4dd1beb52b,2,Need career path clarity
+2025-08-15,FIN-OPS,b5b3cd7d192c,4,Manager support is decent
+2025-08-15,FIN-OPS,2b21ea99c2cb,4,Too many alerts this sprint
+2025-08-15,CS-SUPPORT,b99e1c243540,3,Culture improving
+2025-08-15,CS-SUPPORT,ebf98a19cb32,4,Workload spiking near deadlines
+2025-08-15,CS-SUPPORT,dacbf99a38e0,4,Too many alerts this sprint
+2025-08-15,CS-SUPPORT,ebf98a19cb32,4,Need career path clarity
+2025-08-15,CS-SUPPORT,4e39552e8ba3,5,Waiting on reimbursement
+2025-08-15,CS-SUPPORT,c441c44213ed,3,Payroll cutoff confusion
+2025-08-15,CS-SUPPORT,51a8a8a6b734,3,Payroll cutoff confusion
+2025-08-15,CS-SUPPORT,48e277f16eab,5,Good learning last week
+2025-08-15,CS-SUPPORT,51a8a8a6b734,4,Good learning last week
+2025-08-15,CS-SUPPORT,cab95421fd1d,2,Too many alerts this sprint
+2025-08-15,CS-SUPPORT,4e39552e8ba3,4,Culture improving
+2025-08-16,ENG-PLATFORM,d048f004ae50,5,Need career path clarity
+2025-08-16,ENG-PLATFORM,9cfc4f786ecf,3,Culture improving
+2025-08-16,ENG-PLATFORM,2086812e1e39,3,Culture improving
+2025-08-16,ENG-PLATFORM,0cd6d1f6eb44,5,Workload spiking near deadlines
+2025-08-16,ENG-PLATFORM,342f2d338a38,3,Waiting on reimbursement
+2025-08-16,ENG-PLATFORM,0defd3f62cf1,4,Payroll cutoff confusion
+2025-08-16,RISK-OPS,367e82d0c267,2,Good learning last week
+2025-08-16,RISK-OPS,bbcdb08ce147,3,Waiting on reimbursement
+2025-08-16,RISK-OPS,661e62e71408,2,Manager support is decent
+2025-08-16,RISK-OPS,261065c7e8c2,2,Good learning last week
+2025-08-16,RISK-OPS,c9213eae3dbc,2,Too many alerts this sprint
+2025-08-16,RISK-OPS,a2bcde3c7acd,3,Manager support is decent
+2025-08-16,RISK-OPS,4697a4eb35b0,3,Payroll cutoff confusion
+2025-08-16,FIN-OPS,b6e5a7ed9cea,3,Good learning last week
+2025-08-16,FIN-OPS,a6acc0407327,4,Too many alerts this sprint
+2025-08-16,FIN-OPS,dacbf99a38e0,4,Waiting on reimbursement
+2025-08-16,FIN-OPS,fe3dcaec9a4a,5,Workload spiking near deadlines
+2025-08-16,FIN-OPS,2f6e56a45050,4,Workload spiking near deadlines
+2025-08-16,CS-SUPPORT,24bf71145948,2,Too many alerts this sprint
+2025-08-16,CS-SUPPORT,bbcdb08ce147,5,Too many alerts this sprint
+2025-08-16,CS-SUPPORT,fe2a70fdf392,4,Workload spiking near deadlines
+2025-08-16,CS-SUPPORT,74e050844ced,4,Too many alerts this sprint
+2025-08-16,CS-SUPPORT,67edb7a8e8fe,5,Culture improving
+2025-08-16,CS-SUPPORT,9069c6c5c535,2,Workload spiking near deadlines
+2025-08-16,CS-SUPPORT,4a61d470416d,5,Need career path clarity
+2025-08-16,CS-SUPPORT,6f323a85838a,4,Manager support is decent
+2025-08-16,CS-SUPPORT,26dcde7c76cd,3,Payroll cutoff confusion
+2025-08-17,ENG-PLATFORM,1d8dcb5ae205,3,Payroll cutoff confusion
+2025-08-17,ENG-PLATFORM,51a8a8a6b734,5,Workload spiking near deadlines
+2025-08-17,ENG-PLATFORM,12c12b2693f2,3,Too many alerts this sprint
+2025-08-17,ENG-PLATFORM,b6e5a7ed9cea,4,Need career path clarity
+2025-08-17,ENG-PLATFORM,62c15799ac06,3,Workload spiking near deadlines
+2025-08-17,ENG-PLATFORM,0defd3f62cf1,5,Culture improving
+2025-08-17,RISK-OPS,19b347aa0cd3,3,Good learning last week
+2025-08-17,RISK-OPS,118ef7411dbd,3,Workload spiking near deadlines
+2025-08-17,RISK-OPS,19b347aa0cd3,3,Need career path clarity
+2025-08-17,RISK-OPS,f1089229977a,2,Too many alerts this sprint
+2025-08-17,RISK-OPS,2b21ea99c2cb,2,Culture improving
+2025-08-17,RISK-OPS,8c2215ab08bf,3,Waiting on reimbursement
+2025-08-17,RISK-OPS,594548490b12,3,Good learning last week
+2025-08-17,RISK-OPS,e0b3852f9439,2,Waiting on reimbursement
+2025-08-17,RISK-OPS,9cfc4f786ecf,3,Culture improving
+2025-08-17,RISK-OPS,b5b3cd7d192c,4,Waiting on reimbursement
+2025-08-17,FIN-OPS,cb0c50916267,3,Good learning last week
+2025-08-17,FIN-OPS,9069c6c5c535,3,Too many alerts this sprint
+2025-08-17,FIN-OPS,fe3dcaec9a4a,5,Waiting on reimbursement
+2025-08-17,FIN-OPS,a8c6a5afb514,3,Waiting on reimbursement
+2025-08-17,FIN-OPS,2b07266ee11b,2,Manager support is decent
+2025-08-17,FIN-OPS,1d8dcb5ae205,3,Waiting on reimbursement
+2025-08-17,FIN-OPS,35f8c8fe812a,2,Culture improving
+2025-08-17,FIN-OPS,9ce55b01d9e6,4,Need career path clarity
+2025-08-17,CS-SUPPORT,367e82d0c267,5,Too many alerts this sprint
+2025-08-17,CS-SUPPORT,cd4dd1beb52b,3,Manager support is decent
+2025-08-17,CS-SUPPORT,c2b2121c35da,3,Workload spiking near deadlines
+2025-08-17,CS-SUPPORT,c441c44213ed,4,Too many alerts this sprint
+2025-08-17,CS-SUPPORT,b1fd761c9bfc,4,Good learning last week
+2025-08-17,CS-SUPPORT,0cd6d1f6eb44,3,Good learning last week
+2025-08-17,CS-SUPPORT,76e54f039797,2,Culture improving
+2025-08-17,CS-SUPPORT,ebf98a19cb32,5,Payroll cutoff confusion
+2025-08-17,CS-SUPPORT,999a20965980,4,Payroll cutoff confusion
+2025-08-18,ENG-PLATFORM,1d8dcb5ae205,4,Payroll cutoff confusion
+2025-08-18,ENG-PLATFORM,81b4eac32d7a,3,Waiting on reimbursement
+2025-08-18,ENG-PLATFORM,2086812e1e39,3,Workload spiking near deadlines
+2025-08-18,ENG-PLATFORM,9f77826ebed3,2,Too many alerts this sprint
+2025-08-18,ENG-PLATFORM,9f77826ebed3,3,Good learning last week
+2025-08-18,ENG-PLATFORM,661e62e71408,3,Manager support is decent
+2025-08-18,ENG-PLATFORM,a69f8dbf16c0,4,Payroll cutoff confusion
+2025-08-18,ENG-PLATFORM,fe3dcaec9a4a,3,Payroll cutoff confusion
+2025-08-18,ENG-PLATFORM,f1089229977a,3,Need career path clarity
+2025-08-18,ENG-PLATFORM,7e3d8f1cdd95,2,Need career path clarity
+2025-08-18,RISK-OPS,48e277f16eab,4,Workload spiking near deadlines
+2025-08-18,RISK-OPS,631819e57e4c,2,Payroll cutoff confusion
+2025-08-18,RISK-OPS,1f903ca452ec,2,Good learning last week
+2025-08-18,RISK-OPS,631819e57e4c,4,Need career path clarity
+2025-08-18,RISK-OPS,261065c7e8c2,2,Need career path clarity
+2025-08-18,RISK-OPS,631819e57e4c,2,Good learning last week
+2025-08-18,RISK-OPS,4a61d470416d,3,Need career path clarity
+2025-08-18,RISK-OPS,f1089229977a,3,Too many alerts this sprint
+2025-08-18,RISK-OPS,788047dafc58,2,Need career path clarity
+2025-08-18,RISK-OPS,4a61d470416d,4,Workload spiking near deadlines
+2025-08-18,FIN-OPS,788047dafc58,5,Payroll cutoff confusion
+2025-08-18,FIN-OPS,594548490b12,5,Manager support is decent
+2025-08-18,FIN-OPS,1d8dcb5ae205,4,Waiting on reimbursement
+2025-08-18,FIN-OPS,48e277f16eab,4,Culture improving
+2025-08-18,FIN-OPS,b5b3cd7d192c,2,Waiting on reimbursement
+2025-08-18,FIN-OPS,1f903ca452ec,4,Good learning last week
+2025-08-18,FIN-OPS,9ce55b01d9e6,4,Manager support is decent
+2025-08-18,CS-SUPPORT,3e500fa1f2aa,5,Waiting on reimbursement
+2025-08-18,CS-SUPPORT,c9202ac25327,5,Manager support is decent
+2025-08-18,CS-SUPPORT,594548490b12,2,Payroll cutoff confusion
+2025-08-18,CS-SUPPORT,3c072731233c,3,Manager support is decent
+2025-08-18,CS-SUPPORT,874fefaa4a1c,5,Need career path clarity
+2025-08-18,CS-SUPPORT,35f8c8fe812a,4,Waiting on reimbursement
+2025-08-18,CS-SUPPORT,2f6e56a45050,4,Need career path clarity
+2025-08-18,CS-SUPPORT,12c12b2693f2,3,Culture improving
+2025-08-18,CS-SUPPORT,ba0d2fb77d37,5,Waiting on reimbursement
+2025-08-19,ENG-PLATFORM,a5412d220b3e,3,Waiting on reimbursement
+2025-08-19,ENG-PLATFORM,342f2d338a38,5,Workload spiking near deadlines
+2025-08-19,ENG-PLATFORM,e0b3852f9439,3,Too many alerts this sprint
+2025-08-19,ENG-PLATFORM,35f8c8fe812a,4,Too many alerts this sprint
+2025-08-19,ENG-PLATFORM,19b347aa0cd3,3,Manager support is decent
+2025-08-19,ENG-PLATFORM,26dcde7c76cd,3,Good learning last week
+2025-08-19,ENG-PLATFORM,254e5d281a69,4,Too many alerts this sprint
+2025-08-19,RISK-OPS,1f903ca452ec,3,Payroll cutoff confusion
+2025-08-19,RISK-OPS,da7d4bb97c8d,2,Payroll cutoff confusion
+2025-08-19,RISK-OPS,431c4fe44efd,2,Payroll cutoff confusion
+2025-08-19,RISK-OPS,1f903ca452ec,3,Payroll cutoff confusion
+2025-08-19,RISK-OPS,ebf98a19cb32,4,Workload spiking near deadlines
+2025-08-19,FIN-OPS,9ce55b01d9e6,4,Too many alerts this sprint
+2025-08-19,FIN-OPS,c9213eae3dbc,5,Good learning last week
+2025-08-19,FIN-OPS,fe2a70fdf392,3,Waiting on reimbursement
+2025-08-19,FIN-OPS,43f3618fdbad,5,Culture improving
+2025-08-19,FIN-OPS,4d781f77977b,3,Workload spiking near deadlines
+2025-08-19,FIN-OPS,64223f098aad,4,Too many alerts this sprint
+2025-08-19,FIN-OPS,b6e5a7ed9cea,2,Workload spiking near deadlines
+2025-08-19,FIN-OPS,d4bddd8e65f9,4,Waiting on reimbursement
+2025-08-19,CS-SUPPORT,41a64d7e9787,3,Waiting on reimbursement
+2025-08-19,CS-SUPPORT,1f903ca452ec,5,Culture improving
+2025-08-19,CS-SUPPORT,6b67e9d9008f,2,Manager support is decent
+2025-08-19,CS-SUPPORT,342f2d338a38,3,Culture improving
+2025-08-19,CS-SUPPORT,df83c83b6759,4,Manager support is decent
+2025-08-19,CS-SUPPORT,c441c44213ed,4,Manager support is decent
+2025-08-19,CS-SUPPORT,4a61d470416d,4,Waiting on reimbursement
+2025-08-20,ENG-PLATFORM,fe3dcaec9a4a,3,Culture improving
+2025-08-20,ENG-PLATFORM,874fefaa4a1c,4,Good learning last week
+2025-08-20,ENG-PLATFORM,796b367c6c03,3,Workload spiking near deadlines
+2025-08-20,ENG-PLATFORM,d4bddd8e65f9,4,Manager support is decent
+2025-08-20,ENG-PLATFORM,79af63685d2c,5,Too many alerts this sprint
+2025-08-20,ENG-PLATFORM,9cfc4f786ecf,4,Culture improving
+2025-08-20,RISK-OPS,874fefaa4a1c,4,Culture improving
+2025-08-20,RISK-OPS,f86dad4f99d0,2,Payroll cutoff confusion
+2025-08-20,RISK-OPS,631819e57e4c,3,Payroll cutoff confusion
+2025-08-20,RISK-OPS,65eb7ae11d36,2,Good learning last week
+2025-08-20,RISK-OPS,50e3c551bb29,3,Good learning last week
+2025-08-20,RISK-OPS,254e5d281a69,2,Workload spiking near deadlines
+2025-08-20,RISK-OPS,788047dafc58,2,Good learning last week
+2025-08-20,RISK-OPS,c5b54be832cb,4,Need career path clarity
+2025-08-20,RISK-OPS,9f77826ebed3,2,Culture improving
+2025-08-20,FIN-OPS,51a8a8a6b734,5,Good learning last week
+2025-08-20,FIN-OPS,a2bcde3c7acd,5,Good learning last week
+2025-08-20,FIN-OPS,fe3dcaec9a4a,3,Too many alerts this sprint
+2025-08-20,FIN-OPS,4e6710db3210,2,Too many alerts this sprint
+2025-08-20,FIN-OPS,29b97656e8ee,4,Culture improving
+2025-08-20,FIN-OPS,342f2d338a38,2,Manager support is decent
+2025-08-20,FIN-OPS,76e54f039797,3,Culture improving
+2025-08-20,FIN-OPS,48e277f16eab,5,Workload spiking near deadlines
+2025-08-20,FIN-OPS,ae3fc8dad4c6,3,Good learning last week
+2025-08-20,FIN-OPS,b6e5a7ed9cea,3,Payroll cutoff confusion
+2025-08-20,CS-SUPPORT,c5b54be832cb,2,Waiting on reimbursement
+2025-08-20,CS-SUPPORT,79af63685d2c,3,Payroll cutoff confusion
+2025-08-20,CS-SUPPORT,8c2215ab08bf,4,Culture improving
+2025-08-20,CS-SUPPORT,788047dafc58,4,Workload spiking near deadlines
+2025-08-20,CS-SUPPORT,ae3fc8dad4c6,4,Too many alerts this sprint
+2025-08-20,CS-SUPPORT,ba0d2fb77d37,5,Culture improving
+2025-08-20,CS-SUPPORT,51a8a8a6b734,4,Workload spiking near deadlines
+2025-08-20,CS-SUPPORT,a6acc0407327,4,Culture improving
+2025-08-20,CS-SUPPORT,c5b54be832cb,3,Manager support is decent
+2025-08-20,CS-SUPPORT,cd4dd1beb52b,3,Workload spiking near deadlines
+2025-08-20,CS-SUPPORT,397f3205e12f,4,Waiting on reimbursement
+2025-08-20,CS-SUPPORT,2f0472885eaa,4,Need career path clarity
+2025-08-21,ENG-PLATFORM,0cd6d1f6eb44,2,Too many alerts this sprint
+2025-08-21,ENG-PLATFORM,50e3c551bb29,3,Workload spiking near deadlines
+2025-08-21,ENG-PLATFORM,e505b4d1a379,4,Manager support is decent
+2025-08-21,ENG-PLATFORM,f65b751f5aea,3,Culture improving
+2025-08-21,ENG-PLATFORM,b5b3cd7d192c,3,Good learning last week
+2025-08-21,ENG-PLATFORM,874fefaa4a1c,3,Waiting on reimbursement
+2025-08-21,ENG-PLATFORM,d048f004ae50,3,Workload spiking near deadlines
+2025-08-21,RISK-OPS,192db8c7278c,2,Payroll cutoff confusion
+2025-08-21,RISK-OPS,118ef7411dbd,2,Payroll cutoff confusion
+2025-08-21,RISK-OPS,26dcde7c76cd,4,Waiting on reimbursement
+2025-08-21,RISK-OPS,2086812e1e39,3,Payroll cutoff confusion
+2025-08-21,RISK-OPS,35f8c8fe812a,4,Too many alerts this sprint
+2025-08-21,RISK-OPS,4e39552e8ba3,3,Waiting on reimbursement
+2025-08-21,RISK-OPS,342f2d338a38,2,Waiting on reimbursement
+2025-08-21,RISK-OPS,a6acc0407327,2,Payroll cutoff confusion
+2025-08-21,FIN-OPS,c9202ac25327,4,Manager support is decent
+2025-08-21,FIN-OPS,254e5d281a69,3,Workload spiking near deadlines
+2025-08-21,FIN-OPS,76e54f039797,4,Manager support is decent
+2025-08-21,FIN-OPS,b6e5a7ed9cea,4,Workload spiking near deadlines
+2025-08-21,FIN-OPS,d4bddd8e65f9,4,Too many alerts this sprint
+2025-08-21,FIN-OPS,932f9ef8af99,4,Too many alerts this sprint
+2025-08-21,FIN-OPS,3c072731233c,3,Culture improving
+2025-08-21,FIN-OPS,bbcdb08ce147,3,Too many alerts this sprint
+2025-08-21,FIN-OPS,5ae114878fe7,4,Culture improving
+2025-08-21,FIN-OPS,342f2d338a38,4,Manager support is decent
+2025-08-21,FIN-OPS,e505b4d1a379,3,Waiting on reimbursement
+2025-08-21,CS-SUPPORT,d048f004ae50,2,Manager support is decent
+2025-08-21,CS-SUPPORT,a6acc0407327,4,Culture improving
+2025-08-21,CS-SUPPORT,dacbf99a38e0,3,Too many alerts this sprint
+2025-08-21,CS-SUPPORT,b99e1c243540,5,Too many alerts this sprint
+2025-08-21,CS-SUPPORT,2f0472885eaa,3,Waiting on reimbursement
+2025-08-21,CS-SUPPORT,1acf7e8fda5e,3,Culture improving
+2025-08-21,CS-SUPPORT,da7d4bb97c8d,4,Workload spiking near deadlines
+2025-08-21,CS-SUPPORT,c2b2121c35da,2,Payroll cutoff confusion
+2025-08-21,CS-SUPPORT,26dcde7c76cd,5,Workload spiking near deadlines
+2025-08-22,ENG-PLATFORM,50567a292335,2,Manager support is decent
+2025-08-22,ENG-PLATFORM,9cfc4f786ecf,4,Waiting on reimbursement
+2025-08-22,ENG-PLATFORM,50e3c551bb29,4,Payroll cutoff confusion
+2025-08-22,ENG-PLATFORM,c9b13c274f47,3,Too many alerts this sprint
+2025-08-22,ENG-PLATFORM,b6e5a7ed9cea,3,Manager support is decent
+2025-08-22,ENG-PLATFORM,f86dad4f99d0,4,Waiting on reimbursement
+2025-08-22,RISK-OPS,063b54898bc9,3,Manager support is decent
+2025-08-22,RISK-OPS,1f903ca452ec,3,Payroll cutoff confusion
+2025-08-22,RISK-OPS,81b4eac32d7a,2,Good learning last week
+2025-08-22,RISK-OPS,b99e1c243540,4,Too many alerts this sprint
+2025-08-22,RISK-OPS,192db8c7278c,3,Need career path clarity
+2025-08-22,RISK-OPS,1d8dcb5ae205,3,Culture improving
+2025-08-22,FIN-OPS,c82684ec8b83,2,Manager support is decent
+2025-08-22,FIN-OPS,81b4eac32d7a,2,Culture improving
+2025-08-22,FIN-OPS,79af63685d2c,4,Waiting on reimbursement
+2025-08-22,FIN-OPS,d07953451aaf,3,Waiting on reimbursement
+2025-08-22,FIN-OPS,0b75213cac95,2,Need career path clarity
+2025-08-22,FIN-OPS,063b54898bc9,5,Manager support is decent
+2025-08-22,FIN-OPS,3e500fa1f2aa,4,Manager support is decent
+2025-08-22,FIN-OPS,4e6710db3210,3,Payroll cutoff confusion
+2025-08-22,FIN-OPS,7e3d8f1cdd95,4,Need career path clarity
+2025-08-22,FIN-OPS,431c4fe44efd,4,Good learning last week
+2025-08-22,FIN-OPS,dacbf99a38e0,3,Payroll cutoff confusion
+2025-08-22,FIN-OPS,50567a292335,2,Culture improving
+2025-08-22,CS-SUPPORT,063b54898bc9,5,Need career path clarity
+2025-08-22,CS-SUPPORT,5b6b72764a79,4,Culture improving
+2025-08-22,CS-SUPPORT,da7d4bb97c8d,5,Good learning last week
+2025-08-22,CS-SUPPORT,a69f8dbf16c0,5,Manager support is decent
+2025-08-22,CS-SUPPORT,261065c7e8c2,5,Payroll cutoff confusion
+2025-08-22,CS-SUPPORT,d048f004ae50,4,Payroll cutoff confusion
+2025-08-22,CS-SUPPORT,3e500fa1f2aa,4,Manager support is decent
+2025-08-22,CS-SUPPORT,e71591f90e53,4,Waiting on reimbursement

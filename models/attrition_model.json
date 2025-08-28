@@ -1,0 +1,14 @@
+{
+  "intercept": -2.05,
+  "features": {
+    "Pulse_Level_30_z": 0.85,
+    "Pulse_Trend_60": -0.4,
+    "Pulse_Vol_60": 0.22,
+    "Pulse_NegRate_30": 0.6,
+    "Last_promo_m": 0.35,
+    "Manager_change_6m": 0.28,
+    "Team_change_6m": 0.18,
+    "PTO_util_90d": -0.15,
+    "Tenure_m": -0.08
+  }
+}
