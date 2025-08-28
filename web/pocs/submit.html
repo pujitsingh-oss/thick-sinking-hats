@@ -1,0 +1,52 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Submit Pulse – Thick Sinking Hats</title>
+    <style>
+      body{font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;margin:24px;}
+      form{max-width:400px;margin:auto;display:flex;flex-direction:column;gap:12px;}
+      textarea,input,select,button{font-size:16px;padding:8px;border-radius:8px;border:1px solid #ccc;}
+      button{cursor:pointer}
+      .msg{margin-top:12px;}
+    </style>
+  </head>
+  <body>
+    <h2>Submit Pulse</h2>
+    <form onsubmit="return submitPulse(event)">
+      <label>Team
+        <select id="team">
+          <option>RISK-OPS</option>
+          <option>ENG-PLATFORM</option>
+          <option>FIN-OPS</option>
+          <option>CS-SUPPORT</option>
+        </select>
+      </label>
+      <label>Rating (1-5)
+        <input type="number" id="rating" min="1" max="5" required />
+      </label>
+      <label>Comment (optional)
+        <textarea id="comment"></textarea>
+      </label>
+      <button type="submit">Submit</button>
+      <div id="msg" class="msg"></div>
+    </form>
+    <script>
+      async function submitPulse(e){
+        e.preventDefault();
+        const team_id = document.getElementById('team').value;
+        const rating = Number(document.getElementById('rating').value);
+        const comment = document.getElementById('comment').value;
+        const res = await fetch('/.netlify/functions/pulse_submit',{
+          method:'POST',
+          headers:{'Content-Type':'application/json'},
+          body: JSON.stringify({team_id, rating_1to5:rating, comment_text:comment})
+        });
+        const d = await res.json();
+        document.getElementById('msg').innerText = 'Saved! ' + JSON.stringify(d.saved||{});
+        e.target.reset();
+      }
+    </script>
+  </body>
+</html>

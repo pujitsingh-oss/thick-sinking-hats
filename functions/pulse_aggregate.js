@@ -20,7 +20,9 @@ function parseCSV(text){
 }
 
 function loadPulses(){
-  const p = path.join(__dirname,'../data-samples/pulses.csv');
+  const tmp = '/tmp/pulses.csv';
+  const seed = path.join(__dirname,'../data-samples/pulses.csv');
+  const p = fs.existsSync(tmp) ? tmp : seed;
   const text = fs.readFileSync(p,'utf8');
   return parseCSV(text);
 }
