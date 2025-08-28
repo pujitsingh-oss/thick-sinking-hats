@@ -14,20 +14,18 @@ function toCSVRow(obj, cols){
   }).join(',') + '\n';
 }
 
-function ensureStorageFile(tmpPath, seedPath){
-  // If /tmp/pulses.csv doesn't exist, seed from data-samples/pulses.csv (read-only fallback)
-  if (!fs.existsSync(tmpPath)){
-    // Ensure directory exists
+function ensureStorageFile(tmpPath) {
+  if (!fs.existsSync(tmpPath)) {
     fs.mkdirSync(path.dirname(tmpPath), { recursive: true });
-    if (fs.existsSync(seedPath)){
-      // copy seed to tmp
-      fs.copyFileSync(seedPath, tmpPath);
+    const seed = path.join(process.cwd(), 'data-samples', 'pulses.csv');
+    if (fs.existsSync(seed)) {
+      fs.copyFileSync(seed, tmpPath);
     } else {
-      // create header if no seed
       fs.writeFileSync(tmpPath, 'timestamp,team_id,emp_hash,rating_1to5,comment_text\n');
     }
   }
 }
+
 
 exports.handler = async (event) => {
   if (event.httpMethod !== 'POST') {
