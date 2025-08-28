@@ -1,83 +1,158 @@
-\
+// functions/pulse_aggregate.js
+// Safe, ASCII-only aggregator. No external deps.
+
 const fs = require('fs');
 const path = require('path');
 
-function parseCSV(text){
-  const [header, ...lines] = text.trim().split(/\r?\n/);
-  const cols = header.split(',');
-  return lines.map(line => {
-    const parts = []; let cur = ''; let inQ=false;
-    for (let i=0;i<line.length;i++){
-      const c=line[i];
-      if(c==='\"'){ inQ=!inQ; continue; }
-      if(c===',' && !inQ){ parts.push(cur); cur=''; } else { cur+=c; }
+// Very small CSV parser that handles commas, quotes, and newlines inside quotes.
+function parseCSV(text) {
+  const rows = [];
+  let i = 0, field = '', row = [], inQuotes = false;
+  while (i < text.length) {
+    const c = text[i];
+    if (inQuotes) {
+      if (c === '"') {
+        if (text[i + 1] === '"') { field += '"'; i += 2; continue; } // escaped quote
+        inQuotes = false; i++; continue;
+      }
+      field += c; i++; continue;
+    } else {
+      if (c === '"') { inQuotes = true; i++; continue; }
+      if (c === ',') { row.push(field); field = ''; i++; continue; }
+      if (c === '\n' || c === '\r') {
+        // consume CRLF
+        if (c === '\r' && text[i + 1] === '\n') i++;
+        i++;
+        row.push(field); field = '';
+        if (row.length && !row.every(x => x === '')) rows.push(row);
+        row = [];
+        continue;
+      }
+      field += c; i++; continue;
     }
-    parts.push(cur);
+  }
+  // last field / row
+  row.push(field);
+  if (row.length && !row.every(x => x === '')) rows.push(row);
+
+  if (!rows.length) return [];
+  const headers = rows[0];
+  return rows.slice(1).map(r => {
     const obj = {};
-    cols.forEach((k,idx)=>obj[k]=parts[idx]);
+    for (let j = 0; j < headers.length; j++) obj[headers[j]] = r[j] || '';
     return obj;
   });
 }
 
-function loadPulses(){
+function loadPulses() {
+  // Prefer tmp (appended by pulse_submit). Fall back to seeded sample.
   const tmp = '/tmp/pulses.csv';
-  const seed = path.join(__dirname,'../data-samples/pulses.csv');
-  const p = fs.existsSync(tmp) ? tmp : seed;
-  const text = fs.readFileSync(p,'utf8');
+  const seed = path.join(__dirname, '../data-samples/pulses.csv');
+  const file = fs.existsSync(tmp) ? tmp : seed;
+  const text = fs.readFileSync(file, 'utf8');
   return parseCSV(text);
 }
 
-function tokenize(s){ return (s||'').toLowerCase().replace(/[^a-z0-9\s]/g,' ').split(/\s+/).filter(Boolean); }
+function tokenize(s) {
+  return String(s || '')
+    .toLowerCase()
+    .replace(/[^a-z0-9\s]/g, ' ')
+    .split(/\s+/)
+    .filter(Boolean);
+}
+
+function startDateFromDays(days) {
+  const ms = days * 24 * 60 * 60 * 1000;
+  return new Date(Date.now() - ms);
+}
+
+// Group ratings into simple 7-day buckets from the start date (no ISO-week math).
+function weeklyTrend(pulses, since) {
+  const weekMs = 7 * 24 * 60 * 60 * 1000;
+  const buckets = {};
+  for (const p of pulses) {
+    const t = new Date(p.timestamp).getTime();
+    const idx = Math.floor((t - since.getTime()) / weekMs);
+    if (idx < 0) continue;
+    (buckets[idx] = buckets[idx] || []).push(Number(p.rating_1to5) || 0);
+  }
+  const keys = Object.keys(buckets).map(k => Number(k)).sort((a, b) => a - b);
+  return keys.map(k => {
+    const arr = buckets[k];
+    const sum = arr.reduce((a, b) => a + b, 0);
+    return arr.length ? sum / arr.length : 0;
+  });
+}
 
 exports.handler = async (event) => {
-  const params = event.queryStringParameters || {};
-  const team_id = params.team_id || 'RISK-OPS';
-  const period = params.period || 'last_60d';
-  const days = Number((period.match(/last_(\d+)d/)||[])[1]||60);
-  const since = new Date(Date.now() - days*24*60*60*1000);
-  const pulses = loadPulses().filter(r => r.team_id===team_id && new Date(r.timestamp)>=since);
+  try {
+    const params = event.queryStringParameters || {};
+    const team_id = params.team_id || 'RISK-OPS';
+    const period = params.period || 'last_60d';
+    const days = Number((period.match(/last_(\d+)d/) || [])[1] || 60);
 
-  const ratings = pulses.map(r => Number(r.rating_1to5)||0);
-  const avg = ratings.reduce((a,b)=>a+b,0)/Math.max(1,ratings.length);
+    const since = startDateFromDays(days);
+    const pulsesAll = loadPulses();
 
-  // weekly trend
-  const byWeek = {};
-  pulses.forEach(r=>{
-    const d = new Date(r.timestamp);
-    const wk = `${d.getUTCFullYear()}-W${Math.ceil((d.getUTCDate() + (new Date(Date.UTC(d.getUTCFullYear(),0,1)).getUTCDay()+1))/7)}`;
-    byWeek[wk] = byWeek[wk] || [];
-    byWeek[wk].push(Number(r.rating_1to5)||0);
-  });
-  const weeks = Object.keys(byWeek).sort();
-  const trend_weekly = weeks.map(wk => {
-    const arr = byWeek[wk]; return arr.reduce((a,b)=>a+b,0)/arr.length;
-  });
+    const pulses = pulsesAll.filter(r => {
+      if (r.team_id !== team_id) return false;
+      const d = new Date(r.timestamp);
+      return !isNaN(d.getTime()) && d >= since;
+    });
 
-  // naive sentiment + topics
-  const negWords = ['late','toxic','confusion','confused','issue','problem','delay','overload','overtime','micromanage'];
-  const topicTerms = JSON.parse(fs.readFileSync(path.join(__dirname,'../models/topic_terms.json'),'utf8'));
-  let negCount=0;
-  const topicCounts = {};
-  pulses.forEach(r=>{
-    const toks = tokenize(r.comment_text);
-    if (toks.some(t => negWords.includes(t))) negCount++;
-    for(const [topic, terms] of Object.entries(topicTerms)){
-      if(terms.some(t => toks.includes(t))){
-        topicCounts[topic]=(topicCounts[topic]||0)+1;
+    const ratings = pulses.map(r => Number(r.rating_1to5) || 0);
+    const avg = ratings.length
+      ? Number((ratings.reduce((a, b) => a + b, 0) / ratings.length).toFixed(2))
+      : 0;
+
+    // Naive negative sentiment (lexicon)
+    const negWords = ['late', 'toxic', 'confusion', 'confused', 'issue', 'problem', 'delay', 'overload', 'overtime', 'micromanage', 'stress', 'stressed', 'broken'];
+    let negCount = 0;
+    for (const r of pulses) {
+      const toks = tokenize(r.comment_text);
+      if (toks.some(t => negWords.includes(t))) negCount++;
+    }
+    const neg_rate = ratings.length ? Number((negCount / ratings.length).toFixed(2)) : 0;
+
+    // Topic tagging (keyword share)
+    const topicTerms = JSON.parse(
+      fs.readFileSync(path.join(__dirname, '../models/topic_terms.json'), 'utf8')
+    );
+    const topicCounts = {};
+    for (const r of pulses) {
+      const toks = tokenize(r.comment_text);
+      for (const topic in topicTerms) {
+        const terms = topicTerms[topic];
+        if (terms.some(t => toks.includes(t))) {
+          topicCounts[topic] = (topicCounts[topic] || 0) + 1;
+        }
       }
     }
-  });
-  const total = Math.max(1, pulses.length);
-  const neg_rate = negCount/total;
-  const topics = Object.entries(topicCounts).sort((a,b)=>b[1]-a[1]).slice(0,5).map(([name,count])=>({name, share: count/total}));
+    const total = ratings.length || 1;
+    const topics = Object.entries(topicCounts)
+      .sort((a, b) => b[1] - a[1])
+      .slice(0, 5)
+      .map(([name, count]) => ({ name, share: Number((count / total).toFixed(2)) }));
 
-  const alerts = [];
-  if (neg_rate>0.3 && trend_weekly.length>1 && (trend_weekly.slice(-1)[0] < trend_weekly.slice(-2)[0])) {
-    alerts.push({type:'dip', severity:'high', reason:'2w downward + neg>30%'});
+    // Weekly trend bars
+    const trend_weekly = weeklyTrend(pulses, since);
+
+    // Simple alert
+    const alerts = [];
+    if (neg_rate > 0.3 && trend_weekly.length >= 2) {
+      const last = trend_weekly[trend_weekly.length - 1];
+      const prev = trend_weekly[trend_weekly.length - 2];
+      if (last < prev) alerts.push({ type: 'dip', severity: 'high', reason: '2w downward + neg>30%' });
+    }
+
+    return {
+      statusCode: 200,
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ avg, trend_weekly, neg_rate, topics, alerts })
+    };
+  } catch (e) {
+    // Surface useful info in logs
+    console.error('pulse_aggregate error:', e && e.stack ? e.stack : e);
+    return { statusCode: 500, body: JSON.stringify({ error: String(e) }) };
   }
-
-  return {
-    statusCode: 200,
-    body: JSON.stringify({ avg: Number(avg.toFixed(2)), trend_weekly, neg_rate: Number(neg_rate.toFixed(2)), topics, alerts })
-  };
 };
