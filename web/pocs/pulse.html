@@ -64,7 +64,7 @@
         if(res.ok){
           const data = await res.json();
           msg.className = 'success';
-          msg.textContent = 'Pulse submitted! Stored in '+data.stored+'. Refresh the dashboard to see updated trends.';
+          msg.textContent = 'Pulse submitted! Stored in ' + (data.stored || '/tmp/pulses.csv') + '. Refresh the dashboard.';
           document.getElementById('comment').value='';
         } else {
           const text = await res.text();
