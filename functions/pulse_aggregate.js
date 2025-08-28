@@ -45,13 +45,13 @@ function parseCSV(text) {
 }
 
 function loadPulses() {
-  // Prefer tmp (appended by pulse_submit). Fall back to seeded sample.
-  const tmp = '/tmp/pulses.csv';
-  const seed = path.join(__dirname, '../data-samples/pulses.csv');
+  const tmp = '/tmp/pulses.csv'; // ephemeral, written by pulse_submit
+  const seed = path.join(process.cwd(), 'data-samples', 'pulses.csv'); // absolute from repo root
   const file = fs.existsSync(tmp) ? tmp : seed;
   const text = fs.readFileSync(file, 'utf8');
   return parseCSV(text);
 }
+
 
 function tokenize(s) {
   return String(s || '')
